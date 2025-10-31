@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "HTML Modifier",
+  "version": "1.0",
+  "description": "Alters HTML/CSS of pages based on certain conditions.",
+  "permissions": ["scripting", "activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.clozemaster.com/*/*/collections/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
