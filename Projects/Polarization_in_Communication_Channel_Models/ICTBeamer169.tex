@@ -1,0 +1,291 @@
+\documentclass[10pt,aspectratio=169]{beamer}
+
+
+%--------------------------------------------------------------------------------------------------
+% Set language options and load ICT beamer template
+%    Set the directory of the template by \newcommand{\StyleDir}{<yourDir>}. <yourDir> can be a
+%    relative or absolute path and is necessary to find the images contained in the template.
+%--------------------------------------------------------------------------------------------------
+\newcommand{\SlideName}{Slide}
+\newcommand{\StyleDir}{sty/}
+\usepackage{tikz}
+\input{sty/ict_beamer169.tex}
+%\input{style/beamer_ict.tex}
+\usepackage{sty/ictcommands}
+\usepackage{sty/abbr}
+%\usepackage{import}
+\usepackage{pgfplots}
+
+\usepackage{verbatim}
+\usetikzlibrary{shapes, arrows,graphs}
+
+\graphicspath{{./pic/}}
+\newcommand{\minipagegraphwidth}{0.65\columnwidth}
+\newcommand{\graphwidth}{0.85\columnwidth}
+\newcommand{\minipagebulletwidth}{0.34\columnwidth}
+\DeclareMathOperator{\F}{\mathcal{F}}
+%\pgfplotsset{compat=1.5}
+%--------------------------------------------------------------------------------------------------
+% Pack four slides on one DIN A4 page
+%--------------------------------------------------------------------------------------------------
+% \makeHandout
+
+
+%--------------------------------------------------------------------------------------------------
+% Title settings, e.g. author, title, ... 
+%--------------------------------------------------------------------------------------------------
+\title{Polarization in Communication Channel Models}
+\subtitle{Comparison of SCM with cross-polarized and single-polarized antenna arrays utilizing Matlab simulation }
+\author[F.E.~Çorumluoğlu]{Fatih\,E.\,Çorumluoğlu}
+
+\date[09.02.2021]{Kiel, February 21$^{\textit{st}}$ , 2021}
+\institute {Kiel University} 
+            
+            
+%--------------------------------------------------------------------------------------------------
+% Environment for no vertical spacing of two plots
+%--------------------------------------------------------------------------------------------------
+%\newenvironment{pics}
+%{\par\raggedright % maybe \centering
+%	\setlength\tabcolsep{0pt}\renewcommand{\arraystretch}{0.1}%
+%	\begin{tabular}{*{10}c}}
+%	{\end{tabular}\par}
+
+\begin{document}
+	
+	\setcounter{tocdepth}{1}
+	\setbeamercovered{dynamic}
+	\frame[plain]{\titlepage      % titlepage without headline, footline and frametitle
+		\setcounter{framenumber}{0}}  % reset pagenumber (firstpage will be No. 1)
+	
+	% %--------------------------------------------------------------------------------------------------
+	% % Table of contents
+	% %--------------------------------------------------------------------------------------------------
+	% \section*{Content}
+	% % --- Give this slide the name 'contentframe' so it can be repeated later later on
+	% \begin{frame}<1>[label = contentframe]{Content}{\quad}
+	%   \setcounter{tocdepth}{1}
+	%   \tableofcontents
+	% \end{frame}
+	
+	%--------------------------------------------------------------------------------------------------
+	% Include sections
+	%--------------------------------------------------------------------------------------------------
+	
+	%================ New frame ================================
+	\begin{frame}
+		\frametitle{Outline}
+		\setcounter{tocdepth}{1}
+		\tableofcontents
+	\end{frame}
+	
+	\section{Introduction}
+	%================ New frame ================================
+	\begin{frame}
+		\frametitle{\insertsection}
+		\framesubtitle{\insertsubsection}
+		Basic descriptions
+        
+\begin{itemize}
+\item Communication channels
+\end{itemize}
+\begin{itemize}
+\item Communication channel models
+
+\end{itemize}
+	\end{frame}
+	\section{Communication Channel Models}
+	%================ New frame ================================
+	\begin{frame}
+		\frametitle{\insertsection}
+		\framesubtitle{\insertsubsection}
+		The 3 main communication channel model
+        
+\begin{enumerate}
+\item SCM (Spatial Channel Model)
+\item SCM-E (Spatial Channel Model Extended)
+\item WINNER and WINNER II
+\end{enumerate}
+	\end{frame}
+	
+	\section{Polarization}
+	%================ New frame ================================
+	
+	\begin{frame}
+		\frametitle{\insertsection}
+		\framesubtitle{\insertsubsection}
+	
+\begin{itemize}
+\item What it is
+\item Why it is important
+\item Where is it used
+\end{itemize}
+
+		
+	\end{frame}
+	
+    \section{Software Implementation}
+    \subsection{Objective}
+	%================ New frame ================================
+	\begin{frame}
+		\frametitle{\insertsection}
+		\framesubtitle{\insertsubsection}
+		Simulating a channel model to show and compare the effects of polarization 
+		\[\includegraphics[scale=0.47 ]{polar.png}\]
+	\end{frame}
+	
+	\subsection{Choosing the right properties}
+	%================ New frame ================================
+	\begin{frame}
+		\frametitle{\insertsection}
+		\framesubtitle{\insertsubsection}
+\begin{itemize}
+\item Channel Model
+\item Environment
+\end{itemize}
+	\end{frame}
+	\subsection{Initialization}
+	%================ New frame ================================
+	\begin{frame}
+		\frametitle{\insertsection}
+		\framesubtitle{\insertsubsection}
+	  Setting the initial parameters
+	  \[\includegraphics[scale=0.42 ]{tablo.png}\]
+	\end{frame}
+		\subsection{Antenna setup}
+	%================ New frame ================================
+	\begin{frame}
+		\frametitle{\insertsection}
+		\framesubtitle{\insertsubsection}	 
+        Antenna setup process:
+\begin{enumerate}
+\item Define a  reference position and locate the first antenna in that position. 
+\item Locate the next antennas according to the distance setting
+\item Repeat for BS and MS
+\end{enumerate}
+
+	\end{frame}
+	\subsection{Environment setup}
+	%================ New frame ================================
+	\begin{frame}
+		\frametitle{\insertsection}
+		\framesubtitle{\insertsubsection}	 
+        Environment setup
+\begin{enumerate}
+\item Define the additional environment parameters
+\item Define Path-loss function
+\end{enumerate}
+
+	\end{frame}
+	\subsection{Power delay setup}
+	%================ New frame ================================
+	\begin{frame}
+		\frametitle{\insertsection}
+		\framesubtitle{\insertsubsection}	 
+        Power delay setup
+\begin{enumerate}
+\item Random delays
+\item Sorting
+\item Power computation
+\item Normalize the power
+\end{enumerate}
+
+	\end{frame}
+		\subsection{AoD and AoA setup}
+		%================ New frame ================================
+	\begin{frame}
+		\frametitle{\insertsection}
+		\framesubtitle{\insertsubsection}	 
+        AoD and AoA setup
+\begin{enumerate}
+\item Random initial values
+\item Sorting
+\item Calculation of angle of departure values
+\item Calculation of angle of arrival values
+\end{enumerate}
+
+	\end{frame}
+	\subsection{Channel Matrices}
+		%================ New frame ================================
+	\begin{frame}
+		\frametitle{\insertsection}
+		\framesubtitle{\insertsubsection}	 
+        Channel matrices needs to be set up separately according to polarization
+        \begin{itemize}
+			\item<2->  Single-polarized
+			\begin{itemize}
+			\item Random phase, AoD and AoA
+			\item Antenna gain
+			\item Channel Impulse response matrix
+            \end{itemize}
+
+			\item<3->  Cross-Polarized
+			\begin{itemize}
+			\item Random phase, AoD and AoA
+			\item Generate additional antennas for BS and MS
+			\item Channel Impulse response matrix
+            \end{itemize}
+			
+		\end{itemize}
+
+	\end{frame}
+	\subsection{Capacity}
+		%================ New frame ================================
+	\begin{frame}
+		\frametitle{\insertsection}
+		\framesubtitle{\insertsubsection}	 
+        Capacity also needs to be calculated separately according to polarization
+\[C=log_2 det(I+P/\sigma^2*H*H^H)\]
+\[P/\sigma^2=SNR/S\]
+	\end{frame}
+	\section{Results}
+	\subsection{4 BS and MS antennas}
+		%================ New frame ================================
+	\begin{frame}
+		\frametitle{\insertsection}
+		\framesubtitle{\insertsubsection}
+		\begin{figure}[h!]
+  \includegraphics[scale=0.30 ]{1.PNG}
+  \caption{S,U=4;DBS=[6,6,6],DMS=[0.4,0.4,0.4];aBS,bMS=0;R=1700;T=100;SNR=15}
+\end{figure}
+\end{frame}
+	\subsection{Radius is smaller}
+		%================ New frame ================================
+	\begin{frame}
+		\frametitle{\insertsection}
+		\framesubtitle{\insertsubsection}	 
+       \begin{figure}[h!]
+  \includegraphics[scale=0.30]{yarıçapkısa4.PNG}
+  \caption{S,U=2;DBS=[6],DMS=[0.4];aBS,bMS=0;R=1000;T=100;SNR=15}
+\end{figure}
+
+	\end{frame}
+	\subsection{Time frame is greater}
+		%================ New frame ================================
+	\begin{frame}
+		\frametitle{\insertsection}
+		\framesubtitle{\insertsubsection}	 
+       \begin{figure}[h!]
+  \includegraphics[scale=0.30]{tbüyük3.PNG}
+  \caption{S,U=2;DBS=[6],DMS=[0.4];aBS,bMS=0;R=1700;T=1000;SNR=15}
+\end{figure}
+
+	\end{frame}
+        
+       
+	\section{Conclusion}
+		%================ New frame ================================
+	\begin{frame}
+		\frametitle{\insertsection}
+		\framesubtitle{\insertsubsection}	 
+        \begin{itemize}
+        \item What we have seen
+        \item What it means
+        \end{itemize}
+	\end{frame}
+	\appendix
+	
+	%--------------------------------------------------------------------------------------------------
+	% End of document
+	%--------------------------------------------------------------------------------------------------
+\end{document}
