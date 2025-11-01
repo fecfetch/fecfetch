@@ -1,0 +1,3555 @@
+{
+  "metadata": {
+    "targetLanguage": "de",
+    "nativeLanguage": "all",
+    "cefrLevel": "B1",
+    "totalLevels": 90,
+    "generatedAt": "2025-10-01T01:26:31.822712",
+    "description": "Levels for B1 proficiency in DE"
+  },
+  "levels": [
+    {
+      "world": 2,
+      "subWorld": 4,
+      "level": 17,
+      "sourceWord": "veranschaulichen",
+      "targetWords": [
+        "VERANSCHAULICHEN",
+        "SACHLICH",
+        "ANSEHEN",
+        "SICHERN",
+        "LERNEN",
+        "SCHULE"
+      ],
+      "hints": {
+        "spanish": "ilustrar | objetivo | mirar/considerar | asegurar | aprender | escuela",
+        "english": "to illustrate | objective/factual | to look at/consider | to secure | to learn | school",
+        "french": "illustrer | objectif | regarder | assurer | apprendre | école",
+        "turkish": "örneklerle göstermek | nesnel | bakmak/göz atmak | güvence altına almak | öğrenmek | okul",
+        "chinese": "说明/举例 | 客观的 | 看/考虑 | 保障/确保 | 学习 | 学校",
+        "hindi": "उदाहरण के साथ समझाना | तथ्यात्मक | देखना/विचार करना | सुरक्षित करना | सीखना | स्कूल"
+      },
+      "validWords": [
+        "anschaulich",
+        "ansehen",
+        "chance",
+        "ein",
+        "eine",
+        "eins",
+        "hauch",
+        "haus",
+        "hier",
+        "ich",
+        "lachen",
+        "laser",
+        "lernen",
+        "lesen",
+        "nah",
+        "nase",
+        "naval",
+        "nein",
+        "neu",
+        "neun",
+        "nie",
+        "reis",
+        "reisen",
+        "sachlich",
+        "schnee",
+        "schuh",
+        "schule",
+        "see",
+        "sehen",
+        "sein",
+        "sichern",
+        "sie",
+        "suchen",
+        "veranschaulichen",
+        "viel",
+        "vier"
+      ],
+      "rubyReward": 23
+    },
+    {
+      "world": 2,
+      "subWorld": 4,
+      "level": 16,
+      "sourceWord": "beeinträchtigen",
+      "targetWords": [
+        "BEEINTRÄCHTIGEN",
+        "BERECHTIGT",
+        "BERECHNEN",
+        "INTERNET",
+        "BRINGEN",
+        "RICHTEN"
+      ],
+      "hints": {
+        "spanish": "perjudicar | con derecho | calcular/cobrar | internet | traer | dirigir/ajustar",
+        "english": "to impair/affect negatively | entitled/justified | to calculate/charge | internet | to bring | to direct/adjust",
+        "french": "nuire | autorisé | calculer | internet | apporter | diriger/régler",
+        "turkish": "zarar vermek/etkilemek | yetkili/haklı | hesaplamak | internet | getirmek | yönlendirmek/düzeltmek",
+        "chinese": "损害/影响 | 有权的 | 计算/收费 | 互联网 | 带来 | 指导/调整",
+        "hindi": "प्रभावित/हानि पहुँचाना | अधिकारप्राप्त | गणना करना/शुल्क लगाना | इंटरनेट | लाना | निर्देशित करना/समायोजित करना"
+      },
+      "validWords": [
+        "beeinträchtigen",
+        "bein",
+        "beitreten",
+        "berechnen",
+        "berechtigt",
+        "berg",
+        "bett",
+        "bier",
+        "bieten",
+        "bitte",
+        "bringen",
+        "eignen",
+        "ein",
+        "eine",
+        "entbehren",
+        "geben",
+        "gehen",
+        "hier",
+        "ich",
+        "internet",
+        "nein",
+        "nicht",
+        "nie",
+        "nähern",
+        "regen",
+        "richten",
+        "tee",
+        "tier"
+      ],
+      "rubyReward": 25
+    },
+    {
+      "world": 2,
+      "subWorld": 4,
+      "level": 15,
+      "sourceWord": "korrespondieren",
+      "targetWords": [
+        "KORRESPONDIEREN",
+        "KOOPERIEREN",
+        "OPERIEREN",
+        "REISEN",
+        "KEINEN",
+        "ORDNEN"
+      ],
+      "hints": {
+        "spanish": "corresponder | cooperar | operar | viajar | ninguno | ordenar",
+        "english": "to correspond | to cooperate | to operate | to travel | none/no | to arrange/order",
+        "french": "correspondre | coopérer | opérer | voyager | aucun | ordonner",
+        "turkish": "yazışmak/uyuşmak | işbirliği yapmak | ameliyat etmek/operasyon yapmak | seyahat etmek | hiçbir | düzenlemek/sıralamak",
+        "chinese": "通信/对应 | 合作 | 操作/手术 | 旅行 | 没有 | 整理/排序",
+        "hindi": "अनुरूप होना/पत्राचार करना | सहयोग करना | ऑपरेशन करना | यात्रा करना | कोई नहीं | व्यवस्थित करना"
+      },
+      "validWords": [
+        "denken",
+        "der",
+        "die",
+        "drei",
+        "ein",
+        "eine",
+        "eins",
+        "idee",
+        "keinen",
+        "kind",
+        "kino",
+        "kooperieren",
+        "korrespondieren",
+        "kreieren",
+        "nein",
+        "nie",
+        "oder",
+        "operieren",
+        "ordnen",
+        "preis",
+        "reden",
+        "reis",
+        "reisen",
+        "see",
+        "sein",
+        "senden",
+        "sie",
+        "sinken",
+        "sonne"
+      ],
+      "rubyReward": 24
+    },
+    {
+      "world": 2,
+      "subWorld": 4,
+      "level": 14,
+      "sourceWord": "widersprüchlich",
+      "targetWords": [
+        "WIDERSPRÜCHLICH",
+        "SCHÜLER",
+        "SCHWER",
+        "SPÜLE",
+        "PREIS",
+        "DREI"
+      ],
+      "hints": {
+        "spanish": "contradictorio | alumno | pesado/difícil | fregadero | precio | tres",
+        "english": "contradictory | pupil | heavy/difficult | sink | price | three",
+        "french": "contradictoire | élève | lourd/difficile | évier | prix | trois",
+        "turkish": "çelişkili | öğrenci (ilkokul/ortaokul) | ağır/zor | lavabo | fiyat | üç",
+        "chinese": "矛盾的 | 学生 | 重/难 | 水槽 | 价格 | 三",
+        "hindi": "विरोधाभासी | छात्र | भारी/कठिन | सिंक | कीमत | तीन"
+      },
+      "validWords": [
+        "der",
+        "die",
+        "drei",
+        "herd",
+        "herr",
+        "hier",
+        "ich",
+        "preis",
+        "reis",
+        "schwer",
+        "schüler",
+        "sie",
+        "spüle",
+        "weil",
+        "wer",
+        "widersprüchlich",
+        "wie",
+        "wir"
+      ],
+      "rubyReward": 20
+    },
+    {
+      "world": 2,
+      "subWorld": 4,
+      "level": 13,
+      "sourceWord": "implementieren",
+      "targetWords": [
+        "IMPLEMENTIEREN",
+        "EINLEITEN",
+        "MEINEN",
+        "MIETEN",
+        "LEITEN",
+        "IMMER"
+      ],
+      "hints": {
+        "spanish": "implementar | iniciar | opinar/significar | alquilar | dirigir | siempre",
+        "english": "to implement | to initiate | to mean/think | to rent | to lead/manage | always",
+        "french": "implémenter | initier | penser/signifier | louer | diriger | toujours",
+        "turkish": "uygulamak | başlatmak | düşünmek/kanıtlamak | kiralamak | yönetmek/rehberlik etmek | her zaman",
+        "chinese": "实现/实施 | 启动/引导 | 认为/意思是 | 租 | 领导/管理 | 总是",
+        "hindi": "लागू करना | शुरू करना | सोचना/मतलबी होना | किराए पर लेना | नेतृत्व करना | हमेशा"
+      },
+      "validWords": [
+        "ein",
+        "eine",
+        "einleiten",
+        "immer",
+        "implementieren",
+        "leiten",
+        "lernen",
+        "linie",
+        "meinen",
+        "mieten",
+        "mit",
+        "nein",
+        "nie",
+        "tee",
+        "teilen",
+        "tier"
+      ],
+      "rubyReward": 22
+    },
+    {
+      "world": 2,
+      "subWorld": 4,
+      "level": 12,
+      "sourceWord": "interpretieren",
+      "targetWords": [
+        "INTERPRETIEREN",
+        "INTERNET",
+        "EINE",
+        "NEIN",
+        "TIER",
+        "EIN"
+      ],
+      "hints": {
+        "spanish": "interpretar | internet | una | no | animal | un",
+        "english": "to interpret | internet | a/an (feminine) | no | animal | a/an",
+        "french": "interpréter | internet | une | non | animal | un",
+        "turkish": "yorumlamak | internet | bir (dişil) | hayır | hayvan | bir",
+        "chinese": "解释/翻译 | 互联网 | 一个 | 不 | 动物 | 一个",
+        "hindi": "व्याख्या करना | इंटरनेट | एक | नहीं | जानवर | एक"
+      },
+      "validWords": [
+        "ein",
+        "eine",
+        "internet",
+        "interpretieren",
+        "nein",
+        "nie",
+        "tee",
+        "tier"
+      ],
+      "rubyReward": 19
+    },
+    {
+      "world": 2,
+      "subWorld": 4,
+      "level": 11,
+      "sourceWord": "journalistisch",
+      "targetWords": [
+        "JOURNALISTISCH",
+        "NICHT",
+        "TISCH",
+        "STUHL",
+        "NACHT",
+        "NATUR"
+      ],
+      "hints": {
+        "spanish": "periodístico | no | mesa | silla | noche | naturaleza",
+        "english": "journalistic | not | table | chair | night | nature",
+        "french": "journalistique | ne...pas | table | chaise | nuit | nature",
+        "turkish": "gazetecilikle ilgili | değil | masa | sandalye | gece | doğa/tabiat",
+        "chinese": "新闻的/记者的 | 不 | 桌子 | 椅子 | 夜晚 | 自然",
+        "hindi": "पत्रकारीय | नहीं | मेज | कुर्सी | रात | प्रकृति"
+      },
+      "validWords": [
+        "acht",
+        "alt",
+        "art",
+        "auto",
+        "hat",
+        "haus",
+        "hut",
+        "ich",
+        "jahr",
+        "journalistisch",
+        "juli",
+        "juni",
+        "lohn",
+        "nacht",
+        "nah",
+        "natur",
+        "nicht",
+        "ohr",
+        "rosa",
+        "rot",
+        "stuhl",
+        "tisch",
+        "tun"
+      ],
+      "rubyReward": 19
+    },
+    {
+      "world": 2,
+      "subWorld": 4,
+      "level": 10,
+      "sourceWord": "nachvollziehen",
+      "targetWords": [
+        "NACHVOLLZIEHEN",
+        "ZAHLEN",
+        "LACHEN",
+        "ZEHN",
+        "VIEL",
+        "ZAHN"
+      ],
+      "hints": {
+        "spanish": "comprender | pagar | reír | diez | mucho | diente",
+        "english": "to comprehend/trace | to pay | to laugh | ten | much/many | tooth",
+        "french": "comprendre | payer | rire | dix | beaucoup | dent",
+        "turkish": "anlayabilmek/takip etmek | ödemek | gülmek | on | çok | diş",
+        "chinese": "理解/追溯 | 付钱 | 笑 | 十 | 很多 | 牙齿",
+        "hindi": "समझना | भुगतान करना | हंसना | दस | बहुत | दांत"
+      },
+      "validWords": [
+        "ein",
+        "eine",
+        "einzel",
+        "ich",
+        "lachen",
+        "lohn",
+        "nachvollziehen",
+        "nah",
+        "nein",
+        "nie",
+        "viel",
+        "von",
+        "zahlen",
+        "zahn",
+        "zehn",
+        "ziehen"
+      ],
+      "rubyReward": 19
+    },
+    {
+      "world": 2,
+      "subWorld": 4,
+      "level": 9,
+      "sourceWord": "rücksichtsvoll",
+      "targetWords": [
+        "RÜCKSICHTSVOLL",
+        "ROCK",
+        "ICH",
+        "TÜR",
+        "ROT",
+        "OHR"
+      ],
+      "hints": {
+        "spanish": "considerado | falda | yo | puerta | rojo | oreja",
+        "english": "considerate | skirt | I | door | red | ear",
+        "french": "prévenant | jupe | je | porte | rouge | oreille",
+        "turkish": "düşünceli | etek | ben | kapı | kırmızı | kulak",
+        "chinese": "体贴的 | 裙子 | 我 | 门 | 红色 | 耳朵",
+        "hindi": "विचारशील | घाघरा/स्कर्ट | मैं | दरवाजा | लाल | कान"
+      },
+      "validWords": [
+        "ich",
+        "ohr",
+        "rock",
+        "rot",
+        "rücksichtsvoll",
+        "tisch",
+        "tür"
+      ],
+      "rubyReward": 16
+    },
+    {
+      "world": 2,
+      "subWorld": 4,
+      "level": 8,
+      "sourceWord": "verantwortlich",
+      "targetWords": [
+        "VERANTWORTLICH",
+        "TOLERANT",
+        "ANTWORT",
+        "VIOLETT",
+        "RICHTEN",
+        "WARTEN"
+      ],
+      "hints": {
+        "spanish": "responsable | tolerante | respuesta | violeta | dirigir/ajustar | esperar",
+        "english": "responsible | tolerant | answer | violet/purple | to direct/adjust | to wait",
+        "french": "responsable | tolérant | réponse | violet | diriger/régler | attendre",
+        "turkish": "sorumlu | hoşgörülü | cevap | mor | yönlendirmek/düzeltmek | beklemek",
+        "chinese": "负责的 | 宽容的 | 答案 | 紫色 | 指导/调整 | 等待",
+        "hindi": "ज़िम्मेदार | सहिष्णु | उत्तर | बैंगनी | निर्देशित करना/समायोजित करना | इंतजार करना"
+      },
+      "validWords": [
+        "acht",
+        "alt",
+        "anteil",
+        "antwort",
+        "art",
+        "ein",
+        "halten",
+        "hat",
+        "herr",
+        "hier",
+        "ich",
+        "lachen",
+        "leicht",
+        "lohn",
+        "nacht",
+        "nah",
+        "nicht",
+        "nie",
+        "ohr",
+        "richten",
+        "rot",
+        "tante",
+        "tier",
+        "tolerant",
+        "vater",
+        "verantwortlich",
+        "viel",
+        "vier",
+        "violett",
+        "von",
+        "warten",
+        "weil",
+        "wer",
+        "wie",
+        "wir"
+      ],
+      "rubyReward": 23
+    },
+    {
+      "world": 2,
+      "subWorld": 4,
+      "level": 7,
+      "sourceWord": "anspruchsvoll",
+      "targetWords": [
+        "ANSPRUCHSVOLL",
+        "HAUS",
+        "ROSA",
+        "LOHN",
+        "VON",
+        "NAH"
+      ],
+      "hints": {
+        "spanish": "exigente | casa | rosa | salario | de | cerca",
+        "english": "demanding | house | pink | wage/salary | from | near",
+        "french": "exigeant | maison | rose | salaire | de | près",
+        "turkish": "zorlayıcı | ev | pembe | ücret | den | yakın",
+        "chinese": "苛刻的 | 房子 | 粉色 | 工资 | 从 | 近",
+        "hindi": "मांगलायक | घर | गुलाबी | वेतन | से | पास"
+      },
+      "validWords": [
+        "anspruchsvoll",
+        "haus",
+        "lohn",
+        "nah",
+        "ohr",
+        "rosa",
+        "von"
+      ],
+      "rubyReward": 17
+    },
+    {
+      "world": 2,
+      "subWorld": 4,
+      "level": 6,
+      "sourceWord": "beabsichtigen",
+      "targetWords": [
+        "BEABSICHTIGEN",
+        "BESICHTIGEN",
+        "BEACHTEN",
+        "SIEBEN",
+        "SCHNEE",
+        "STEHEN"
+      ],
+      "hints": {
+        "spanish": "intentar/planear | visitar (lugares) | tener en cuenta | siete | nieve | estar de pie",
+        "english": "to intend | to visit (sightsee) | to pay attention to | seven | snow | to stand",
+        "french": "avoir l | visiter | prendre en compte | sept | neige | se tenir debout",
+        "turkish": "niyet etmek | ziyaret etmek/görmek (turistik) | dikkate almak | yedi | kar | ayakta olmak",
+        "chinese": "打算 | 参观 | 注意 | 七 | 雪 | 站",
+        "hindi": "इरादा रखना | दर्शन करना | ध्यान देना | सात | बर्फ | खड़े होना"
+      },
+      "validWords": [
+        "acht",
+        "angst",
+        "beabsichtigen",
+        "beachten",
+        "bein",
+        "besichtigen",
+        "bieten",
+        "ein",
+        "eine",
+        "eins",
+        "geben",
+        "gehen",
+        "geist",
+        "haben",
+        "habit",
+        "hat",
+        "ich",
+        "nacht",
+        "nah",
+        "nase",
+        "nicht",
+        "nie",
+        "sagen",
+        "schnee",
+        "see",
+        "sehen",
+        "sein",
+        "sie",
+        "sieben",
+        "stehen",
+        "steigen",
+        "tag",
+        "tee",
+        "tisch"
+      ],
+      "rubyReward": 23
+    },
+    {
+      "world": 2,
+      "subWorld": 4,
+      "level": 5,
+      "sourceWord": "eindrucksvoll",
+      "targetWords": [
+        "EINDRUCKSVOLL",
+        "KLEIN",
+        "SOCKE",
+        "KLEID",
+        "LINKS",
+        "ODER"
+      ],
+      "hints": {
+        "spanish": "impresionante | pequeño | calcetín | vestido | izquierda | o",
+        "english": "impressive | small | sock | dress | left | or",
+        "french": "impressionnant | petit | chaussette | robe | gauche | ou",
+        "turkish": "etkileyici | küçük | çorap | elbise | sol | veya",
+        "chinese": "令人印象深刻的 | 小 | 袜子 | 连衣裙 | 左 | 或者",
+        "hindi": "प्रभावशाली | छोटा | मोज़ा | पोशाक | बाएँ | या"
+      },
+      "validWords": [
+        "der",
+        "die",
+        "drei",
+        "ein",
+        "eindrucksvoll",
+        "eins",
+        "kind",
+        "kino",
+        "kleid",
+        "klein",
+        "kurs",
+        "links",
+        "neu",
+        "nie",
+        "oder",
+        "reis",
+        "rock",
+        "sein",
+        "sie",
+        "socke",
+        "und",
+        "viel",
+        "vier",
+        "von"
+      ],
+      "rubyReward": 19
+    },
+    {
+      "world": 2,
+      "subWorld": 4,
+      "level": 4,
+      "sourceWord": "einverstanden",
+      "targetWords": [
+        "EINVERSTANDEN",
+        "DRINNEN",
+        "STRAND",
+        "RENNEN",
+        "REISEN",
+        "VATER"
+      ],
+      "hints": {
+        "spanish": "de acuerdo | adentro | playa | correr | viajar | padre",
+        "english": "agreed/okay | inside | beach | to run | to travel | father",
+        "french": "d | dedans | plage | courir | voyager | père",
+        "turkish": "kabul etmek/razı | içeride | plaj | koşmak | seyahat etmek | baba",
+        "chinese": "同意 | 里面 | 海滩 | 奔跑 | 旅行 | 父亲",
+        "hindi": "मान लेना | अंदर | सूर्यन | भागना | यात्रा करना | पिता"
+      },
+      "validWords": [
+        "art",
+        "dann",
+        "das",
+        "der",
+        "die",
+        "drei",
+        "drinnen",
+        "ein",
+        "eine",
+        "eins",
+        "einverstanden",
+        "idee",
+        "nase",
+        "nein",
+        "nie",
+        "reden",
+        "reis",
+        "reisen",
+        "rennen",
+        "see",
+        "sein",
+        "senden",
+        "sie",
+        "strand",
+        "tee",
+        "tier",
+        "vater",
+        "vier"
+      ],
+      "rubyReward": 21
+    },
+    {
+      "world": 2,
+      "subWorld": 4,
+      "level": 3,
+      "sourceWord": "gewährleisten",
+      "targetWords": [
+        "GEWÄHRLEISTEN",
+        "GESTERN",
+        "ERWÄGEN",
+        "LIEGEN",
+        "WÄHLEN",
+        "LEITEN"
+      ],
+      "hints": {
+        "spanish": "garantizar | ayer | considerar | estar ubicado/mentir | elegir/votar | dirigir",
+        "english": "to guarantee/ensure | yesterday | to consider/ponder | to lie/be located | to choose/vote | to lead/manage",
+        "french": "garantir | hier | envisager | se trouver/mentir | choisir/voter | diriger",
+        "turkish": "garanti etmek | dün | düşünmek/hesaba katmak | yatmak/durmak | seçmek | yönetmek/rehberlik etmek",
+        "chinese": "保证 | 昨天 | 考虑 | 位于/躺 | 选择/投票 | 领导/管理",
+        "hindi": "सुनिश्चित करना | कल | विचार करना | अवस्थित होना/लेटना | चुनना/मत देना | नेतृत्व करना"
+      },
+      "validWords": [
+        "ein",
+        "eine",
+        "eins",
+        "erwägen",
+        "gehen",
+        "geist",
+        "gelten",
+        "gestern",
+        "gewähren",
+        "gewährleisten",
+        "hier",
+        "legen",
+        "leiten",
+        "lesen",
+        "liegen",
+        "liste",
+        "nie",
+        "regen",
+        "reis",
+        "reisen",
+        "see",
+        "sehen",
+        "sein",
+        "sie",
+        "stehen",
+        "steigen",
+        "tee",
+        "teilen",
+        "tier",
+        "weil",
+        "wenig",
+        "wer",
+        "wie",
+        "wir",
+        "wählen"
+      ],
+      "rubyReward": 21
+    },
+    {
+      "world": 2,
+      "subWorld": 4,
+      "level": 2,
+      "sourceWord": "problematisch",
+      "targetWords": [
+        "PROBLEMATISCH",
+        "RECHTS",
+        "LEICHT",
+        "MILCH",
+        "APRIL",
+        "EMAIL"
+      ],
+      "hints": {
+        "spanish": "problemático | derecha | fácil/ligero | leche | abril | correo electrónico",
+        "english": "problematic | right | easy/light | milk | April | email",
+        "french": "problématique | droite | facile/léger | lait | avril | e-mail",
+        "turkish": "sorunlu | sağ | kolay/hafif | süt | nisan | e-posta",
+        "chinese": "有问题的 | 右 | 容易/轻 | 牛奶 | 四月 | 电子邮件",
+        "hindi": "समस्यात्मक | दाएं | आसान/हल्का | दूध | अप्रैल | ईमेल"
+      },
+      "validWords": [
+        "aber",
+        "acht",
+        "alt",
+        "april",
+        "art",
+        "bier",
+        "brot",
+        "email",
+        "habit",
+        "hat",
+        "heim",
+        "hier",
+        "hose",
+        "ich",
+        "laser",
+        "leicht",
+        "liste",
+        "mai",
+        "milch",
+        "mit",
+        "moral",
+        "ohr",
+        "post",
+        "preis",
+        "problematisch",
+        "rechts",
+        "reis",
+        "rosa",
+        "rot",
+        "sie",
+        "tier",
+        "tisch"
+      ],
+      "rubyReward": 20
+    },
+    {
+      "world": 2,
+      "subWorld": 4,
+      "level": 1,
+      "sourceWord": "programmieren",
+      "targetWords": [
+        "PROGRAMMIEREN",
+        "AGIEREN",
+        "MORGEN",
+        "ORANGE",
+        "REGEN",
+        "IMMER"
+      ],
+      "hints": {
+        "spanish": "programar | actuar | mañana | naranja | lluvia | siempre",
+        "english": "to program | to act/behave | tomorrow | orange | rain | always",
+        "french": "programmer | agir | demain | orange | pluie | toujours",
+        "turkish": "programlamak | harekete geçmek | yarın | turuncu | yağmur | her zaman",
+        "chinese": "编程 | 行动 | 明天 | 橙色 | 雨 | 总是",
+        "hindi": "प्रोग्राम करना | क्रियाशील होना | कल | नारंगी | बारिश | हमेशा"
+      },
+      "validWords": [
+        "agieren",
+        "ein",
+        "eine",
+        "immer",
+        "mai",
+        "morgen",
+        "nie",
+        "orange",
+        "programmieren",
+        "regen"
+      ],
+      "rubyReward": 20
+    },
+    {
+      "world": 2,
+      "subWorld": 4,
+      "level": 0,
+      "sourceWord": "qualifizieren",
+      "targetWords": [
+        "QUALIFIZIEREN",
+        "LAUFEN",
+        "RUFEN",
+        "FRAU",
+        "FERN",
+        "FREI"
+      ],
+      "hints": {
+        "spanish": "calificar | correr/caminar | llamar/gritar | mujer | lejos | libre/gratis",
+        "english": "to qualify | to run/walk | to call/shout | woman | far | free",
+        "french": "qualifier | courir/marcher | appeler/crier | femme | loin | gratuit/libre",
+        "turkish": "nitelendirmek/vasıflandırmak | koşmak/yürümek | çağırmak | kadın | uzak | özgür/ücretsiz",
+        "chinese": "使有资格 | 跑/走 | 叫/呼喊 | 女人 | 远 | 自由/免费",
+        "hindi": "योग्य ठहराना | दौड़ना/चलना | बुलाना/चिल्लाना | महिला | दूर | मुक्त/निःशुल्क"
+      },
+      "validWords": [
+        "auf",
+        "ein",
+        "eine",
+        "einzel",
+        "elf",
+        "fern",
+        "frau",
+        "frei",
+        "laufen",
+        "liefern",
+        "linie",
+        "neu",
+        "nie",
+        "qualifizieren",
+        "rufen"
+      ],
+      "rubyReward": 18
+    },
+    {
+      "world": 2,
+      "subWorld": 3,
+      "level": 17,
+      "sourceWord": "schwerwiegend",
+      "targetWords": [
+        "SCHWERWIEGEND",
+        "SICHERN",
+        "SCHNEE",
+        "SCHWER",
+        "REISEN",
+        "GEHEN"
+      ],
+      "hints": {
+        "spanish": "grave | asegurar | nieve | pesado/difícil | viajar | ir",
+        "english": "serious/significant | to secure | snow | heavy/difficult | to travel | to go",
+        "french": "grave | assurer | neige | lourd/difficile | voyager | aller",
+        "turkish": "ciddi/ağır | güvence altına almak | kar | ağır/zor | seyahat etmek | gitmek",
+        "chinese": "严重的 | 保障/确保 | 雪 | 重/难 | 旅行 | 去",
+        "hindi": "गंभीर | सुरक्षित करना | बर्फ | भारी/कठिन | यात्रा करना | जाना"
+      },
+      "validWords": [
+        "der",
+        "die",
+        "drehen",
+        "drei",
+        "ein",
+        "eine",
+        "eins",
+        "gehen",
+        "herd",
+        "hier",
+        "ich",
+        "idee",
+        "nie",
+        "reden",
+        "regen",
+        "reis",
+        "reisen",
+        "schnee",
+        "schwer",
+        "schwerwiegend",
+        "see",
+        "sehen",
+        "sein",
+        "sichern",
+        "sie",
+        "wenig",
+        "wer",
+        "wie",
+        "wind",
+        "wir"
+      ],
+      "rubyReward": 21
+    },
+    {
+      "world": 2,
+      "subWorld": 3,
+      "level": 16,
+      "sourceWord": "signalisieren",
+      "targetWords": [
+        "SIGNALISIEREN",
+        "SINGEN",
+        "LASSEN",
+        "LERNEN",
+        "LIEGEN",
+        "ESSEN"
+      ],
+      "hints": {
+        "spanish": "señalizar | cantar | dejar | aprender | estar ubicado/mentir | comer",
+        "english": "to signal | to sing | to let/leave | to learn | to lie/be located | to eat",
+        "french": "signaler | chanter | laisser | apprendre | se trouver/mentir | manger",
+        "turkish": "işaret vermek | şarkı söylemek | bırakmak/izin vermek | öğrenmek | yatmak/durmak | yemek",
+        "chinese": "发信号 | 唱歌 | 让/离开 | 学习 | 位于/躺 | 吃",
+        "hindi": "संकेत देना | गाना | छोड़ना/अनुमति देना | सीखना | अवस्थित होना/लेटना | खाना"
+      },
+      "validWords": [
+        "agieren",
+        "eignen",
+        "ein",
+        "eine",
+        "eins",
+        "erlangen",
+        "essen",
+        "lage",
+        "lagen",
+        "laser",
+        "lassen",
+        "legen",
+        "lernen",
+        "lesen",
+        "liegen",
+        "linie",
+        "nase",
+        "nein",
+        "nie",
+        "regen",
+        "reis",
+        "reisen",
+        "sagen",
+        "see",
+        "sein",
+        "sie",
+        "signalieren",
+        "signalisieren",
+        "singen"
+      ],
+      "rubyReward": 20
+    },
+    {
+      "world": 2,
+      "subWorld": 3,
+      "level": 15,
+      "sourceWord": "strukturieren",
+      "targetWords": [
+        "STRUKTURIEREN",
+        "TEUER",
+        "SEIN",
+        "EINS",
+        "REIS",
+        "KURS"
+      ],
+      "hints": {
+        "spanish": "estructurar | caro | ser/estar | uno | arroz | curso",
+        "english": "to structure | expensive | to be | one | rice | course",
+        "french": "structurer | cher | être | un | riz | cours",
+        "turkish": "yapılandırmak | pahalı | olmak | bir (sayı) | pirinç | kurs",
+        "chinese": "结构化 | 昂贵 | 是 | 一 | 米饭 | 课程",
+        "hindi": "संरचना करना | महँगा | होना | एक | चावल | कोर्स"
+      },
+      "validWords": [
+        "ein",
+        "eine",
+        "eins",
+        "kurs",
+        "neu",
+        "nie",
+        "reis",
+        "reisen",
+        "see",
+        "sein",
+        "sie",
+        "strikt",
+        "strukturieren",
+        "tee",
+        "testen",
+        "teuer",
+        "tier",
+        "tun"
+      ],
+      "rubyReward": 18
+    },
+    {
+      "world": 2,
+      "subWorld": 3,
+      "level": 14,
+      "sourceWord": "symptomatisch",
+      "targetWords": [
+        "SYMPTOMATISCH",
+        "TISCH",
+        "ACHT",
+        "POST",
+        "MIT",
+        "HAT"
+      ],
+      "hints": {
+        "spanish": "sintomático | mesa | ocho | correo | con | tiene",
+        "english": "symptomatic | table | eight | post office | with | has",
+        "french": "symptomatique | table | huit | poste | avec | a",
+        "turkish": "belirti gösteren | masa | sekiz | posta | ile | sahip",
+        "chinese": "症状的 | 桌子 | 八 | 邮局 | 和 | 有",
+        "hindi": "लक्षणात्मक | मेज | आठ | डाकघर | के साथ | है"
+      },
+      "validWords": [
+        "acht",
+        "hat",
+        "ich",
+        "mai",
+        "mit",
+        "post",
+        "symptomatisch",
+        "tisch"
+      ],
+      "rubyReward": 17
+    },
+    {
+      "world": 2,
+      "subWorld": 3,
+      "level": 13,
+      "sourceWord": "transferieren",
+      "targetWords": [
+        "TRANSFERIEREN",
+        "FENSTER",
+        "NASE",
+        "EINE",
+        "NEIN",
+        "TIER"
+      ],
+      "hints": {
+        "spanish": "transferir | ventana | nariz | una | no | animal",
+        "english": "to transfer | window | nose | a/an (feminine) | no | animal",
+        "french": "transférer | fenêtre | nez | une | non | animal",
+        "turkish": "aktarmak | pencere | burun | bir (dişil) | hayır | hayvan",
+        "chinese": "转移/传输 | 窗户 | 鼻子 | 一个 | 不 | 动物",
+        "hindi": "स्थानांतरण करना | खिड़की | नाक | एक | नहीं | जानवर"
+      },
+      "validWords": [
+        "art",
+        "ein",
+        "eine",
+        "eins",
+        "fenster",
+        "fern",
+        "ferner",
+        "frei",
+        "nase",
+        "nein",
+        "nie",
+        "reis",
+        "reisen",
+        "see",
+        "sein",
+        "sie",
+        "tee",
+        "tier",
+        "transferieren"
+      ],
+      "rubyReward": 18
+    },
+    {
+      "world": 2,
+      "subWorld": 3,
+      "level": 12,
+      "sourceWord": "verabschieden",
+      "targetWords": [
+        "VERABSCHIEDEN",
+        "SCHREIBEN",
+        "SICHERN",
+        "BEIDEN",
+        "SIEBEN",
+        "SCHNEE"
+      ],
+      "hints": {
+        "spanish": "aprobar/despedir | escribir | asegurar | ambos | siete | nieve",
+        "english": "to adopt/see off | to write | to secure | both | seven | snow",
+        "french": "adopter/faire ses adieux | écrire | assurer | tous les deux | sept | neige",
+        "turkish": "vedalaşmak/yürürlüğe koymak | yazmak | güvence altına almak | her iki | yedi | kar",
+        "chinese": "通过/送别 | 写 | 保障/确保 | 两者 | 七 | 雪",
+        "hindi": "विधान पास करना/विदा देना | लिखना | सुरक्षित करना | दोनों | सात | बर्फ"
+      },
+      "validWords": [
+        "aber",
+        "absichern",
+        "bad",
+        "beiden",
+        "bein",
+        "bier",
+        "das",
+        "der",
+        "die",
+        "drehen",
+        "drei",
+        "ein",
+        "eine",
+        "eins",
+        "haben",
+        "hand",
+        "herd",
+        "hier",
+        "ich",
+        "idee",
+        "nah",
+        "nase",
+        "nie",
+        "reden",
+        "reis",
+        "reisen",
+        "schnee",
+        "schreiben",
+        "see",
+        "sehen",
+        "sein",
+        "sichern",
+        "sie",
+        "sieben",
+        "verabschieden",
+        "verschieben",
+        "vier"
+      ],
+      "rubyReward": 22
+    },
+    {
+      "world": 2,
+      "subWorld": 3,
+      "level": 11,
+      "sourceWord": "verpflichtend",
+      "targetWords": [
+        "VERPFLICHTEND",
+        "RICHTEN",
+        "HELFEN",
+        "LEICHT",
+        "LEITEN",
+        "HILFE"
+      ],
+      "hints": {
+        "spanish": "obligatorio | dirigir/ajustar | ayudar | fácil/ligero | dirigir | ayuda",
+        "english": "obligatory/mandatory | to direct/adjust | to help | easy/light | to lead/manage | help",
+        "french": "obligatoire | diriger/régler | aider | facile/léger | diriger | aide",
+        "turkish": "zorunlu | yönlendirmek/düzeltmek | yardım etmek | kolay/hafif | yönetmek/rehberlik etmek | yardım",
+        "chinese": "强制的 | 指导/调整 | 帮助 | 容易/轻 | 领导/管理 | 帮助",
+        "hindi": "अनिवार्य | निर्देशित करना/समायोजित करना | मदद करना | आसान/हल्का | नेतृत्व करना | मदद"
+      },
+      "validWords": [
+        "der",
+        "die",
+        "drehen",
+        "drei",
+        "ein",
+        "eine",
+        "elf",
+        "fern",
+        "frei",
+        "helfen",
+        "herd",
+        "hier",
+        "hilfe",
+        "ich",
+        "idee",
+        "leicht",
+        "leiden",
+        "leiten",
+        "liefern",
+        "nicht",
+        "nie",
+        "reden",
+        "richten",
+        "tee",
+        "teilen",
+        "tier",
+        "verpflichtend",
+        "viel",
+        "vier"
+      ],
+      "rubyReward": 21
+    },
+    {
+      "world": 2,
+      "subWorld": 3,
+      "level": 10,
+      "sourceWord": "zukunftsfähig",
+      "targetWords": [
+        "ZUKUNFTSFÄHIG",
+        "FÄHIG",
+        "GUT",
+        "ZUG",
+        "HUT",
+        "TUN"
+      ],
+      "hints": {
+        "spanish": "sostenible | capaz | bueno | tren | sombrero | hacer",
+        "english": "future-proof/sustainable | capable | good | train | hat | to do",
+        "french": "durable | capable | bon | train | chapeau | faire",
+        "turkish": "geleceğe uygun | yetenekli | iyi | tren | şapka | yapmak",
+        "chinese": "面向未来的/可持续的 | 有能力的 | 好 | 火车 | 帽子 | 做",
+        "hindi": "भविष्योन्मुख | क्षम | अच्छा | ट्रेन | टोपी | करना"
+      },
+      "validWords": [
+        "fähig",
+        "gut",
+        "hut",
+        "tun",
+        "zug",
+        "zukunftsfähig"
+      ],
+      "rubyReward": 16
+    },
+    {
+      "world": 2,
+      "subWorld": 3,
+      "level": 9,
+      "sourceWord": "ausdrücklich",
+      "targetWords": [
+        "AUSDRÜCKLICH",
+        "HAUS",
+        "KURS",
+        "DAS",
+        "ICH"
+      ],
+      "hints": {
+        "spanish": "expreso | casa | curso | lo | yo",
+        "english": "explicit/express | house | course | the (neuter) | I",
+        "french": "explicite | maison | cours | le | je",
+        "turkish": "açıkça | ev | kurs | şu/bu (nesne) | ben",
+        "chinese": "明确的 | 房子 | 课程 | 这个 | 我",
+        "hindi": "स्पष्ट रूप से | घर | कोर्स | यह | मैं"
+      },
+      "validWords": [
+        "ausdrücklich",
+        "das",
+        "haus",
+        "ich",
+        "kurs"
+      ],
+      "rubyReward": 14
+    },
+    {
+      "world": 2,
+      "subWorld": 3,
+      "level": 8,
+      "sourceWord": "bescheinigen",
+      "targetWords": [
+        "BESCHEINIGEN",
+        "SINGEN",
+        "SEHEN",
+        "GEBEN",
+        "GEHEN",
+        "BEIN"
+      ],
+      "hints": {
+        "spanish": "certificar | cantar | ver | dar | ir | pierna",
+        "english": "to certify | to sing | to see | to give | to go | leg",
+        "french": "certifier | chanter | voir | donner | aller | jambe",
+        "turkish": "doğrulamak/sertifika vermek | şarkı söylemek | görmek | vermek | gitmek | bacak",
+        "chinese": "证明 | 唱歌 | 看 | 给 | 去 | 腿",
+        "hindi": "प्रमाणित करना | गाना | देखना | देना | जाना | टांग"
+      },
+      "validWords": [
+        "bein",
+        "bescheinigen",
+        "eignen",
+        "ein",
+        "eine",
+        "eins",
+        "geben",
+        "gehen",
+        "ich",
+        "nein",
+        "nie",
+        "schnee",
+        "see",
+        "sehen",
+        "sein",
+        "sie",
+        "sieben",
+        "singen"
+      ],
+      "rubyReward": 19
+    },
+    {
+      "world": 2,
+      "subWorld": 3,
+      "level": 7,
+      "sourceWord": "favorisieren",
+      "targetWords": [
+        "FAVORISIEREN",
+        "VIER",
+        "SEIN",
+        "EINS",
+        "NASE",
+        "REIS"
+      ],
+      "hints": {
+        "spanish": "favorecer | cuatro | ser/estar | uno | nariz | arroz",
+        "english": "to favor | four | to be | one | nose | rice",
+        "french": "favoriser | quatre | être | un | nez | riz",
+        "turkish": "kayırmak | dört | olmak | bir (sayı) | burun | pirinç",
+        "chinese": "偏爱 | 四 | 是 | 一 | 鼻子 | 米饭",
+        "hindi": "अनुकूल बनाना | चार | होना | एक | नाक | चावल"
+      },
+      "validWords": [
+        "ein",
+        "eine",
+        "eins",
+        "favorisieren",
+        "fern",
+        "ferner",
+        "frei",
+        "ironie",
+        "nase",
+        "nie",
+        "reis",
+        "reisen",
+        "rosa",
+        "see",
+        "sein",
+        "sie",
+        "vier",
+        "von"
+      ],
+      "rubyReward": 17
+    },
+    {
+      "world": 2,
+      "subWorld": 3,
+      "level": 6,
+      "sourceWord": "hinterfragen",
+      "targetWords": [
+        "HINTERFRAGEN",
+        "FREITAG",
+        "AGIEREN",
+        "GARTEN",
+        "FINGER",
+        "FAHREN"
+      ],
+      "hints": {
+        "spanish": "cuestionar | viernes | actuar | jardín | dedo | conducir/ir",
+        "english": "to question/critically examine | Friday | to act/behave | garden | finger | to drive/travel",
+        "french": "remettre en question | vendredi | agir | jardin | doigt | conduire",
+        "turkish": "sorgulamak | cuma | harekete geçmek | bahçe | parmak | sürmek/gitmek (araçla)",
+        "chinese": "质疑/深入探讨 | 星期五 | 行动 | 花园 | 手指 | 开车/行驶",
+        "hindi": "प्रश्न उठाना | शुक्रवार | क्रियाशील होना | बगीचा | उँगली | चलाना/यात्रा करना"
+      },
+      "validWords": [
+        "agieren",
+        "art",
+        "eignen",
+        "ein",
+        "eine",
+        "fahren",
+        "fern",
+        "ferner",
+        "finger",
+        "frage",
+        "fragen",
+        "frei",
+        "freitag",
+        "garten",
+        "gehen",
+        "hat",
+        "herr",
+        "hier",
+        "hinterfragen",
+        "nah",
+        "nein",
+        "nie",
+        "regen",
+        "tag",
+        "tee",
+        "tier",
+        "tragen"
+      ],
+      "rubyReward": 21
+    },
+    {
+      "world": 2,
+      "subWorld": 3,
+      "level": 5,
+      "sourceWord": "komplementär",
+      "targetWords": [
+        "KOMPLEMENTÄR",
+        "KOMMEN",
+        "TEE",
+        "ROT"
+      ],
+      "hints": {
+        "spanish": "complementario | venir | té | rojo",
+        "english": "complementary | to come | tea | red",
+        "french": "complémentaire | venir | thé | rouge",
+        "turkish": "tamamlayıcı | gelmek | çay | kırmızı",
+        "chinese": "互补的 | 来 | 茶 | 红色",
+        "hindi": "पूरक | आना | चाय | लाल"
+      },
+      "validWords": [
+        "kommen",
+        "komplementär",
+        "merke",
+        "rot",
+        "tee"
+      ],
+      "rubyReward": 12
+    },
+    {
+      "world": 2,
+      "subWorld": 3,
+      "level": 4,
+      "sourceWord": "kompensieren",
+      "targetWords": [
+        "KOMPENSIEREN",
+        "MEINEN",
+        "KEINEN",
+        "SONNE",
+        "PREIS",
+        "KINO"
+      ],
+      "hints": {
+        "spanish": "compensar | opinar/significar | ninguno | sol | precio | cine",
+        "english": "to compensate | to mean/think | none/no | sun | price | cinema",
+        "french": "compenser | penser/signifier | aucun | soleil | prix | cinéma",
+        "turkish": "telafi etmek | düşünmek/kanıtlamak | hiçbir | güneş | fiyat | sinema",
+        "chinese": "补偿 | 认为/意思是 | 没有 | 太阳 | 价格 | 电影院",
+        "hindi": "क्षतिपूर्ति करना | सोचना/मतलबी होना | कोई नहीं | सूरज | कीमत | सिनेमा"
+      },
+      "validWords": [
+        "ein",
+        "eine",
+        "eins",
+        "keinen",
+        "kino",
+        "kompensieren",
+        "meinen",
+        "merke",
+        "nein",
+        "nie",
+        "preis",
+        "reis",
+        "reisen",
+        "see",
+        "sein",
+        "sie",
+        "sinken",
+        "sonne"
+      ],
+      "rubyReward": 19
+    },
+    {
+      "world": 2,
+      "subWorld": 3,
+      "level": 3,
+      "sourceWord": "reflektieren",
+      "targetWords": [
+        "REFLEKTIEREN",
+        "KLEIN",
+        "FERN",
+        "FREI",
+        "EINE",
+        "TIER"
+      ],
+      "hints": {
+        "spanish": "reflejar | pequeño | lejos | libre/gratis | una | animal",
+        "english": "to reflect | small | far | free | a/an (feminine) | animal",
+        "french": "réfléchir | petit | loin | gratuit/libre | une | animal",
+        "turkish": "yansıtmak/düşünmek | küçük | uzak | özgür/ücretsiz | bir (dişil) | hayvan",
+        "chinese": "反思/反射 | 小 | 远 | 自由/免费 | 一个 | 动物",
+        "hindi": "प्रतिबिंबित करना | छोटा | दूर | मुक्त/निःशुल्क | एक | जानवर"
+      },
+      "validWords": [
+        "ein",
+        "eine",
+        "elf",
+        "fern",
+        "ferner",
+        "frei",
+        "klein",
+        "kreieren",
+        "leiten",
+        "liefern",
+        "nie",
+        "reflektieren",
+        "tee",
+        "teilen",
+        "tier"
+      ],
+      "rubyReward": 17
+    },
+    {
+      "world": 2,
+      "subWorld": 3,
+      "level": 2,
+      "sourceWord": "respektieren",
+      "targetWords": [
+        "RESPEKTIEREN",
+        "SEIN",
+        "EINS",
+        "REIS",
+        "SIE",
+        "NIE"
+      ],
+      "hints": {
+        "spanish": "respetar | ser/estar | uno | arroz | ella | nunca",
+        "english": "to respect | to be | one | rice | she | never",
+        "french": "respecter | être | un | riz | elle | jamais",
+        "turkish": "saygı göstermek | olmak | bir (sayı) | pirinç | o (kadın) | asla",
+        "chinese": "尊重 | 是 | 一 | 米饭 | 她 | 从不",
+        "hindi": "सम्मान करना | होना | एक | चावल | वह | कभी नहीं"
+      },
+      "validWords": [
+        "ein",
+        "eine",
+        "eins",
+        "kreieren",
+        "nie",
+        "preis",
+        "reis",
+        "reisen",
+        "respektieren",
+        "see",
+        "sein",
+        "sie",
+        "tee",
+        "tier"
+      ],
+      "rubyReward": 16
+    },
+    {
+      "world": 2,
+      "subWorld": 3,
+      "level": 1,
+      "sourceWord": "scharfsinnig",
+      "targetWords": [
+        "SCHARFSINNIG",
+        "FISCH",
+        "NAH",
+        "ICH"
+      ],
+      "hints": {
+        "spanish": "perspicaz | pescado | cerca | yo",
+        "english": "keen/shrewd | fish | near | I",
+        "french": "perspicace | poisson | près | je",
+        "turkish": "zincirli/zeki | balık | yakın | ben",
+        "chinese": "敏锐的 | 鱼 | 近 | 我",
+        "hindi": "तीक्ष्णबुद्धि | मछली | पास | मैं"
+      },
+      "validWords": [
+        "fisch",
+        "ich",
+        "nah",
+        "scharfsinnig"
+      ],
+      "rubyReward": 12
+    },
+    {
+      "world": 2,
+      "subWorld": 3,
+      "level": 0,
+      "sourceWord": "segmentieren",
+      "targetWords": [
+        "SEGMENTIEREN",
+        "GESTERN",
+        "MIETEN",
+        "MEINEN",
+        "SINGEN",
+        "REGEN"
+      ],
+      "hints": {
+        "spanish": "segmentar | ayer | alquilar | opinar/significar | cantar | lluvia",
+        "english": "to segment | yesterday | to rent | to mean/think | to sing | rain",
+        "french": "segmenter | hier | louer | penser/signifier | chanter | pluie",
+        "turkish": "bölümlere ayırmak | dün | kiralamak | düşünmek/kanıtlamak | şarkı söylemek | yağmur",
+        "chinese": "分割/分段 | 昨天 | 租 | 认为/意思是 | 唱歌 | 雨",
+        "hindi": "खंडित करना | कल | किराए पर लेना | सोचना/मतलबी होना | गाना | बारिश"
+      },
+      "validWords": [
+        "eignen",
+        "ein",
+        "eine",
+        "eins",
+        "geist",
+        "gestern",
+        "meinen",
+        "mieten",
+        "mit",
+        "nein",
+        "nie",
+        "regen",
+        "reis",
+        "reisen",
+        "see",
+        "segmentieren",
+        "sein",
+        "sie",
+        "singen",
+        "steigen",
+        "tee",
+        "tier"
+      ],
+      "rubyReward": 20
+    },
+    {
+      "world": 2,
+      "subWorld": 2,
+      "level": 17,
+      "sourceWord": "übergreifend",
+      "targetWords": [
+        "ÜBERGREIFEND",
+        "DÜRFEN",
+        "FINGER",
+        "BEIDEN",
+        "BRIEF",
+        "GEBEN"
+      ],
+      "hints": {
+        "spanish": "transversal | poder (tener permiso) | dedo | ambos | carta | dar",
+        "english": "cross-cutting/overall | may/be allowed to | finger | both | letter | to give",
+        "french": "transversal | pouvoir (permission) | doigt | tous les deux | lettre | donner",
+        "turkish": "genel/örtüşen | izinli olmak | parmak | her iki | mektup | vermek",
+        "chinese": "跨越的/总体的 | 被允许 | 手指 | 两者 | 信 | 给",
+        "hindi": "व्यापक | अनुमति होना | उँगली | दोनों | पत्र | देना"
+      },
+      "validWords": [
+        "beiden",
+        "bein",
+        "berg",
+        "bier",
+        "brief",
+        "der",
+        "die",
+        "drei",
+        "dürfen",
+        "ein",
+        "eine",
+        "fern",
+        "ferner",
+        "finger",
+        "frei",
+        "für",
+        "geben",
+        "grün",
+        "idee",
+        "nie",
+        "reden",
+        "regen",
+        "übergreifend"
+      ],
+      "rubyReward": 20
+    },
+    {
+      "world": 2,
+      "subWorld": 2,
+      "level": 16,
+      "sourceWord": "unterdrücken",
+      "targetWords": [
+        "UNTERDRÜCKEN",
+        "TEUER",
+        "NEUN",
+        "DER",
+        "UND",
+        "NEU"
+      ],
+      "hints": {
+        "spanish": "suprimir | caro | nueve | el | y | nuevo",
+        "english": "to suppress | expensive | nine | the (masculine) | and | new",
+        "french": "supprimer | cher | neuf | le | et | nouveau",
+        "turkish": "bastırmak | pahalı | dokuz | şu/bu (erkek) | ve | yeni",
+        "chinese": "压制 | 昂贵 | 九 | 这个 | 和 | 新",
+        "hindi": "दमन करना | महँगा | नौ | यह | और | नया"
+      },
+      "validWords": [
+        "denken",
+        "der",
+        "erkunden",
+        "neu",
+        "neun",
+        "reden",
+        "tee",
+        "teuer",
+        "tun",
+        "tür",
+        "und",
+        "unterdrücken"
+      ],
+      "rubyReward": 16
+    },
+    {
+      "world": 2,
+      "subWorld": 2,
+      "level": 15,
+      "sourceWord": "unterbrechen",
+      "targetWords": [
+        "UNTERBRECHEN",
+        "BERECHNEN",
+        "HEUTE",
+        "BUCH",
+        "HERR",
+        "TEE"
+      ],
+      "hints": {
+        "spanish": "interrumpir | calcular/cobrar | hoy | libro | señor | té",
+        "english": "to interrupt | to calculate/charge | today | book | Mr./gentleman | tea",
+        "french": "interrompre | calculer | aujourd\\ | livre | monsieur | thé",
+        "turkish": "arasını kesmek | hesaplamak | bugün | kitap | bay | çay",
+        "chinese": "中断 | 计算/收费 | 今天 | 书 | 先生 | 茶",
+        "hindi": "बाधित करना | गणना करना/शुल्क लगाना | आज | किताब | श्री | चाय"
+      },
+      "validWords": [
+        "berechnen",
+        "buch",
+        "entbehren",
+        "herr",
+        "heute",
+        "hut",
+        "neu",
+        "neun",
+        "tee",
+        "teuer",
+        "tun",
+        "unterbrechen"
+      ],
+      "rubyReward": 19
+    },
+    {
+      "world": 2,
+      "subWorld": 2,
+      "level": 14,
+      "sourceWord": "unterstützen",
+      "targetWords": [
+        "UNTERSTÜTZEN",
+        "NUTZEN",
+        "SETZEN",
+        "SEE",
+        "TÜR",
+        "TUN"
+      ],
+      "hints": {
+        "spanish": "apoyar | usar/utilizar | poner/colocar | lago | puerta | hacer",
+        "english": "to support | to use/utilize | to set/put/place | lake | door | to do",
+        "french": "soutenir | utiliser | poser/mettre | lac | porte | faire",
+        "turkish": "desteklemek | kullanmak/faydalanmak | oturmak/yerleştirmek | göl | kapı | yapmak",
+        "chinese": "支持 | 使用 | 放置 | 湖 | 门 | 做",
+        "hindi": "समर्थन करना | उपयोग करना | रखना/बिठाना | झील | दरवाजा | करना"
+      },
+      "validWords": [
+        "neu",
+        "neun",
+        "nutzen",
+        "see",
+        "setzen",
+        "tee",
+        "testen",
+        "teuer",
+        "tun",
+        "tür",
+        "unterstützen"
+      ],
+      "rubyReward": 17
+    },
+    {
+      "world": 2,
+      "subWorld": 2,
+      "level": 13,
+      "sourceWord": "unverzüglich",
+      "targetWords": [
+        "UNVERZÜGLICH",
+        "GLEICH",
+        "RUHIG",
+        "LÜGEN",
+        "GRÜN",
+        "HIER"
+      ],
+      "hints": {
+        "spanish": "inmediatamente | igual/inmediatamente | tranquilo | mentir | verde | aquí",
+        "english": "immediately | same/immediately | calm/quiet | to lie (not tell truth) | green | here",
+        "french": "immédiatement | pareil/immédiatement | calme | mentir | vert | ici",
+        "turkish": "derhal | aynı/hemen | sakin | yalan söylemek | yeşil | burada",
+        "chinese": "立即 | 相同/立即 | 安静 | 撒谎 | 绿色 | 这里",
+        "hindi": "तुरन्त | समान/फौरन | शांत | झूठ बोलना | हरा | यहाँ"
+      },
+      "validWords": [
+        "ein",
+        "gleich",
+        "grün",
+        "hier",
+        "ich",
+        "lügen",
+        "neu",
+        "nie",
+        "ruhig",
+        "unverzüglich",
+        "viel",
+        "vier",
+        "zehn",
+        "zug"
+      ],
+      "rubyReward": 18
+    },
+    {
+      "world": 2,
+      "subWorld": 2,
+      "level": 12,
+      "sourceWord": "vorherrschen",
+      "targetWords": [
+        "VORHERRSCHEN",
+        "SEHEN",
+        "HOSE",
+        "VON",
+        "OHR"
+      ],
+      "hints": {
+        "spanish": "predominar | ver | pantalones | de | oreja",
+        "english": "to prevail/dominate | to see | pants | from | ear",
+        "french": "prévaloir | voir | pantalon | de | oreille",
+        "turkish": "egemen olmak | görmek | pantolon | den | kulak",
+        "chinese": "占主导地位 | 看 | 裤子 | 从 | 耳朵",
+        "hindi": "प्रबल होना | देखना | पैंट | से | कान"
+      },
+      "validWords": [
+        "herr",
+        "hose",
+        "ohr",
+        "schnee",
+        "see",
+        "sehen",
+        "von",
+        "vorherrschen"
+      ],
+      "rubyReward": 14
+    },
+    {
+      "world": 2,
+      "subWorld": 2,
+      "level": 11,
+      "sourceWord": "absichtlich",
+      "targetWords": [
+        "ABSICHTLICH",
+        "SACHLICH",
+        "TISCH",
+        "ACHT",
+        "ALT",
+        "HAT"
+      ],
+      "hints": {
+        "spanish": "intencionado | objetivo | mesa | ocho | viejo | tiene",
+        "english": "intentional | objective/factual | table | eight | old | has",
+        "french": "intentionnel | objectif | table | huit | vieux | a",
+        "turkish": "kasıtlı | nesnel | masa | sekiz | eski | sahip",
+        "chinese": "故意的 | 客观的 | 桌子 | 八 | 老 | 有",
+        "hindi": "जानबूझकर | तथ्यात्मक | मेज | आठ | पुराना | है"
+      },
+      "validWords": [
+        "absichtlich",
+        "acht",
+        "alt",
+        "habit",
+        "hat",
+        "ich",
+        "sachlich",
+        "tisch"
+      ],
+      "rubyReward": 18
+    },
+    {
+      "world": 2,
+      "subWorld": 2,
+      "level": 10,
+      "sourceWord": "analysieren",
+      "targetWords": [
+        "ANALYSIEREN",
+        "LERNEN",
+        "LESEN",
+        "NEIN",
+        "NASE",
+        "SIE"
+      ],
+      "hints": {
+        "spanish": "analizar | aprender | leer | no | nariz | ella",
+        "english": "to analyze | to learn | to read | no | nose | she",
+        "french": "analyser | apprendre | lire | non | nez | elle",
+        "turkish": "analiz etmek | öğrenmek | okumak | hayır | burun | o (kadın)",
+        "chinese": "分析 | 学习 | 读 | 不 | 鼻子 | 她",
+        "hindi": "विश्लेषण करना | सीखना | पढ़ना | नहीं | नाक | वह"
+      },
+      "validWords": [
+        "analysieren",
+        "ein",
+        "eine",
+        "eins",
+        "laser",
+        "lernen",
+        "lesen",
+        "nase",
+        "nein",
+        "nie",
+        "reis",
+        "reisen",
+        "see",
+        "sein",
+        "sie"
+      ],
+      "rubyReward": 17
+    },
+    {
+      "world": 2,
+      "subWorld": 2,
+      "level": 9,
+      "sourceWord": "anstrengend",
+      "targetWords": [
+        "ANSTRENGEND",
+        "ANREGEND",
+        "GESTERN",
+        "TRAGEN",
+        "GARTEN",
+        "STRAND"
+      ],
+      "hints": {
+        "spanish": "agotador | estimulante | ayer | llevar/vestir | jardín | playa",
+        "english": "exhausting/strenuous | stimulating | yesterday | to carry/wear | garden | beach",
+        "french": "épuisant | stimulant | hier | porter | jardin | plage",
+        "turkish": "yorucu | canlandırıcı | dün | taşımak/giyinmek | bahçe | plaj",
+        "chinese": "费力的 | 刺激的 | 昨天 | 携带/穿着 | 花园 | 海滩",
+        "hindi": "थकाने वाला | प्रेरक | कल | ले जाना/पहनना | बगीचा | सूर्यन"
+      },
+      "validWords": [
+        "angst",
+        "anregend",
+        "anstrengend",
+        "art",
+        "dann",
+        "das",
+        "der",
+        "garten",
+        "gestern",
+        "nase",
+        "reden",
+        "regen",
+        "rennen",
+        "sagen",
+        "see",
+        "senden",
+        "strand",
+        "tag",
+        "tee",
+        "tragen"
+      ],
+      "rubyReward": 21
+    },
+    {
+      "world": 2,
+      "subWorld": 2,
+      "level": 8,
+      "sourceWord": "ausreichend",
+      "targetWords": [
+        "AUSREICHEND",
+        "SUCHEN",
+        "SEHEN",
+        "HUND",
+        "HERD",
+        "HAND"
+      ],
+      "hints": {
+        "spanish": "suficiente | buscar | ver | perro | estufa | mano",
+        "english": "sufficient | to search/look for | to see | dog | stove | hand",
+        "french": "suffisant | chercher | voir | chien | cuisinière | main",
+        "turkish": "yeterli | aramak | görmek | köpek | ocak | el",
+        "chinese": "足够的 | 寻找 | 看 | 狗 | 炉子 | 手",
+        "hindi": "पर्याप्त | खोजना | देखना | कुत्ता | स्टोव | हाथ"
+      },
+      "validWords": [
+        "ausreichend",
+        "das",
+        "dauer",
+        "der",
+        "die",
+        "drehen",
+        "drei",
+        "ein",
+        "eine",
+        "eins",
+        "hand",
+        "haus",
+        "herd",
+        "hier",
+        "hund",
+        "ich",
+        "idee",
+        "nah",
+        "nase",
+        "neu",
+        "nie",
+        "reden",
+        "reis",
+        "reisen",
+        "schnee",
+        "see",
+        "sehen",
+        "sein",
+        "sichern",
+        "sie",
+        "suchen",
+        "und"
+      ],
+      "rubyReward": 18
+    },
+    {
+      "world": 2,
+      "subWorld": 2,
+      "level": 7,
+      "sourceWord": "finanzieren",
+      "targetWords": [
+        "FINANZIEREN",
+        "RENNEN",
+        "FERN",
+        "FREI",
+        "EIN",
+        "NIE"
+      ],
+      "hints": {
+        "spanish": "financiar | correr | lejos | libre/gratis | un | nunca",
+        "english": "to finance | to run | far | free | a/an | never",
+        "french": "financer | courir | loin | gratuit/libre | un | jamais",
+        "turkish": "finanse etmek | koşmak | uzak | özgür/ücretsiz | bir | asla",
+        "chinese": "资助/融资 | 奔跑 | 远 | 自由/免费 | 一个 | 从不",
+        "hindi": "वित्तपोषण करना | भागना | दूर | मुक्त/निःशुल्क | एक | कभी नहीं"
+      },
+      "validWords": [
+        "ein",
+        "eine",
+        "fern",
+        "finanzieren",
+        "frei",
+        "nein",
+        "nie",
+        "rennen"
+      ],
+      "rubyReward": 17
+    },
+    {
+      "world": 2,
+      "subWorld": 2,
+      "level": 6,
+      "sourceWord": "geringfügig",
+      "targetWords": [
+        "GERINGFÜGIG",
+        "FINGER",
+        "GRÜN",
+        "FÜR"
+      ],
+      "hints": {
+        "spanish": "insignificante | dedo | verde | para",
+        "english": "slight/minor | finger | green | for",
+        "french": "minime | doigt | vert | pour",
+        "turkish": "önemsiz/az | parmak | yeşil | için",
+        "chinese": "轻微的 | 手指 | 绿色 | 为了",
+        "hindi": "छोटा | उँगली | हरा | के लिए"
+      },
+      "validWords": [
+        "ein",
+        "fern",
+        "finger",
+        "frei",
+        "für",
+        "geringfügig",
+        "grün",
+        "nie"
+      ],
+      "rubyReward": 12
+    },
+    {
+      "world": 2,
+      "subWorld": 2,
+      "level": 5,
+      "sourceWord": "insistieren",
+      "targetWords": [
+        "INSISTIEREN",
+        "ESSEN",
+        "SEE",
+        "SIE",
+        "TEE"
+      ],
+      "hints": {
+        "spanish": "insistir | comer | lago | ella | té",
+        "english": "to insist | to eat | lake | she | tea",
+        "french": "insister | manger | lac | elle | thé",
+        "turkish": "ısrar etmek | yemek | göl | o (kadın) | çay",
+        "chinese": "坚持 | 吃 | 湖 | 她 | 茶",
+        "hindi": "दबाव बनाये रखना | खाना | झील | वह | चाय"
+      },
+      "validWords": [
+        "ein",
+        "eine",
+        "eins",
+        "essen",
+        "insistieren",
+        "nein",
+        "nie",
+        "reis",
+        "reisen",
+        "see",
+        "sein",
+        "sie",
+        "tee",
+        "tier"
+      ],
+      "rubyReward": 14
+    },
+    {
+      "world": 2,
+      "subWorld": 2,
+      "level": 4,
+      "sourceWord": "integrieren",
+      "targetWords": [
+        "INTEGRIEREN",
+        "REGEN"
+      ],
+      "hints": {
+        "spanish": "integrar | lluvia",
+        "english": "to integrate | rain",
+        "french": "intégrer | pluie",
+        "turkish": "bütünleştirmek | yağmur",
+        "chinese": "整合 | 雨",
+        "hindi": "एकीकृत करना | बारिश"
+      },
+      "validWords": [
+        "eignen",
+        "ein",
+        "eine",
+        "integrieren",
+        "nein",
+        "nie",
+        "regen",
+        "tee",
+        "tier"
+      ],
+      "rubyReward": 8
+    },
+    {
+      "world": 2,
+      "subWorld": 2,
+      "level": 3,
+      "sourceWord": "irradiieren",
+      "targetWords": [
+        "IRRADIIEREN",
+        "IDEE",
+        "DREI",
+        "DIE",
+        "DER"
+      ],
+      "hints": {
+        "spanish": "irradiar | idea | tres | la | el",
+        "english": "to irradiate | idea | three | the (feminine) | the (masculine)",
+        "french": "irradié | idée | trois | la | le",
+        "turkish": "ışınlamak | fikir | üç | şu/bu (kadın) | şu/bu (erkek)",
+        "chinese": "照射 | 主意 | 三 | 这个 | 这个",
+        "hindi": "किरणित करना | विचार | तीन | यह | यह"
+      },
+      "validWords": [
+        "der",
+        "die",
+        "drei",
+        "ein",
+        "eine",
+        "idee",
+        "irradiieren",
+        "nie",
+        "reden"
+      ],
+      "rubyReward": 14
+    },
+    {
+      "world": 2,
+      "subWorld": 2,
+      "level": 2,
+      "sourceWord": "kooperieren",
+      "targetWords": [
+        "KOOPERIEREN",
+        "OPERIEREN",
+        "KINO"
+      ],
+      "hints": {
+        "spanish": "cooperar | operar | cine",
+        "english": "to cooperate | to operate | cinema",
+        "french": "coopérer | opérer | cinéma",
+        "turkish": "işbirliği yapmak | ameliyat etmek/operasyon yapmak | sinema",
+        "chinese": "合作 | 操作/手术 | 电影院",
+        "hindi": "सहयोग करना | ऑपरेशन करना | सिनेमा"
+      },
+      "validWords": [
+        "ein",
+        "eine",
+        "kino",
+        "kooperieren",
+        "kreieren",
+        "nie",
+        "operieren"
+      ],
+      "rubyReward": 11
+    },
+    {
+      "world": 2,
+      "subWorld": 2,
+      "level": 1,
+      "sourceWord": "lagebericht",
+      "targetWords": [
+        "LAGEBERICHT",
+        "GLEICH",
+        "LEICHT",
+        "ABER",
+        "BIER",
+        "GELB"
+      ],
+      "hints": {
+        "spanish": "informe de situación | igual/inmediatamente | fácil/ligero | pero | cerveza | amarillo",
+        "english": "situation report | same/immediately | easy/light | but | beer | yellow",
+        "french": "rapport de situation | pareil/immédiatement | facile/léger | mais | bière | jaune",
+        "turkish": "durum raporu | aynı/hemen | kolay/hafif | ama | bira | sarı",
+        "chinese": "情况报告 | 相同/立即 | 容易/轻 | 但是 | 啤酒 | 黄色",
+        "hindi": "स्थिति रिपोर्ट | समान/फौरन | आसान/हल्का | लेकिन | बीयर | पीला"
+      },
+      "validWords": [
+        "aber",
+        "acht",
+        "alt",
+        "art",
+        "belegt",
+        "berg",
+        "bier",
+        "gelb",
+        "gleich",
+        "habit",
+        "hat",
+        "hier",
+        "ich",
+        "lage",
+        "lagebericht",
+        "leicht",
+        "tag",
+        "tee",
+        "tier"
+      ],
+      "rubyReward": 18
+    },
+    {
+      "world": 2,
+      "subWorld": 2,
+      "level": 0,
+      "sourceWord": "publizieren",
+      "targetWords": [
+        "PUBLIZIEREN",
+        "BEIN",
+        "NEU",
+        "EIN",
+        "NIE"
+      ],
+      "hints": {
+        "spanish": "publicar | pierna | nuevo | un | nunca",
+        "english": "to publish | leg | new | a/an | never",
+        "french": "publier | jambe | nouveau | un | jamais",
+        "turkish": "yayınlamak | bacak | yeni | bir | asla",
+        "chinese": "发表/出版 | 腿 | 新 | 一个 | 从不",
+        "hindi": "प्रकाशित करना | टांग | नया | एक | कभी नहीं"
+      },
+      "validWords": [
+        "bein",
+        "bier",
+        "ein",
+        "eine",
+        "einzel",
+        "leben",
+        "lebenz",
+        "linie",
+        "neu",
+        "nie",
+        "publizieren"
+      ],
+      "rubyReward": 13
+    },
+    {
+      "world": 2,
+      "subWorld": 1,
+      "level": 17,
+      "sourceWord": "realistisch",
+      "targetWords": [
+        "REALISTISCH",
+        "RECHTS",
+        "SECHS",
+        "HIER",
+        "ACHT",
+        "ART"
+      ],
+      "hints": {
+        "spanish": "realista | derecha | seis | aquí | ocho | tipo/clase/manera",
+        "english": "realistic | right | six | here | eight | kind/type/manner",
+        "french": "réaliste | droite | six | ici | huit | sorte/espèce/façon",
+        "turkish": "gerçekçi | sağ | altı | burada | sekiz | tür/biçim",
+        "chinese": "现实的 | 右 | 六 | 这里 | 八 | 种类/方式",
+        "hindi": "वास्तविक | दाएं | छह | यहाँ | आठ | प्रकार/ढंग"
+      },
+      "validWords": [
+        "acht",
+        "alt",
+        "art",
+        "hat",
+        "hier",
+        "ich",
+        "laser",
+        "leicht",
+        "liste",
+        "realistisch",
+        "rechts",
+        "reis",
+        "sechs",
+        "sie",
+        "tier",
+        "tisch"
+      ],
+      "rubyReward": 17
+    },
+    {
+      "world": 2,
+      "subWorld": 1,
+      "level": 16,
+      "sourceWord": "replizieren",
+      "targetWords": [
+        "REPLIZIEREN",
+        "ERZIELEN"
+      ],
+      "hints": {
+        "spanish": "replicar | lograr",
+        "english": "to replicate | to achieve/obtain",
+        "french": "répliquer | obtenir",
+        "turkish": "kopyalamak/çoğaltmak | elde etmek",
+        "chinese": "复制 | 获得",
+        "hindi": "नक़ल करना | प्राप्त करना"
+      },
+      "validWords": [
+        "ein",
+        "eine",
+        "einzel",
+        "erzielen",
+        "linie",
+        "nie",
+        "replizieren"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 2,
+      "subWorld": 1,
+      "level": 15,
+      "sourceWord": "reservieren",
+      "targetWords": [
+        "RESERVIEREN",
+        "VIER",
+        "SEE"
+      ],
+      "hints": {
+        "spanish": "reservar | cuatro | lago",
+        "english": "to reserve/book | four | lake",
+        "french": "réserver | quatre | lac",
+        "turkish": "rezervasyon yapmak | dört | göl",
+        "chinese": "预订 | 四 | 湖",
+        "hindi": "आरक्षित करना | चार | झील"
+      },
+      "validWords": [
+        "ein",
+        "eine",
+        "eins",
+        "nie",
+        "reis",
+        "reisen",
+        "reservieren",
+        "see",
+        "sein",
+        "sie",
+        "vier"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 2,
+      "subWorld": 1,
+      "level": 14,
+      "sourceWord": "statistisch",
+      "targetWords": [
+        "STATISTISCH",
+        "HAT"
+      ],
+      "hints": {
+        "spanish": "estadístico | tiene",
+        "english": "statistical | has",
+        "french": "statistique | a",
+        "turkish": "istatistiksel | sahip",
+        "chinese": "统计的 | 有",
+        "hindi": "सांख्यिकीय | है"
+      },
+      "validWords": [
+        "acht",
+        "hat",
+        "ich",
+        "statistisch",
+        "tisch"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 2,
+      "subWorld": 1,
+      "level": 13,
+      "sourceWord": "strategisch",
+      "targetWords": [
+        "STRATEGISCH",
+        "TAG"
+      ],
+      "hints": {
+        "spanish": "estratégico | día",
+        "english": "strategic | day",
+        "french": "stratégique | jour",
+        "turkish": "stratejik | gün",
+        "chinese": "战略的 | 天",
+        "hindi": "रणनीतिक | दिन"
+      },
+      "validWords": [
+        "acht",
+        "art",
+        "geist",
+        "hat",
+        "hier",
+        "ich",
+        "rechts",
+        "reis",
+        "sechs",
+        "sie",
+        "strategisch",
+        "tag",
+        "tier",
+        "tisch"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 2,
+      "subWorld": 1,
+      "level": 12,
+      "sourceWord": "stufenweise",
+      "targetWords": [
+        "STUFENWEISE",
+        "WEISS",
+        "ESSEN",
+        "FUSS",
+        "WIE",
+        "TUN"
+      ],
+      "hints": {
+        "spanish": "por fases | blanco | comer | pie | cómo | hacer",
+        "english": "stepwise/gradual | white | to eat | foot | how | to do",
+        "french": "progressif | blanc | manger | pied | comment | faire",
+        "turkish": "aşamalı olarak | beyaz | yemek | ayak | nasıl | yapmak",
+        "chinese": "逐步地 | 白色 | 吃 | 脚 | 怎么 | 做",
+        "hindi": "क्रमिक | सफेद | खाना | पैर | कैसे | करना"
+      },
+      "validWords": [
+        "ein",
+        "eine",
+        "eins",
+        "essen",
+        "fuss",
+        "neu",
+        "nie",
+        "see",
+        "sein",
+        "sie",
+        "stufenweise",
+        "tee",
+        "tun",
+        "weiss",
+        "wie"
+      ],
+      "rubyReward": 17
+    },
+    {
+      "world": 2,
+      "subWorld": 1,
+      "level": 11,
+      "sourceWord": "treffsicher",
+      "targetWords": [
+        "TREFFSICHER",
+        "FISCH",
+        "HERR"
+      ],
+      "hints": {
+        "spanish": "preciso | pescado | señor",
+        "english": "accurate/targeted | fish | Mr./gentleman",
+        "french": "précis | poisson | monsieur",
+        "turkish": "isabetli | balık | bay",
+        "chinese": "准确的 | 鱼 | 先生",
+        "hindi": "सटीक | मछली | श्री"
+      },
+      "validWords": [
+        "fisch",
+        "frei",
+        "herr",
+        "hier",
+        "ich",
+        "rechts",
+        "reis",
+        "see",
+        "sie",
+        "tee",
+        "tier",
+        "tisch",
+        "treffsicher"
+      ],
+      "rubyReward": 10
+    },
+    {
+      "world": 2,
+      "subWorld": 1,
+      "level": 10,
+      "sourceWord": "umfangreich",
+      "targetWords": [
+        "UMFANGREICH",
+        "EINFACH",
+        "FRAGEN",
+        "MACHEN",
+        "FAHREN",
+        "FRAGE"
+      ],
+      "hints": {
+        "spanish": "amplio | fácil | preguntar | hacer | conducir/ir | pregunta",
+        "english": "extensive | easy/simple | to ask | to make/do | to drive/travel | question",
+        "french": "vaste | simple | demander | faire | conduire | question",
+        "turkish": "kapsamlı | basit | sormak | yapmak | sürmek/gitmek (araçla) | soru",
+        "chinese": "广泛的 | 简单的 | 问 | 做 | 开车/行驶 | 问题",
+        "hindi": "विशाल | सरल | पूछना | करना | चलाना/यात्रा करना | प्रश्न"
+      },
+      "validWords": [
+        "auf",
+        "auge",
+        "ein",
+        "einfach",
+        "fahren",
+        "fern",
+        "finger",
+        "frage",
+        "fragen",
+        "frau",
+        "frei",
+        "grau",
+        "heim",
+        "hier",
+        "ich",
+        "machen",
+        "mai",
+        "nah",
+        "neu",
+        "nie",
+        "rufen",
+        "ruhig",
+        "umfangreich"
+      ],
+      "rubyReward": 20
+    },
+    {
+      "world": 2,
+      "subWorld": 1,
+      "level": 9,
+      "sourceWord": "veranlassen",
+      "targetWords": [
+        "VERANLASSEN",
+        "LASSEN",
+        "LESEN"
+      ],
+      "hints": {
+        "spanish": "disponer/causar | dejar | leer",
+        "english": "to arrange/cause | to let/leave | to read",
+        "french": "ordonner | laisser | lire",
+        "turkish": "sebeplemek/başlatmak | bırakmak/izin vermek | okumak",
+        "chinese": "促使/安排 | 让/离开 | 读",
+        "hindi": "कारण बनाना | छोड़ना/अनुमति देना | पढ़ना"
+      },
+      "validWords": [
+        "anlass",
+        "essen",
+        "laser",
+        "lassen",
+        "lernen",
+        "lesen",
+        "nase",
+        "naval",
+        "see",
+        "veranlassen"
+      ],
+      "rubyReward": 11
+    },
+    {
+      "world": 2,
+      "subWorld": 1,
+      "level": 8,
+      "sourceWord": "vertauschen",
+      "targetWords": [
+        "VERTAUSCHEN",
+        "ERACHTEN",
+        "TRAUEN",
+        "STEHEN",
+        "SUCHEN",
+        "RECHTS"
+      ],
+      "hints": {
+        "spanish": "intercambiar | considerar | confiar/atreverse | estar de pie | buscar | derecha",
+        "english": "to swap | to consider/regard | to trust/to dare | to stand | to search/look for | right",
+        "french": "échanger | considérer | faire confiance/oser | se tenir debout | chercher | droite",
+        "turkish": "değiş tokuş etmek | saymak/hesaplamak | güvenmek/cesaret etmek | ayakta olmak | aramak | sağ",
+        "chinese": "交换 | 认为 | 信任/敢于 | 站 | 寻找 | 右",
+        "hindi": "बदला लेना | माना जाना | भरोसा करना/हिम्मत करना | खड़े होना | खोजना | दाएं"
+      },
+      "validWords": [
+        "acht",
+        "art",
+        "erachten",
+        "hat",
+        "haus",
+        "heute",
+        "hut",
+        "nacht",
+        "nah",
+        "nase",
+        "natur",
+        "neu",
+        "rechts",
+        "schnee",
+        "see",
+        "sehen",
+        "stehen",
+        "suchen",
+        "tee",
+        "teuer",
+        "trauen",
+        "tun",
+        "vater",
+        "vertauschen"
+      ],
+      "rubyReward": 21
+    },
+    {
+      "world": 2,
+      "subWorld": 1,
+      "level": 7,
+      "sourceWord": "verursachen",
+      "targetWords": [
+        "VERURSACHEN",
+        "HAUS",
+        "NEU",
+        "NAH"
+      ],
+      "hints": {
+        "spanish": "causar | casa | nuevo | cerca",
+        "english": "to cause | house | new | near",
+        "french": "causer | maison | nouveau | près",
+        "turkish": "neden olmak | ev | yeni | yakın",
+        "chinese": "引起 | 房子 | 新 | 近",
+        "hindi": "कारण बनना | घर | नया | पास"
+      },
+      "validWords": [
+        "haus",
+        "herr",
+        "nah",
+        "nase",
+        "neu",
+        "schnee",
+        "see",
+        "sehen",
+        "suchen",
+        "verursachen"
+      ],
+      "rubyReward": 11
+    },
+    {
+      "world": 2,
+      "subWorld": 1,
+      "level": 6,
+      "sourceWord": "weitsichtig",
+      "targetWords": [
+        "WEITSICHTIG",
+        "WIE"
+      ],
+      "hints": {
+        "spanish": "previsor | cómo",
+        "english": "far-sighted | how",
+        "french": "prévoyant | comment",
+        "turkish": "ileriyi gören | nasıl",
+        "chinese": "有远见的 | 怎么",
+        "hindi": "दूरदर्शी | कैसे"
+      },
+      "validWords": [
+        "geist",
+        "ich",
+        "sie",
+        "tisch",
+        "weitsichtig",
+        "wie"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 2,
+      "subWorld": 1,
+      "level": 5,
+      "sourceWord": "abschätzen",
+      "targetWords": [
+        "ABSCHÄTZEN",
+        "HABEN",
+        "NACHT",
+        "ZEHN",
+        "ZAHN"
+      ],
+      "hints": {
+        "spanish": "estimar | tener | noche | diez | diente",
+        "english": "to estimate | to have | night | ten | tooth",
+        "french": "estimer | avoir | nuit | dix | dent",
+        "turkish": "tahmin etmek | sahip olmak | gece | on | diş",
+        "chinese": "估计 | 有 | 夜晚 | 十 | 牙齿",
+        "hindi": "अनुमान लगाना | होना | रात | दस | दांत"
+      },
+      "validWords": [
+        "abschätzen",
+        "acht",
+        "haben",
+        "hat",
+        "nacht",
+        "nah",
+        "nase",
+        "schätzen",
+        "zahn",
+        "zehn"
+      ],
+      "rubyReward": 15
+    },
+    {
+      "world": 2,
+      "subWorld": 1,
+      "level": 4,
+      "sourceWord": "aktivieren",
+      "targetWords": [
+        "AKTIVIEREN",
+        "KREATIV",
+        "VATER",
+        "VIER",
+        "ART"
+      ],
+      "hints": {
+        "spanish": "activar | creativo | padre | cuatro | tipo/clase/manera",
+        "english": "to activate | creative | father | four | kind/type/manner",
+        "french": "activer | créatif | père | quatre | sorte/espèce/façon",
+        "turkish": "etkinleştirmek | yaratıcı | baba | dört | tür/biçim",
+        "chinese": "激活 | 有创造力的 | 父亲 | 四 | 种类/方式",
+        "hindi": "सक्रिय करना | रचनात्मक | पिता | चार | प्रकार/ढंग"
+      },
+      "validWords": [
+        "aktivieren",
+        "art",
+        "ein",
+        "eine",
+        "karte",
+        "kreativ",
+        "nie",
+        "tee",
+        "tier",
+        "vater",
+        "vier"
+      ],
+      "rubyReward": 15
+    },
+    {
+      "world": 2,
+      "subWorld": 1,
+      "level": 3,
+      "sourceWord": "anspielung",
+      "targetWords": [
+        "ANSPIELUNG",
+        "PLANEN",
+        "SAGEN",
+        "AUGE",
+        "NEUN"
+      ],
+      "hints": {
+        "spanish": "alicación/ referencia | planear | decir | ojo | nueve",
+        "english": "allusion/reference | to plan | to say | eye | nine",
+        "french": "allusion | planifier | dire | œil | neuf",
+        "turkish": "ima | planlamak | söylemek | göz | dokuz",
+        "chinese": "暗示/提及 | 计划 | 说 | 眼睛 | 九",
+        "hindi": "संकेत/सन्दर्भ | योजना बनाना | कहना | आँख | नौ"
+      },
+      "validWords": [
+        "anspielung",
+        "auge",
+        "ein",
+        "eins",
+        "lage",
+        "lagen",
+        "nase",
+        "nein",
+        "neu",
+        "neun",
+        "nie",
+        "planen",
+        "sagen",
+        "sein",
+        "sie",
+        "singen"
+      ],
+      "rubyReward": 15
+    },
+    {
+      "world": 2,
+      "subWorld": 1,
+      "level": 2,
+      "sourceWord": "berechtigt",
+      "targetWords": [
+        "BERECHTIGT",
+        "BITTE",
+        "BETT",
+        "BERG",
+        "BIER",
+        "HIER"
+      ],
+      "hints": {
+        "spanish": "con derecho | por favor | cama | montaña | cerveza | aquí",
+        "english": "entitled/justified | please | bed | mountain | beer | here",
+        "french": "autorisé | s\\ | lit | montagne | bière | ici",
+        "turkish": "yetkili/haklı | lütfen | yatak | dağ | bira | burada",
+        "chinese": "有权的 | 请 | 床 | 山 | 啤酒 | 这里",
+        "hindi": "अधिकारप्राप्त | कृपया | बिस्तर | पहाड़ | बीयर | यहाँ"
+      },
+      "validWords": [
+        "berechtigt",
+        "berg",
+        "bett",
+        "bier",
+        "bitte",
+        "hier",
+        "ich",
+        "tee",
+        "tier"
+      ],
+      "rubyReward": 17
+    },
+    {
+      "world": 2,
+      "subWorld": 1,
+      "level": 1,
+      "sourceWord": "bewältigen",
+      "targetWords": [
+        "BEWÄLTIGEN",
+        "LIEGEN",
+        "WENIG",
+        "LEGEN",
+        "GEBEN",
+        "WEIL"
+      ],
+      "hints": {
+        "spanish": "superar | estar ubicado/mentir | poco | poner (horizontal) | dar | porque",
+        "english": "to manage/cope with | to lie/be located | little/few | to lay/put (horizontally) | to give | because",
+        "french": "surmonter | se trouver/mentir | peu | poser | donner | parce que",
+        "turkish": "üstesinden gelmek | yatmak/durmak | az | koymak (yatay) | vermek | çünkü",
+        "chinese": "处理/克服 | 位于/躺 | 少 | 放置（平放） | 给 | 因为",
+        "hindi": "निपटना | अवस्थित होना/लेटना | कम | रखना (लेट कर) | देना | क्योंकि"
+      },
+      "validWords": [
+        "bein",
+        "belegt",
+        "bewältigen",
+        "bieten",
+        "ein",
+        "eine",
+        "geben",
+        "gelb",
+        "gelten",
+        "leben",
+        "legen",
+        "leiten",
+        "liegen",
+        "nie",
+        "tee",
+        "teilen",
+        "weil",
+        "wenig",
+        "wie"
+      ],
+      "rubyReward": 18
+    },
+    {
+      "world": 2,
+      "subWorld": 1,
+      "level": 0,
+      "sourceWord": "bezeichnen",
+      "targetWords": [
+        "BEZEICHNEN",
+        "ZEHN",
+        "BEIN"
+      ],
+      "hints": {
+        "spanish": "denominar | diez | pierna",
+        "english": "to denote/describe | ten | leg",
+        "french": "désigner | dix | jambe",
+        "turkish": "tanımlamak/adlandırmak | on | bacak",
+        "chinese": "称为/描述 | 十 | 腿",
+        "hindi": "बताना/नामकरण करना | दस | टांग"
+      },
+      "validWords": [
+        "bein",
+        "bezeichnen",
+        "ein",
+        "eine",
+        "ich",
+        "nein",
+        "nie",
+        "zehn",
+        "ziehen"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 2,
+      "subWorld": 0,
+      "level": 17,
+      "sourceWord": "eindringen",
+      "targetWords": [
+        "EINDRINGEN",
+        "DRINNEN",
+        "RENNEN",
+        "IDEE",
+        "DREI",
+        "DIE"
+      ],
+      "hints": {
+        "spanish": "penetrar | adentro | correr | idea | tres | la",
+        "english": "to penetrate/invade | inside | to run | idea | three | the (feminine)",
+        "french": "pénétrer | dedans | courir | idée | trois | la",
+        "turkish": "sızmak/girmek | içeride | koşmak | fikir | üç | şu/bu (kadın)",
+        "chinese": "渗透/侵入 | 里面 | 奔跑 | 主意 | 三 | 这个",
+        "hindi": "प्रवेश करना | अंदर | भागना | विचार | तीन | यह"
+      },
+      "validWords": [
+        "der",
+        "die",
+        "drei",
+        "drinnen",
+        "eignen",
+        "ein",
+        "eindringen",
+        "eine",
+        "idee",
+        "nein",
+        "nie",
+        "reden",
+        "regen",
+        "rennen"
+      ],
+      "rubyReward": 18
+    },
+    {
+      "world": 2,
+      "subWorld": 0,
+      "level": 16,
+      "sourceWord": "entwickeln",
+      "targetWords": [
+        "ENTWICKELN",
+        "WEINEN",
+        "KEINEN",
+        "KLEIN",
+        "WENN",
+        "WIE"
+      ],
+      "hints": {
+        "spanish": "desarrollar | llorar | ninguno | pequeño | si | cómo",
+        "english": "to develop | to cry | none/no | small | if/when | how",
+        "french": "développer | pleurer | aucun | petit | si | comment",
+        "turkish": "geliştirmek | ağlamak | hiçbir | küçük | eğer | nasıl",
+        "chinese": "发展/开发 | 哭 | 没有 | 小 | 如果/当 | 怎么",
+        "hindi": "विकसित करना | रोना | कोई नहीं | छोटा | अगर | कैसे"
+      },
+      "validWords": [
+        "ein",
+        "eine",
+        "entwickeln",
+        "keinen",
+        "klein",
+        "leiten",
+        "lenken",
+        "nein",
+        "nie",
+        "tee",
+        "teilen",
+        "weil",
+        "weinen",
+        "wenn",
+        "wie"
+      ],
+      "rubyReward": 18
+    },
+    {
+      "world": 2,
+      "subWorld": 0,
+      "level": 15,
+      "sourceWord": "flankieren",
+      "targetWords": [
+        "FLANKIEREN",
+        "ELF"
+      ],
+      "hints": {
+        "spanish": "flanquear | once",
+        "english": "to flank | eleven",
+        "french": "flanquer | onze",
+        "turkish": "yanında olmak | on bir",
+        "chinese": "侧翼保护/侧卫 | 十一",
+        "hindi": "सहयोग करना | ग्यारह"
+      },
+      "validWords": [
+        "ein",
+        "eine",
+        "elf",
+        "fern",
+        "flankieren",
+        "frei",
+        "keinen",
+        "klein",
+        "lenken",
+        "lernen",
+        "liefern",
+        "nein",
+        "nie"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 2,
+      "subWorld": 0,
+      "level": 14,
+      "sourceWord": "freisetzen",
+      "targetWords": [
+        "FREISETZEN",
+        "FENSTER",
+        "SITZEN",
+        "SETZEN",
+        "ZEIT"
+      ],
+      "hints": {
+        "spanish": "liberar | ventana | sentarse | poner/colocar | tiempo",
+        "english": "to release | window | to sit | to set/put/place | time",
+        "french": "libérer | fenêtre | s | poser/mettre | temps",
+        "turkish": "serbest bırakmak | pencere | oturmak | oturmak/yerleştirmek | zaman",
+        "chinese": "释放 | 窗户 | 坐 | 放置 | 时间",
+        "hindi": "रिहा करना | खिड़की | बैठना | रखना/बिठाना | समय"
+      },
+      "validWords": [
+        "ein",
+        "eine",
+        "eins",
+        "fenster",
+        "fern",
+        "frei",
+        "freisetzen",
+        "nie",
+        "reis",
+        "reisen",
+        "see",
+        "sein",
+        "setzen",
+        "sie",
+        "sitzen",
+        "tee",
+        "tier",
+        "zeit"
+      ],
+      "rubyReward": 16
+    },
+    {
+      "world": 2,
+      "subWorld": 0,
+      "level": 13,
+      "sourceWord": "funktional",
+      "targetWords": [
+        "FUNKTIONAL",
+        "AUTO",
+        "KINO",
+        "AUF",
+        "OFT",
+        "ALT"
+      ],
+      "hints": {
+        "spanish": "funcional | coche | cine | en | a menudo | viejo",
+        "english": "functional | car | cinema | on | often | old",
+        "french": "fonctionnel | voiture | cinéma | sur | souvent | vieux",
+        "turkish": "işlevsel | araba | sinema | üzerinde | sık sık | eski",
+        "chinese": "功能性的 | 汽车 | 电影院 | 在上面 | 经常 | 老",
+        "hindi": "कार्यात्मक | कार | सिनेमा | पर | अक्सर | पुराना"
+      },
+      "validWords": [
+        "alt",
+        "auf",
+        "auto",
+        "funktional",
+        "kino",
+        "luft",
+        "oft",
+        "tun"
+      ],
+      "rubyReward": 15
+    },
+    {
+      "world": 2,
+      "subWorld": 0,
+      "level": 12,
+      "sourceWord": "genehmigen",
+      "targetWords": [
+        "GENEHMIGEN",
+        "NEHMEN",
+        "GEHEN",
+        "HEIM"
+      ],
+      "hints": {
+        "spanish": "aprobar | llevar (con) | ir | hogar",
+        "english": "to approve/authorize | to take (with) | to go | home",
+        "french": "approuver | prendre (avec) | aller | chez soi",
+        "turkish": "izin vermek/onaylamak | yanına almak | gitmek | ev",
+        "chinese": "批准/授权 | 带走 | 去 | 家",
+        "hindi": "अनुमोदित करना | साथ ले जाना | जाना | घर"
+      },
+      "validWords": [
+        "eignen",
+        "ein",
+        "eine",
+        "geheim",
+        "gehen",
+        "genehmigen",
+        "heim",
+        "hingegen",
+        "meinen",
+        "nehmen",
+        "nein",
+        "nie"
+      ],
+      "rubyReward": 13
+    },
+    {
+      "world": 2,
+      "subWorld": 0,
+      "level": 11,
+      "sourceWord": "massgeblich",
+      "targetWords": [
+        "MASSGEBLICH",
+        "GLEICH",
+        "MILCH",
+        "SECHS",
+        "EMAIL",
+        "GELB"
+      ],
+      "hints": {
+        "spanish": "decisivo | igual/inmediatamente | leche | seis | correo electrónico | amarillo",
+        "english": "authoritative/decisive | same/immediately | milk | six | email | yellow",
+        "french": "déterminant | pareil/immédiatement | lait | six | e-mail | jaune",
+        "turkish": "belirleyici/etkili | aynı/hemen | süt | altı | e-posta | sarı",
+        "chinese": "重要的/决定性的 | 相同/立即 | 牛奶 | 六 | 电子邮件 | 黄色",
+        "hindi": "निरधारक | समान/फौरन | दूध | छह | ईमेल | पीला"
+      },
+      "validWords": [
+        "email",
+        "gelb",
+        "gleich",
+        "heim",
+        "ich",
+        "lage",
+        "mai",
+        "masse",
+        "massgeblich",
+        "milch",
+        "sechs",
+        "sie"
+      ],
+      "rubyReward": 18
+    },
+    {
+      "world": 2,
+      "subWorld": 0,
+      "level": 10,
+      "sourceWord": "miterleben",
+      "targetWords": [
+        "MITERLEBEN",
+        "MIETEN",
+        "BIER",
+        "MIT"
+      ],
+      "hints": {
+        "spanish": "experimentar | alquilar | cerveza | con",
+        "english": "to experience (together) | to rent | beer | with",
+        "french": "vivre (ensemble) | louer | bière | avec",
+        "turkish": "beraber tecrübe etmek | kiralamak | bira | ile",
+        "chinese": "共同经历 | 租 | 啤酒 | 和",
+        "hindi": "साथ अनुभव करना | किराए पर लेना | बीयर | के साथ"
+      },
+      "validWords": [
+        "bein",
+        "bier",
+        "bieten",
+        "ein",
+        "eine",
+        "leben",
+        "leiten",
+        "mieten",
+        "mit",
+        "miterleben",
+        "nie",
+        "tee",
+        "teilen",
+        "tier"
+      ],
+      "rubyReward": 12
+    },
+    {
+      "world": 2,
+      "subWorld": 0,
+      "level": 9,
+      "sourceWord": "motivieren",
+      "targetWords": [
+        "MOTIVIEREN",
+        "VON",
+        "ROT"
+      ],
+      "hints": {
+        "spanish": "motivar | de | rojo",
+        "english": "to motivate | from | red",
+        "french": "motiver | de | rouge",
+        "turkish": "motivate etmek | den | kırmızı",
+        "chinese": "激励 | 从 | 红色",
+        "hindi": "प्रेरित करना | से | लाल"
+      },
+      "validWords": [
+        "ein",
+        "eine",
+        "ironie",
+        "mieten",
+        "mit",
+        "motivieren",
+        "nie",
+        "rot",
+        "tee",
+        "tier",
+        "vier",
+        "von"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 2,
+      "subWorld": 0,
+      "level": 8,
+      "sourceWord": "nachhaltig",
+      "targetWords": [
+        "NACHHALTIG",
+        "NICHT",
+        "NACHT",
+        "TAG"
+      ],
+      "hints": {
+        "spanish": "sostenible | no | noche | día",
+        "english": "sustainable | not | night | day",
+        "french": "durable | ne...pas | nuit | jour",
+        "turkish": "sürdürülebilir | değil | gece | gün",
+        "chinese": "可持续的 | 不 | 夜晚 | 天",
+        "hindi": "स्थायी | नहीं | रात | दिन"
+      },
+      "validWords": [
+        "acht",
+        "alt",
+        "hat",
+        "ich",
+        "nachhaltig",
+        "nacht",
+        "nah",
+        "nicht",
+        "tag"
+      ],
+      "rubyReward": 12
+    },
+    {
+      "world": 2,
+      "subWorld": 0,
+      "level": 7,
+      "sourceWord": "parteiisch",
+      "targetWords": [
+        "PARTEIISCH",
+        "PREIS",
+        "ART"
+      ],
+      "hints": {
+        "spanish": "parcial | precio | tipo/clase/manera",
+        "english": "biased/partial | price | kind/type/manner",
+        "french": "partial | prix | sorte/espèce/façon",
+        "turkish": "taraflı | fiyat | tür/biçim",
+        "chinese": "有偏见的 | 价格 | 种类/方式",
+        "hindi": "पक्षपाती | कीमत | प्रकार/ढंग"
+      },
+      "validWords": [
+        "acht",
+        "art",
+        "hat",
+        "hier",
+        "ich",
+        "parteiisch",
+        "preis",
+        "rechts",
+        "reis",
+        "sie",
+        "tier",
+        "tisch"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 2,
+      "subWorld": 0,
+      "level": 6,
+      "sourceWord": "querdenken",
+      "targetWords": [
+        "QUERDENKEN",
+        "NEUN",
+        "UND",
+        "DER"
+      ],
+      "hints": {
+        "spanish": "pensar de forma diferente | nueve | y | el",
+        "english": "to think laterally | nine | and | the (masculine)",
+        "french": "penser différemment | neuf | et | le",
+        "turkish": "farklı düşünmek | dokuz | ve | şu/bu (erkek)",
+        "chinese": "横向思考 | 九 | 和 | 这个",
+        "hindi": "विपरीत सोचना | नौ | और | यह"
+      },
+      "validWords": [
+        "denken",
+        "der",
+        "erkunden",
+        "neu",
+        "neun",
+        "querdenken",
+        "reden",
+        "und"
+      ],
+      "rubyReward": 11
+    },
+    {
+      "world": 2,
+      "subWorld": 0,
+      "level": 5,
+      "sourceWord": "regulieren",
+      "targetWords": [
+        "REGULIEREN",
+        "LEGEN"
+      ],
+      "hints": {
+        "spanish": "regular | poner (horizontal)",
+        "english": "to regulate | to lay/put (horizontally)",
+        "french": "réguler | poser",
+        "turkish": "düzenlemek/kontrol etmek | koymak (yatay)",
+        "chinese": "调节/规范 | 放置（平放）",
+        "hindi": "नियमन करना | रखना (लेट कर)"
+      },
+      "validWords": [
+        "ein",
+        "eine",
+        "legen",
+        "liegen",
+        "neu",
+        "nie",
+        "regen",
+        "regulieren"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 2,
+      "subWorld": 0,
+      "level": 4,
+      "sourceWord": "spezifisch",
+      "targetWords": [
+        "SPEZIFISCH",
+        "FISCH",
+        "SECHS"
+      ],
+      "hints": {
+        "spanish": "específico | pescado | seis",
+        "english": "specific | fish | six",
+        "french": "spécifique | poisson | six",
+        "turkish": "özgül/spesifik | balık | altı",
+        "chinese": "具体的 | 鱼 | 六",
+        "hindi": "विशिष्ट | मछली | छह"
+      },
+      "validWords": [
+        "fisch",
+        "ich",
+        "sechs",
+        "sie",
+        "spezifisch"
+      ],
+      "rubyReward": 10
+    },
+    {
+      "world": 2,
+      "subWorld": 0,
+      "level": 3,
+      "sourceWord": "substantiv",
+      "targetWords": [
+        "SUBSTANTIV",
+        "BUS"
+      ],
+      "hints": {
+        "spanish": "sustantivo | autobús",
+        "english": "noun | bus",
+        "french": "nom | bus",
+        "turkish": "isim | otobüs",
+        "chinese": "名词 | 公交车",
+        "hindi": "संज्ञा | बस"
+      },
+      "validWords": [
+        "bus",
+        "substantiv",
+        "tun"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 2,
+      "subWorld": 0,
+      "level": 2,
+      "sourceWord": "summarisch",
+      "targetWords": [
+        "SUMMARISCH",
+        "MAI"
+      ],
+      "hints": {
+        "spanish": "resumido | mayo",
+        "english": "summarized | May",
+        "french": "résumé | mai",
+        "turkish": "özetleyici | mayıs",
+        "chinese": "总结的 | 五月",
+        "hindi": "सारांश | मई"
+      },
+      "validWords": [
+        "haus",
+        "ich",
+        "mai",
+        "summarisch"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 2,
+      "subWorld": 0,
+      "level": 1,
+      "sourceWord": "überwinden",
+      "targetWords": [
+        "ÜBERWINDEN",
+        "WEINEN",
+        "BEIDEN",
+        "WIND",
+        "WENN",
+        "IDEE"
+      ],
+      "hints": {
+        "spanish": "superar | llorar | ambos | viento | si | idea",
+        "english": "to overcome | to cry | both | wind | if/when | idea",
+        "french": "surmonter | pleurer | tous les deux | vent | si | idée",
+        "turkish": "üstesinden gelmek | ağlamak | her iki | rüzgar | eğer | fikir",
+        "chinese": "克服 | 哭 | 两者 | 风 | 如果/当 | 主意",
+        "hindi": "पार पाना | रोना | दोनों | हवा | अगर | विचार"
+      },
+      "validWords": [
+        "beiden",
+        "bein",
+        "bier",
+        "der",
+        "die",
+        "drei",
+        "ein",
+        "eine",
+        "idee",
+        "nein",
+        "nie",
+        "reden",
+        "weinen",
+        "wenn",
+        "wer",
+        "wie",
+        "wind",
+        "wir",
+        "überwinden"
+      ],
+      "rubyReward": 18
+    },
+    {
+      "world": 2,
+      "subWorld": 0,
+      "level": 0,
+      "sourceWord": "umfänglich",
+      "targetWords": [
+        "UMFÄNGLICH",
+        "FÄHIG",
+        "MILCH"
+      ],
+      "hints": {
+        "spanish": "extenso | capaz | leche",
+        "english": "comprehensive | capable | milk",
+        "french": "complet | capable | lait",
+        "turkish": "kapsamlı | yetenekli | süt",
+        "chinese": "全面的 | 有能力的 | 牛奶",
+        "hindi": "व्यापक | क्षम | दूध"
+      },
+      "validWords": [
+        "fähig",
+        "ich",
+        "milch",
+        "umfänglich"
+      ],
+      "rubyReward": 10
+    }
+  ]
+}

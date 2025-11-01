@@ -1,0 +1,2470 @@
+{
+  "metadata": {
+    "targetLanguage": "en",
+    "nativeLanguage": "all",
+    "cefrLevel": "A1",
+    "totalLevels": 90,
+    "generatedAt": "2025-09-19T01:37:50.499282",
+    "description": "Levels for A1 proficiency in EN"
+  },
+  "levels": [
+    {
+      "world": 0,
+      "subWorld": 0,
+      "level": 0,
+      "sourceWord": "word",
+      "targetWords": [
+        "WORD",
+        "ROW",
+        "DO",
+        "OR"
+      ],
+      "hints": {
+        "chinese": "词 | 行 | 做 | 或者",
+        "hindi": "शब्द | पंक्ति | करना | या",
+        "french": "mot | rangée | faire | ou",
+        "spanish": "palabra | fila | hacer | o",
+        "turkish": "kelime | sıra | yapmak | veya",
+        "german": "Wort | Reihe | machen | oder"
+      },
+      "validWords": [
+        "do",
+        "or",
+        "row",
+        "word"
+      ],
+      "rubyReward": 8
+    },
+    {
+      "world": 0,
+      "subWorld": 0,
+      "level": 1,
+      "sourceWord": "woman",
+      "targetWords": [
+        "WOMAN",
+        "MAN",
+        "NOW",
+        "OWN"
+      ],
+      "hints": {
+        "chinese": "女人 | 男人 | 现在 | 自己的",
+        "hindi": "महिला | आदमी | अब | अपना",
+        "french": "femme | homme | maintenant | propre",
+        "spanish": "mujer | hombre | ahora | propio",
+        "turkish": "kadın | adam | şimdi | sahip olmak",
+        "german": "Frau | Mann | jetzt | eigen"
+      },
+      "validWords": [
+        "man",
+        "no",
+        "now",
+        "on",
+        "own",
+        "woman"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 0,
+      "subWorld": 0,
+      "level": 2,
+      "sourceWord": "come",
+      "targetWords": [
+        "COME",
+        "ME"
+      ],
+      "hints": {
+        "chinese": "来 | 我",
+        "hindi": "आना | मुझे",
+        "french": "venir | moi",
+        "spanish": "venir | me",
+        "turkish": "gelmek | beni",
+        "german": "kommen | mich"
+      },
+      "validWords": [
+        "come",
+        "me"
+      ],
+      "rubyReward": 4
+    },
+    {
+      "world": 0,
+      "subWorld": 4,
+      "level": 17,
+      "sourceWord": "bread",
+      "targetWords": [
+        "BREAD",
+        "READ",
+        "BEAR",
+        "RED",
+        "BED",
+        "BAD"
+      ],
+      "hints": {
+        "chinese": "面包 | 读 | 熊 | 红色 | 床 | 坏",
+        "hindi": "रोटी | पढ़ना | भालू | लाल | बिस्तर | बुरा",
+        "french": "pain | lire | ours | rouge | lit | mauvais",
+        "spanish": "pan | leer | oso | rojo | cama | malo",
+        "turkish": "ekmek | okumak | ayı | kırmızı | yatak | kötü",
+        "german": "Brot | lesen | Bär | rot | Bett | schlecht"
+      },
+      "validWords": [
+        "bad",
+        "bear",
+        "bed",
+        "bread",
+        "ear",
+        "read",
+        "red"
+      ],
+      "rubyReward": 14
+    },
+    {
+      "world": 0,
+      "subWorld": 4,
+      "level": 16,
+      "sourceWord": "chair",
+      "targetWords": [
+        "CHAIR",
+        "HAIR",
+        "RICH",
+        "CAR",
+        "AIR"
+      ],
+      "hints": {
+        "chinese": "椅子 | 头发 | 富有 | 汽车 | 空气",
+        "hindi": "कुर्सी | बाल | अमीर | कार | हवा",
+        "french": "chaise | cheveux | riche | voiture | air",
+        "spanish": "silla | cabello | rico | coche | aire",
+        "turkish": "sandalye | saç | zengin | araba | hava",
+        "german": "Stuhl | Haar | reich | Auto | Luft"
+      },
+      "validWords": [
+        "air",
+        "car",
+        "chair",
+        "hair",
+        "rich"
+      ],
+      "rubyReward": 12
+    },
+    {
+      "world": 0,
+      "subWorld": 4,
+      "level": 15,
+      "sourceWord": "cloud",
+      "targetWords": [
+        "CLOUD",
+        "COLD",
+        "OLD"
+      ],
+      "hints": {
+        "chinese": "云 | 冷 | 老",
+        "hindi": "बादल | ठंडा | पुराना",
+        "french": "nuage | froid | vieux",
+        "spanish": "nube | frío | viejo",
+        "turkish": "bulut | soğuk | eski",
+        "german": "Wolke | kalt | alt"
+      },
+      "validWords": [
+        "cloud",
+        "cold",
+        "loud",
+        "old"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 4,
+      "level": 14,
+      "sourceWord": "dance",
+      "targetWords": [
+        "DANCE",
+        "CAN",
+        "AND",
+        "END"
+      ],
+      "hints": {
+        "chinese": "跳舞 | 能 | 和 | 结束",
+        "hindi": "नृत्य | सकना | और | अंत",
+        "french": "danser | pouvoir | et | fin",
+        "spanish": "bailar | poder | y | fin",
+        "turkish": "dans | yapabilir | ve | son",
+        "german": "tanzen | können | und | Ende"
+      },
+      "validWords": [
+        "and",
+        "can",
+        "dance",
+        "end"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 0,
+      "subWorld": 4,
+      "level": 13,
+      "sourceWord": "drink",
+      "targetWords": [
+        "DRINK",
+        "KIND",
+        "KID"
+      ],
+      "hints": {
+        "chinese": "喝 | 种类 | 孩子",
+        "hindi": "पीना | प्रकार | बच्चा",
+        "french": "boire | type | enfant",
+        "spanish": "beber | tipo | niño",
+        "turkish": "içmek | tür | çocuk",
+        "german": "trinken | Art | Kind"
+      },
+      "validWords": [
+        "drink",
+        "kid",
+        "kind"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 4,
+      "level": 12,
+      "sourceWord": "early",
+      "targetWords": [
+        "EARLY",
+        "YEAR",
+        "REAL",
+        "LAY",
+        "EAR",
+        "RAY"
+      ],
+      "hints": {
+        "chinese": "早 | 年 | 真实 | 放 | 耳朵 | 光线",
+        "hindi": "जल्दी | साल | वास्तविक | रखना | कान | किरण",
+        "french": "tôt | année | réel | poser | oreille | rayon",
+        "spanish": "temprano | año | real | poner | oreja | rayo",
+        "turkish": "erken | yıl | gerçek | yatırmak | kulak | ışın",
+        "german": "früh | Jahr | echt | legen | Ohr | Strahl"
+      },
+      "validWords": [
+        "ear",
+        "early",
+        "lay",
+        "ray",
+        "real",
+        "year"
+      ],
+      "rubyReward": 14
+    },
+    {
+      "world": 0,
+      "subWorld": 4,
+      "level": 11,
+      "sourceWord": "earth",
+      "targetWords": [
+        "HEART",
+        "EARTH",
+        "HEAR",
+        "HER",
+        "ART",
+        "EAT"
+      ],
+      "hints": {
+        "chinese": "心 | 地球 | 听 | 她的 | 艺术 | 吃",
+        "hindi": "दिल | पृथ्वी | सुनना | उसका | कला | खाना",
+        "french": "cœur | terre | entendre | son/sa | art | manger",
+        "spanish": "corazón | tierra | oír | su | arte | comer",
+        "turkish": "kalp | dünya | duymak | onun (kadın) | sanat | yemek",
+        "german": "Herz | Erde | hören | ihr | Kunst | essen"
+      },
+      "validWords": [
+        "art",
+        "ear",
+        "earth",
+        "eat",
+        "hat",
+        "hate",
+        "hear",
+        "heart",
+        "heat",
+        "her",
+        "rat",
+        "tea"
+      ],
+      "rubyReward": 14
+    },
+    {
+      "world": 0,
+      "subWorld": 4,
+      "level": 10,
+      "sourceWord": "heart",
+      "targetWords": [
+        "TEA",
+        "RAT",
+        "HAT"
+      ],
+      "hints": {
+        "chinese": "茶 | 老鼠 | 帽子",
+        "hindi": "चाय | चूहा | टोपी",
+        "french": "thé | rat | chapeau",
+        "spanish": "té | rata | sombrero",
+        "turkish": "çay | sıçan | şapka",
+        "german": "Tee | Ratte | Hut"
+      },
+      "validWords": [
+        "art",
+        "ear",
+        "earth",
+        "eat",
+        "hat",
+        "hate",
+        "hear",
+        "heart",
+        "heat",
+        "her",
+        "rat",
+        "tea"
+      ],
+      "rubyReward": 6
+    },
+    {
+      "world": 0,
+      "subWorld": 4,
+      "level": 9,
+      "sourceWord": "horse",
+      "targetWords": [
+        "HORSE",
+        "SHE"
+      ],
+      "hints": {
+        "chinese": "马 | 她",
+        "hindi": "घोड़ा | वह",
+        "french": "cheval | elle",
+        "spanish": "caballo | ella",
+        "turkish": "at | o (kadın)",
+        "german": "Pferd | sie"
+      },
+      "validWords": [
+        "her",
+        "hero",
+        "horse",
+        "she"
+      ],
+      "rubyReward": 5
+    },
+    {
+      "world": 0,
+      "subWorld": 4,
+      "level": 8,
+      "sourceWord": "hotel",
+      "targetWords": [
+        "HOTEL",
+        "LET",
+        "HOT",
+        "TOE"
+      ],
+      "hints": {
+        "chinese": "酒店 | 让 | 热 | 脚趾",
+        "hindi": "होटल | देना | गर्म | पैर की अंगुली",
+        "french": "hôtel | laisser | chaud | orteil",
+        "spanish": "hotel | dejar | caliente | dedo del pie",
+        "turkish": "otel | izin vermek | sıcak | ayak parmağı",
+        "german": "Hotel | lassen | heiß | Zeh"
+      },
+      "validWords": [
+        "hole",
+        "hot",
+        "hotel",
+        "let",
+        "toe"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 0,
+      "subWorld": 4,
+      "level": 7,
+      "sourceWord": "house",
+      "targetWords": [
+        "HOUSE",
+        "USE"
+      ],
+      "hints": {
+        "chinese": "房子 | 使用",
+        "hindi": "घर | उपयोग",
+        "french": "maison | utiliser",
+        "spanish": "casa | usar",
+        "turkish": "ev | kullanmak",
+        "german": "Haus | benutzen"
+      },
+      "validWords": [
+        "house",
+        "she",
+        "use"
+      ],
+      "rubyReward": 5
+    },
+    {
+      "world": 0,
+      "subWorld": 4,
+      "level": 6,
+      "sourceWord": "human",
+      "targetWords": [
+        "HUMAN",
+        "MAN",
+        "HAM"
+      ],
+      "hints": {
+        "chinese": "人类 | 男人 | 火腿",
+        "hindi": "इंसान | आदमी | हैम",
+        "french": "humain | homme | jambon",
+        "spanish": "humano | hombre | jamón",
+        "turkish": "insan | adam | jambon",
+        "german": "Mensch | Mann | Schinken"
+      },
+      "validWords": [
+        "ham",
+        "human",
+        "man"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 4,
+      "level": 5,
+      "sourceWord": "image",
+      "targetWords": [
+        "IMAGE",
+        "GAME",
+        "AGE",
+        "AIM"
+      ],
+      "hints": {
+        "chinese": "图像 | 游戏 | 年龄 | 瞄准",
+        "hindi": "तस्वीर | खेल | उम्र | निशाना लगाना",
+        "french": "image | jeu | âge | viser",
+        "spanish": "imagen | juego | edad | apuntar",
+        "turkish": "resim | oyun | yaş | nişan almak",
+        "german": "Bild | Spiel | Alter | zielen"
+      },
+      "validWords": [
+        "age",
+        "aim",
+        "game",
+        "image"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 0,
+      "subWorld": 4,
+      "level": 4,
+      "sourceWord": "learn",
+      "targetWords": [
+        "LEARN",
+        "REAL",
+        "EAR"
+      ],
+      "hints": {
+        "chinese": "学习 | 真实 | 耳朵",
+        "hindi": "सीखना | वास्तविक | कान",
+        "french": "apprendre | réel | oreille",
+        "spanish": "aprender | real | oreja",
+        "turkish": "öğrenmek | gerçek | kulak",
+        "german": "lernen | echt | Ohr"
+      },
+      "validWords": [
+        "ear",
+        "earn",
+        "learn",
+        "real"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 4,
+      "level": 3,
+      "sourceWord": "match",
+      "targetWords": [
+        "MATCH",
+        "CAT",
+        "ACT"
+      ],
+      "hints": {
+        "chinese": "火柴 | 猫 | 行动",
+        "hindi": "माचिस | बिल्ली | काम करना",
+        "french": "allumette | chat | agir",
+        "spanish": "cerilla | gato | actuar",
+        "turkish": "kibrit | kedi | hareket etmek",
+        "german": "Streichholz | Katze | handeln"
+      },
+      "validWords": [
+        "act",
+        "cat",
+        "ham",
+        "hat",
+        "match"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 4,
+      "level": 2,
+      "sourceWord": "night",
+      "targetWords": [
+        "THING",
+        "NIGHT",
+        "HIT"
+      ],
+      "hints": {
+        "chinese": "东西 | 夜晚 | 打",
+        "hindi": "चीज | रात | मारना",
+        "french": "chose | nuit | frapper",
+        "spanish": "cosa | noche | golpear",
+        "turkish": "şey | gece | vurmak",
+        "german": "Ding | Nacht | schlagen"
+      },
+      "validWords": [
+        "hit",
+        "night",
+        "thing"
+      ],
+      "rubyReward": 8
+    },
+    {
+      "world": 0,
+      "subWorld": 4,
+      "level": 1,
+      "sourceWord": "noise",
+      "targetWords": [
+        "NOISE",
+        "ONE",
+        "SON"
+      ],
+      "hints": {
+        "chinese": "噪音 | 一 | 儿子",
+        "hindi": "शोर | एक | बेटा",
+        "french": "bruit | un | fils",
+        "spanish": "ruido | uno | hijo",
+        "turkish": "gürültü | bir | oğul",
+        "german": "Lärm | eins | Sohn"
+      },
+      "validWords": [
+        "noise",
+        "one",
+        "son"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 4,
+      "level": 0,
+      "sourceWord": "nurse",
+      "targetWords": [
+        "NURSE",
+        "SURE",
+        "SUN",
+        "RUN"
+      ],
+      "hints": {
+        "chinese": "护士 | 确定 | 太阳 | 跑",
+        "hindi": "नर्स | निश्चित | सूरज | दौड़ना",
+        "french": "infirmière | sûr | soleil | courir",
+        "spanish": "enfermera | seguro | sol | correr",
+        "turkish": "hemşire | emin | güneş | koşmak",
+        "german": "Krankenschwester | sicher | Sonne | laufen"
+      },
+      "validWords": [
+        "nurse",
+        "run",
+        "sun",
+        "sure",
+        "use"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 0,
+      "subWorld": 3,
+      "level": 17,
+      "sourceWord": "ocean",
+      "targetWords": [
+        "OCEAN",
+        "ONCE",
+        "CAN"
+      ],
+      "hints": {
+        "chinese": "海洋 | 一次 | 能",
+        "hindi": "महासागर | एक बार | सकना",
+        "french": "océan | une fois | pouvoir",
+        "spanish": "océano | una vez | poder",
+        "turkish": "okyanus | bir kez | yapabilir",
+        "german": "Ozean | einmal | können"
+      },
+      "validWords": [
+        "can",
+        "ocean",
+        "once",
+        "one"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 3,
+      "level": 16,
+      "sourceWord": "other",
+      "targetWords": [
+        "OTHER",
+        "HER",
+        "HOT",
+        "TOE"
+      ],
+      "hints": {
+        "chinese": "其他 | 她的 | 热 | 脚趾",
+        "hindi": "दूसरा | उसका | गर्म | पैर की अंगुली",
+        "french": "autre | son/sa | chaud | orteil",
+        "spanish": "otro | su | caliente | dedo del pie",
+        "turkish": "diğer | onun (kadın) | sıcak | ayak parmağı",
+        "german": "andere | ihr | heiß | Zeh"
+      },
+      "validWords": [
+        "her",
+        "hero",
+        "hot",
+        "other",
+        "toe"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 0,
+      "subWorld": 3,
+      "level": 15,
+      "sourceWord": "party",
+      "targetWords": [
+        "PARTY",
+        "PRAY",
+        "PART",
+        "PAY",
+        "TRY",
+        "PAT"
+      ],
+      "hints": {
+        "chinese": "聚会 | 祈祷 | 部分 | 付钱 | 尝试 | 轻拍",
+        "hindi": "पार्टी | प्रार्थना | भाग | भुगतान | कोशिश | थपथपाना",
+        "french": "fête | prier | partie | payer | essayer | caresser",
+        "spanish": "fiesta | rezar | parte | pagar | intentar | acariciar",
+        "turkish": "parti | dua etmek | parça | ödemek | denemek | okşamak",
+        "german": "Party | beten | Teil | bezahlen | versuchen | streicheln"
+      },
+      "validWords": [
+        "art",
+        "part",
+        "party",
+        "pat",
+        "pay",
+        "pray",
+        "rat",
+        "ray",
+        "tap",
+        "try"
+      ],
+      "rubyReward": 14
+    },
+    {
+      "world": 0,
+      "subWorld": 3,
+      "level": 14,
+      "sourceWord": "phone",
+      "targetWords": [
+        "PHONE",
+        "OPEN",
+        "HEN",
+        "PEN",
+        "HOP"
+      ],
+      "hints": {
+        "chinese": "电话 | 打开 | 母鸡 | 笔 | 跳",
+        "hindi": "फोन | खोलना | मुर्गी | कलम | कूदना",
+        "french": "téléphone | ouvrir | poule | stylo | sautiller",
+        "spanish": "teléfono | abrir | gallina | bolígrafo | saltar",
+        "turkish": "telefon | açmak | tavuk | kalem | zıplamak",
+        "german": "Telefon | öffnen | Henne | Stift | hüpfen"
+      },
+      "validWords": [
+        "hen",
+        "hop",
+        "hope",
+        "one",
+        "open",
+        "pen",
+        "phone"
+      ],
+      "rubyReward": 11
+    },
+    {
+      "world": 0,
+      "subWorld": 3,
+      "level": 13,
+      "sourceWord": "photo",
+      "targetWords": [
+        "PHOTO",
+        "TOP",
+        "POT"
+      ],
+      "hints": {
+        "chinese": "照片 | 顶部 | 锅",
+        "hindi": "फोटो | ऊपर | बर्तन",
+        "french": "photo | haut | pot",
+        "spanish": "foto | arriba | olla",
+        "turkish": "fotoğraf | üst | tencere",
+        "german": "Foto | oben | Topf"
+      },
+      "validWords": [
+        "hop",
+        "hot",
+        "photo",
+        "pot",
+        "top"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 3,
+      "level": 12,
+      "sourceWord": "plant",
+      "targetWords": [
+        "PLANT",
+        "ANT",
+        "TAP",
+        "LAP",
+        "PAN"
+      ],
+      "hints": {
+        "chinese": "植物 | 蚂蚁 | 轻敲 | 膝盖 | 平底锅",
+        "hindi": "पौधा | चींटी | थपथपाना | गोद | तवा",
+        "french": "plante | fourmi | tapoter | genoux | poêle",
+        "spanish": "planta | hormiga | tocar | regazo | sartén",
+        "turkish": "bitki | karınca | hafifçe vurmak | kucak | tava",
+        "german": "Pflanze | Ameise | klopfen | Schoß | Pfanne"
+      },
+      "validWords": [
+        "ant",
+        "lap",
+        "pan",
+        "pat",
+        "plant",
+        "tap"
+      ],
+      "rubyReward": 11
+    },
+    {
+      "world": 0,
+      "subWorld": 3,
+      "level": 11,
+      "sourceWord": "plate",
+      "targetWords": [
+        "PLATE",
+        "LATE",
+        "PET",
+        "LET",
+        "EAT",
+        "TEA"
+      ],
+      "hints": {
+        "chinese": "盘子 | 晚 | 宠物 | 让 | 吃 | 茶",
+        "hindi": "प्लेट | देर | पालतू जानवर | देना | खाना | चाय",
+        "french": "assiette | tard | animal de compagnie | laisser | manger | thé",
+        "spanish": "plato | tarde | mascota | dejar | comer | té",
+        "turkish": "tabak | geç | evcil hayvan | izin vermek | yemek | çay",
+        "german": "Teller | spät | Haustier | lassen | essen | Tee"
+      },
+      "validWords": [
+        "eat",
+        "lap",
+        "late",
+        "let",
+        "pat",
+        "pet",
+        "plate",
+        "tap",
+        "tea"
+      ],
+      "rubyReward": 13
+    },
+    {
+      "world": 0,
+      "subWorld": 3,
+      "level": 10,
+      "sourceWord": "price",
+      "targetWords": [
+        "PRICE",
+        "ICE",
+        "PIE"
+      ],
+      "hints": {
+        "chinese": "价格 | 冰 | 馅饼",
+        "hindi": "कीमत | बर्फ | पाई",
+        "french": "prix | glace | tarte",
+        "spanish": "precio | hielo | pastel",
+        "turkish": "fiyat | buz | turta",
+        "german": "Preis | Eis | Kuchen"
+      },
+      "validWords": [
+        "ice",
+        "pie",
+        "price"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 3,
+      "level": 9,
+      "sourceWord": "radio",
+      "targetWords": [
+        "RADIO",
+        "ROAD",
+        "AIR"
+      ],
+      "hints": {
+        "chinese": "收音机 | 路 | 空气",
+        "hindi": "रेडियो | सड़क | हवा",
+        "french": "radio | route | air",
+        "spanish": "radio | carretera | aire",
+        "turkish": "radyo | yol | hava",
+        "german": "Radio | Straße | Luft"
+      },
+      "validWords": [
+        "air",
+        "radio",
+        "road"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 3,
+      "level": 8,
+      "sourceWord": "sheep",
+      "targetWords": [
+        "SHEEP",
+        "SEE",
+        "SHE"
+      ],
+      "hints": {
+        "chinese": "羊 | 看 | 她",
+        "hindi": "भेड़ | देखना | वह",
+        "french": "mouton | voir | elle",
+        "spanish": "oveja | ver | ella",
+        "turkish": "koyun | görmek | o (kadın)",
+        "german": "Schaf | sehen | sie"
+      },
+      "validWords": [
+        "see",
+        "she",
+        "sheep"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 3,
+      "level": 7,
+      "sourceWord": "shirt",
+      "targetWords": [
+        "SHIRT",
+        "HIS",
+        "SIT",
+        "SIR",
+        "ITS",
+        "HIT"
+      ],
+      "hints": {
+        "chinese": "衬衫 | 他的 | 坐 | 先生 | 它的 | 打",
+        "hindi": "कमीज | उसका | बैठना | सर | इसका | मारना",
+        "french": "chemise | son | s\\ | monsieur | son/sa | frapper",
+        "spanish": "camisa | su | sentarse | señor | su | golpear",
+        "turkish": "gömlek | onun (erkek) | oturmak | efendi | onun (nesne) | vurmak",
+        "german": "Hemd | sein | sitzen | Herr | sein | schlagen"
+      },
+      "validWords": [
+        "his",
+        "hit",
+        "its",
+        "shirt",
+        "sir",
+        "sit"
+      ],
+      "rubyReward": 13
+    },
+    {
+      "world": 0,
+      "subWorld": 3,
+      "level": 6,
+      "sourceWord": "sound",
+      "targetWords": [
+        "SOUND",
+        "NOD",
+        "SUN",
+        "SON"
+      ],
+      "hints": {
+        "chinese": "声音 | 点头 | 太阳 | 儿子",
+        "hindi": "आवाज | सिर हिलाना | सूरज | बेटा",
+        "french": "son | hocher la tête | soleil | fils",
+        "spanish": "sonido | asentir | sol | hijo",
+        "turkish": "ses | başını sallamak | güneş | oğul",
+        "german": "Geräusch | nicken | Sonne | Sohn"
+      },
+      "validWords": [
+        "nod",
+        "son",
+        "sound",
+        "sun"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 0,
+      "subWorld": 3,
+      "level": 5,
+      "sourceWord": "south",
+      "targetWords": [
+        "SOUTH",
+        "OUT",
+        "HOT"
+      ],
+      "hints": {
+        "chinese": "南 | 出 | 热",
+        "hindi": "दक्षिण | बाहर | गर्म",
+        "french": "sud | dehors | chaud",
+        "spanish": "sur | fuera | caliente",
+        "turkish": "güney | dışarı | sıcak",
+        "german": "Süden | aus | heiß"
+      },
+      "validWords": [
+        "host",
+        "hot",
+        "out",
+        "south"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 3,
+      "level": 4,
+      "sourceWord": "speak",
+      "targetWords": [
+        "SPEAK",
+        "SEA",
+        "ASK"
+      ],
+      "hints": {
+        "chinese": "说话 | 海 | 问",
+        "hindi": "बोलना | समुद्र | पूछना",
+        "french": "parler | mer | demander",
+        "spanish": "hablar | mar | preguntar",
+        "turkish": "konuşmak | deniz | sormak",
+        "german": "sprechen | Meer | fragen"
+      },
+      "validWords": [
+        "ask",
+        "sea",
+        "speak"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 3,
+      "level": 3,
+      "sourceWord": "sport",
+      "targetWords": [
+        "SPORT",
+        "TOP",
+        "POT"
+      ],
+      "hints": {
+        "chinese": "运动 | 顶部 | 锅",
+        "hindi": "खेल | ऊपर | बर्तन",
+        "french": "sport | haut | pot",
+        "spanish": "deporte | arriba | olla",
+        "turkish": "spor | üst | tencere",
+        "german": "Sport | oben | Topf"
+      },
+      "validWords": [
+        "pot",
+        "sport",
+        "top"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 3,
+      "level": 2,
+      "sourceWord": "start",
+      "targetWords": [
+        "START",
+        "STAR",
+        "ART",
+        "RAT"
+      ],
+      "hints": {
+        "chinese": "开始 | 星星 | 艺术 | 老鼠",
+        "hindi": "शुरू करना | तारा | कला | चूहा",
+        "french": "commencer | étoile | art | rat",
+        "spanish": "empezar | estrella | arte | rata",
+        "turkish": "başlamak | yıldız | sanat | sıçan",
+        "german": "beginnen | Stern | Kunst | Ratte"
+      },
+      "validWords": [
+        "art",
+        "rat",
+        "star",
+        "start"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 0,
+      "subWorld": 3,
+      "level": 1,
+      "sourceWord": "stone",
+      "targetWords": [
+        "STONE",
+        "SET",
+        "TEN",
+        "NET",
+        "ONE",
+        "TOE"
+      ],
+      "hints": {
+        "chinese": "石头 | 设置 | 十 | 网 | 一 | 脚趾",
+        "hindi": "पत्थर | रखना | दस | जाल | एक | पैर की अंगुली",
+        "french": "pierre | mettre | dix | filet | un | orteil",
+        "spanish": "piedra | poner | diez | red | uno | dedo del pie",
+        "turkish": "taş | ayarlamak | on | ağ | bir | ayak parmağı",
+        "german": "Stein | setzen | zehn | Netz | eins | Zeh"
+      },
+      "validWords": [
+        "net",
+        "note",
+        "one",
+        "set",
+        "son",
+        "stone",
+        "ten",
+        "toe"
+      ],
+      "rubyReward": 13
+    },
+    {
+      "world": 0,
+      "subWorld": 3,
+      "level": 0,
+      "sourceWord": "story",
+      "targetWords": [
+        "STORY",
+        "TOY",
+        "TRY"
+      ],
+      "hints": {
+        "chinese": "故事 | 玩具 | 尝试",
+        "hindi": "कहानी | खिलौना | कोशिश",
+        "french": "histoire | jouet | essayer",
+        "spanish": "historia | juguete | intentar",
+        "turkish": "hikaye | oyuncak | denemek",
+        "german": "Geschichte | Spielzeug | versuchen"
+      },
+      "validWords": [
+        "story",
+        "toy",
+        "try"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 2,
+      "level": 17,
+      "sourceWord": "sugar",
+      "targetWords": [
+        "SUGAR",
+        "RUG",
+        "GAS"
+      ],
+      "hints": {
+        "chinese": "糖 | 地毯 | 气体",
+        "hindi": "चीनी | गलीचा | गैस",
+        "french": "sucre | tapis | gaz",
+        "spanish": "azúcar | alfombra | gas",
+        "turkish": "şeker | halı | gaz",
+        "german": "Zucker | Teppich | Gas"
+      },
+      "validWords": [
+        "gas",
+        "rug",
+        "sugar"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 2,
+      "level": 16,
+      "sourceWord": "table",
+      "targetWords": [
+        "TABLE",
+        "ABLE",
+        "LATE",
+        "BAT",
+        "BET",
+        "LET"
+      ],
+      "hints": {
+        "chinese": "桌子 | 能够 | 晚 | 蝙蝠 | 打赌 | 让",
+        "hindi": "मेज | सक्षम | देर | चमगादड़ | शर्त लगाना | देना",
+        "french": "table | capable | tard | chauve-souris | parier | laisser",
+        "spanish": "mesa | capaz | tarde | murciélago | apostar | dejar",
+        "turkish": "masa | yetenekli | geç | yarasa | bahis yapmak | izin vermek",
+        "german": "Tisch | fähig | spät | Fledermaus | wetten | lassen"
+      },
+      "validWords": [
+        "able",
+        "bat",
+        "belt",
+        "bet",
+        "eat",
+        "late",
+        "let",
+        "table",
+        "tea"
+      ],
+      "rubyReward": 14
+    },
+    {
+      "world": 0,
+      "subWorld": 2,
+      "level": 15,
+      "sourceWord": "teach",
+      "targetWords": [
+        "TEACH",
+        "CAT",
+        "HAT",
+        "ACT",
+        "EAT",
+        "TEA"
+      ],
+      "hints": {
+        "chinese": "教 | 猫 | 帽子 | 行动 | 吃 | 茶",
+        "hindi": "सिखाना | बिल्ली | टोपी | काम करना | खाना | चाय",
+        "french": "enseigner | chat | chapeau | agir | manger | thé",
+        "spanish": "enseñar | gato | sombrero | actuar | comer | té",
+        "turkish": "öğretmek | kedi | şapka | hareket etmek | yemek | çay",
+        "german": "lehren | Katze | Hut | handeln | essen | Tee"
+      },
+      "validWords": [
+        "act",
+        "cat",
+        "cheat",
+        "each",
+        "eat",
+        "hat",
+        "hate",
+        "heat",
+        "tea",
+        "teach"
+      ],
+      "rubyReward": 13
+    },
+    {
+      "world": 0,
+      "subWorld": 2,
+      "level": 14,
+      "sourceWord": "thank",
+      "targetWords": [
+        "THANK",
+        "ANT"
+      ],
+      "hints": {
+        "chinese": "感谢 | 蚂蚁",
+        "hindi": "धन्यवाद | चींटी",
+        "french": "remercier | fourmi",
+        "spanish": "agradecer | hormiga",
+        "turkish": "teşekkür etmek | karınca",
+        "german": "danken | Ameise"
+      },
+      "validWords": [
+        "ant",
+        "hat",
+        "thank"
+      ],
+      "rubyReward": 5
+    },
+    {
+      "world": 0,
+      "subWorld": 2,
+      "level": 13,
+      "sourceWord": "thing",
+      "targetWords": [
+        "THING",
+        "HIT"
+      ],
+      "hints": {
+        "chinese": "东西 | 打",
+        "hindi": "चीज | मारना",
+        "french": "chose | frapper",
+        "spanish": "cosa | golpear",
+        "turkish": "şey | vurmak",
+        "german": "Ding | schlagen"
+      },
+      "validWords": [
+        "hit",
+        "night",
+        "thing"
+      ],
+      "rubyReward": 5
+    },
+    {
+      "world": 0,
+      "subWorld": 2,
+      "level": 12,
+      "sourceWord": "today",
+      "targetWords": [
+        "TODAY",
+        "DAY",
+        "DOT",
+        "TOY"
+      ],
+      "hints": {
+        "chinese": "今天 | 天 | 点 | 玩具",
+        "hindi": "आज | दिन | बिंदु | खिलौना",
+        "french": "aujourd\\ | jour | point | jouet",
+        "spanish": "hoy | día | punto | juguete",
+        "turkish": "bugün | gün | nokta | oyuncak",
+        "german": "heute | Tag | Punkt | Spielzeug"
+      },
+      "validWords": [
+        "day",
+        "dot",
+        "today",
+        "toy"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 0,
+      "subWorld": 2,
+      "level": 11,
+      "sourceWord": "train",
+      "targetWords": [
+        "TRAIN",
+        "ART",
+        "AIR",
+        "RAT"
+      ],
+      "hints": {
+        "chinese": "火车 | 艺术 | 空气 | 老鼠",
+        "hindi": "ट्रेन | कला | हवा | चूहा",
+        "french": "train | art | air | rat",
+        "spanish": "tren | arte | aire | rata",
+        "turkish": "tren | sanat | hava | sıçan",
+        "german": "Zug | Kunst | Luft | Ratte"
+      },
+      "validWords": [
+        "air",
+        "ant",
+        "art",
+        "rat",
+        "train"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 0,
+      "subWorld": 2,
+      "level": 10,
+      "sourceWord": "under",
+      "targetWords": [
+        "UNDER",
+        "RUN",
+        "RED",
+        "END"
+      ],
+      "hints": {
+        "chinese": "在下面 | 跑 | 红色 | 结束",
+        "hindi": "नीचे | दौड़ना | लाल | अंत",
+        "french": "sous | courir | rouge | fin",
+        "spanish": "debajo | correr | rojo | fin",
+        "turkish": "altında | koşmak | kırmızı | son",
+        "german": "unter | laufen | rot | Ende"
+      },
+      "validWords": [
+        "due",
+        "end",
+        "red",
+        "run",
+        "under"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 0,
+      "subWorld": 2,
+      "level": 9,
+      "sourceWord": "visit",
+      "targetWords": [
+        "VISIT",
+        "SIT",
+        "ITS"
+      ],
+      "hints": {
+        "chinese": "访问 | 坐 | 它的",
+        "hindi": "मिलना | बैठना | इसका",
+        "french": "visiter | s\\ | son/sa",
+        "spanish": "visitar | sentarse | su",
+        "turkish": "ziyaret etmek | oturmak | onun (nesne)",
+        "german": "besuchen | sitzen | sein"
+      },
+      "validWords": [
+        "its",
+        "sit",
+        "visit"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 2,
+      "level": 8,
+      "sourceWord": "watch",
+      "targetWords": [
+        "WATCH",
+        "CAT",
+        "HAT",
+        "ACT"
+      ],
+      "hints": {
+        "chinese": "看 | 猫 | 帽子 | 行动",
+        "hindi": "देखना | बिल्ली | टोपी | काम करना",
+        "french": "regarder | chat | chapeau | agir",
+        "spanish": "mirar | gato | sombrero | actuar",
+        "turkish": "izlemek | kedi | şapka | hareket etmek",
+        "german": "schauen | Katze | Hut | handeln"
+      },
+      "validWords": [
+        "act",
+        "cat",
+        "hat",
+        "watch"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 0,
+      "subWorld": 2,
+      "level": 7,
+      "sourceWord": "water",
+      "targetWords": [
+        "WATER",
+        "WAR",
+        "WET",
+        "EAR"
+      ],
+      "hints": {
+        "chinese": "水 | 战争 | 湿 | 耳朵",
+        "hindi": "पानी | युद्ध | गीला | कान",
+        "french": "eau | guerre | mouillé | oreille",
+        "spanish": "agua | guerra | mojado | oreja",
+        "turkish": "su | savaş | ıslak | kulak",
+        "german": "Wasser | Krieg | nass | Ohr"
+      },
+      "validWords": [
+        "art",
+        "ear",
+        "eat",
+        "rat",
+        "tea",
+        "war",
+        "water",
+        "wet"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 0,
+      "subWorld": 2,
+      "level": 6,
+      "sourceWord": "white",
+      "targetWords": [
+        "WHITE",
+        "TIE"
+      ],
+      "hints": {
+        "chinese": "白色 | 系",
+        "hindi": "सफेद | बांधना",
+        "french": "blanc | attacher",
+        "spanish": "blanco | atar",
+        "turkish": "beyaz | bağlamak",
+        "german": "weiß | binden"
+      },
+      "validWords": [
+        "hit",
+        "tie",
+        "wet",
+        "white"
+      ],
+      "rubyReward": 5
+    },
+    {
+      "world": 0,
+      "subWorld": 2,
+      "level": 5,
+      "sourceWord": "world",
+      "targetWords": [
+        "WORLD",
+        "OWL",
+        "ROW",
+        "OLD"
+      ],
+      "hints": {
+        "chinese": "世界 | 猫头鹰 | 行 | 老",
+        "hindi": "दुनिया | उल्लू | पंक्ति | पुराना",
+        "french": "monde | hibou | rangée | vieux",
+        "spanish": "mundo | búho | fila | viejo",
+        "turkish": "dünya | baykuş | sıra | eski",
+        "german": "Welt | Eule | Reihe | alt"
+      },
+      "validWords": [
+        "old",
+        "owl",
+        "row",
+        "word",
+        "world"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 0,
+      "subWorld": 2,
+      "level": 4,
+      "sourceWord": "write",
+      "targetWords": [
+        "WRITE",
+        "TIE",
+        "WET"
+      ],
+      "hints": {
+        "chinese": "写 | 系 | 湿",
+        "hindi": "लिखना | बांधना | गीला",
+        "french": "écrire | attacher | mouillé",
+        "spanish": "escribir | atar | mojado",
+        "turkish": "yazmak | bağlamak | ıslak",
+        "german": "schreiben | binden | nass"
+      },
+      "validWords": [
+        "tie",
+        "wet",
+        "write"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 2,
+      "level": 3,
+      "sourceWord": "young",
+      "targetWords": [
+        "YOUNG",
+        "GUY",
+        "YOU"
+      ],
+      "hints": {
+        "chinese": "年轻 | 家伙 | 你",
+        "hindi": "जवान | आदमी | तुम",
+        "french": "jeune | type | tu",
+        "spanish": "joven | tipo | tú",
+        "turkish": "genç | adam | sen",
+        "german": "jung | Typ | du"
+      },
+      "validWords": [
+        "gun",
+        "guy",
+        "you",
+        "young"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 2,
+      "level": 2,
+      "sourceWord": "best",
+      "targetWords": [
+        "BEST",
+        "SET",
+        "BET"
+      ],
+      "hints": {
+        "chinese": "最好 | 设置 | 打赌",
+        "hindi": "सबसे अच्छा | रखना | शर्त लगाना",
+        "french": "meilleur | mettre | parier",
+        "spanish": "mejor | poner | apostar",
+        "turkish": "en iyi | ayarlamak | bahis yapmak",
+        "german": "beste | setzen | wetten"
+      },
+      "validWords": [
+        "best",
+        "bet",
+        "set"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 2,
+      "level": 1,
+      "sourceWord": "west",
+      "targetWords": [
+        "WEST",
+        "SET",
+        "WET"
+      ],
+      "hints": {
+        "chinese": "西 | 设置 | 湿",
+        "hindi": "पश्चिम | रखना | गीला",
+        "french": "ouest | mettre | mouillé",
+        "spanish": "oeste | poner | mojado",
+        "turkish": "batı | ayarlamak | ıslak",
+        "german": "Westen | setzen | nass"
+      },
+      "validWords": [
+        "set",
+        "west",
+        "wet"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 2,
+      "level": 0,
+      "sourceWord": "east",
+      "targetWords": [
+        "EAST",
+        "SEA"
+      ],
+      "hints": {
+        "chinese": "东 | 海",
+        "hindi": "पूर्व | समुद्र",
+        "french": "est | mer",
+        "spanish": "este | mar",
+        "turkish": "doğu | deniz",
+        "german": "Osten | Meer"
+      },
+      "validWords": [
+        "east",
+        "eat",
+        "sea",
+        "set",
+        "tea"
+      ],
+      "rubyReward": 5
+    },
+    {
+      "world": 0,
+      "subWorld": 1,
+      "level": 17,
+      "sourceWord": "ties",
+      "targetWords": [
+        "SITE",
+        "TIES",
+        "SIT",
+        "ITS"
+      ],
+      "hints": {
+        "chinese": "网站 | 领带 | 坐 | 它的",
+        "hindi": "साइट | टाई | बैठना | इसका",
+        "french": "site | cravates | s\\ | son/sa",
+        "spanish": "sitio | corbatas | sentarse | su",
+        "turkish": "site | bağlar | oturmak | onun (nesne)",
+        "german": "Seite | Krawatten | sitzen | sein"
+      },
+      "validWords": [
+        "its",
+        "set",
+        "sit",
+        "site",
+        "tie",
+        "ties"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 0,
+      "subWorld": 1,
+      "level": 16,
+      "sourceWord": "site",
+      "targetWords": [
+        "SITE",
+        "TIE"
+      ],
+      "hints": {
+        "chinese": "网站 | 系",
+        "hindi": "साइट | बांधना",
+        "french": "site | attacher",
+        "spanish": "sitio | atar",
+        "turkish": "site | bağlamak",
+        "german": "Seite | binden"
+      },
+      "validWords": [
+        "its",
+        "set",
+        "sit",
+        "site",
+        "tie",
+        "ties"
+      ],
+      "rubyReward": 5
+    },
+    {
+      "world": 0,
+      "subWorld": 1,
+      "level": 15,
+      "sourceWord": "play",
+      "targetWords": [
+        "PLAY",
+        "PAY",
+        "LAY",
+        "LAP"
+      ],
+      "hints": {
+        "chinese": "玩 | 付钱 | 放 | 膝盖",
+        "hindi": "खेलना | भुगतान | रखना | गोद",
+        "french": "jouer | payer | poser | genoux",
+        "spanish": "jugar | pagar | poner | regazo",
+        "turkish": "oynamak | ödemek | yatırmak | kucak",
+        "german": "spielen | bezahlen | legen | Schoß"
+      },
+      "validWords": [
+        "lap",
+        "lay",
+        "pay",
+        "play"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 0,
+      "subWorld": 1,
+      "level": 14,
+      "sourceWord": "pray",
+      "targetWords": [
+        "PRAY",
+        "RAY"
+      ],
+      "hints": {
+        "chinese": "祈祷 | 光线",
+        "hindi": "प्रार्थना | किरण",
+        "french": "prier | rayon",
+        "spanish": "rezar | rayo",
+        "turkish": "dua etmek | ışın",
+        "german": "beten | Strahl"
+      },
+      "validWords": [
+        "pay",
+        "pray",
+        "ray"
+      ],
+      "rubyReward": 5
+    },
+    {
+      "world": 0,
+      "subWorld": 1,
+      "level": 13,
+      "sourceWord": "hand",
+      "targetWords": [
+        "HAND",
+        "HAD",
+        "AND"
+      ],
+      "hints": {
+        "chinese": "手 | 有 | 和",
+        "hindi": "हाथ | था | और",
+        "french": "main | avait | et",
+        "spanish": "mano | tenía | y",
+        "turkish": "el | sahipti | ve",
+        "german": "Hand | hatte | und"
+      },
+      "validWords": [
+        "and",
+        "had",
+        "hand"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 1,
+      "level": 12,
+      "sourceWord": "name",
+      "targetWords": [
+        "MEAN",
+        "NAME",
+        "MAN"
+      ],
+      "hints": {
+        "chinese": "意思 | 名字 | 男人",
+        "hindi": "मतलब | नाम | आदमी",
+        "french": "signifier | nom | homme",
+        "spanish": "significar | nombre | hombre",
+        "turkish": "demek | isim | adam",
+        "german": "bedeuten | Name | Mann"
+      },
+      "validWords": [
+        "man",
+        "mean",
+        "name"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 1,
+      "level": 11,
+      "sourceWord": "year",
+      "targetWords": [
+        "YEAR",
+        "RAY"
+      ],
+      "hints": {
+        "chinese": "年 | 光线",
+        "hindi": "साल | किरण",
+        "french": "année | rayon",
+        "spanish": "año | rayo",
+        "turkish": "yıl | ışın",
+        "german": "Jahr | Strahl"
+      },
+      "validWords": [
+        "ear",
+        "ray",
+        "year"
+      ],
+      "rubyReward": 5
+    },
+    {
+      "world": 0,
+      "subWorld": 1,
+      "level": 10,
+      "sourceWord": "part",
+      "targetWords": [
+        "PART",
+        "PAT",
+        "TAP"
+      ],
+      "hints": {
+        "chinese": "部分 | 轻拍 | 轻敲",
+        "hindi": "भाग | थपथपाना | थपथपाना",
+        "french": "partie | caresser | tapoter",
+        "spanish": "parte | acariciar | tocar",
+        "turkish": "parça | okşamak | hafifçe vurmak",
+        "german": "Teil | streicheln | klopfen"
+      },
+      "validWords": [
+        "art",
+        "part",
+        "pat",
+        "rat",
+        "tap"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 1,
+      "level": 9,
+      "sourceWord": "star",
+      "targetWords": [
+        "STAR",
+        "ART",
+        "RAT"
+      ],
+      "hints": {
+        "chinese": "星星 | 艺术 | 老鼠",
+        "hindi": "तारा | कला | चूहा",
+        "french": "étoile | art | rat",
+        "spanish": "estrella | arte | rata",
+        "turkish": "yıldız | sanat | sıçan",
+        "german": "Stern | Kunst | Ratte"
+      },
+      "validWords": [
+        "art",
+        "rat",
+        "star"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 1,
+      "level": 8,
+      "sourceWord": "town",
+      "targetWords": [
+        "TOWN",
+        "NOW",
+        "OWN",
+        "TWO"
+      ],
+      "hints": {
+        "chinese": "镇 | 现在 | 自己的 | 二",
+        "hindi": "कस्बा | अब | अपना | दो",
+        "french": "ville | maintenant | propre | deux",
+        "spanish": "pueblo | ahora | propio | dos",
+        "turkish": "kasaba | şimdi | sahip olmak | iki",
+        "german": "Stadt | jetzt | eigen | zwei"
+      },
+      "validWords": [
+        "now",
+        "own",
+        "town",
+        "two"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 0,
+      "subWorld": 1,
+      "level": 7,
+      "sourceWord": "hear",
+      "targetWords": [
+        "HEAR",
+        "HER"
+      ],
+      "hints": {
+        "chinese": "听 | 她的",
+        "hindi": "सुनना | उसका",
+        "french": "entendre | son/sa",
+        "spanish": "oír | su",
+        "turkish": "duymak | onun (kadın)",
+        "german": "hören | ihr"
+      },
+      "validWords": [
+        "ear",
+        "hear",
+        "her"
+      ],
+      "rubyReward": 5
+    },
+    {
+      "world": 0,
+      "subWorld": 1,
+      "level": 6,
+      "sourceWord": "know",
+      "targetWords": [
+        "KNOW",
+        "NOW",
+        "OWN"
+      ],
+      "hints": {
+        "chinese": "知道 | 现在 | 自己的",
+        "hindi": "जानना | अब | अपना",
+        "french": "savoir | maintenant | propre",
+        "spanish": "saber | ahora | propio",
+        "turkish": "bilmek | şimdi | sahip olmak",
+        "german": "wissen | jetzt | eigen"
+      },
+      "validWords": [
+        "know",
+        "now",
+        "own"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 1,
+      "level": 5,
+      "sourceWord": "mean",
+      "targetWords": [
+        "MEAN",
+        "MAN"
+      ],
+      "hints": {
+        "chinese": "意思 | 男人",
+        "hindi": "मतलब | आदमी",
+        "french": "signifier | homme",
+        "spanish": "significar | hombre",
+        "turkish": "demek | adam",
+        "german": "bedeuten | Mann"
+      },
+      "validWords": [
+        "man",
+        "mean",
+        "name"
+      ],
+      "rubyReward": 5
+    },
+    {
+      "world": 0,
+      "subWorld": 1,
+      "level": 4,
+      "sourceWord": "open",
+      "targetWords": [
+        "OPEN",
+        "PEN",
+        "ONE"
+      ],
+      "hints": {
+        "chinese": "打开 | 笔 | 一",
+        "hindi": "खोलना | कलम | एक",
+        "french": "ouvrir | stylo | un",
+        "spanish": "abrir | bolígrafo | uno",
+        "turkish": "açmak | kalem | bir",
+        "german": "öffnen | Stift | eins"
+      },
+      "validWords": [
+        "one",
+        "open",
+        "pen"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 1,
+      "level": 3,
+      "sourceWord": "read",
+      "targetWords": [
+        "READ",
+        "RED"
+      ],
+      "hints": {
+        "chinese": "读 | 红色",
+        "hindi": "पढ़ना | लाल",
+        "french": "lire | rouge",
+        "spanish": "leer | rojo",
+        "turkish": "okumak | kırmızı",
+        "german": "lesen | rot"
+      },
+      "validWords": [
+        "ear",
+        "read",
+        "red"
+      ],
+      "rubyReward": 5
+    },
+    {
+      "world": 0,
+      "subWorld": 1,
+      "level": 2,
+      "sourceWord": "show",
+      "targetWords": [
+        "SHOW",
+        "HOW",
+        "WHO"
+      ],
+      "hints": {
+        "chinese": "显示 | 怎么 | 谁",
+        "hindi": "दिखाना | कैसे | कौन",
+        "french": "montrer | comment | qui",
+        "spanish": "mostrar | cómo | quién",
+        "turkish": "göstermek | nasıl | kim",
+        "german": "zeigen | wie | wer"
+      },
+      "validWords": [
+        "how",
+        "show",
+        "who"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 1,
+      "level": 1,
+      "sourceWord": "take",
+      "targetWords": [
+        "TAKE",
+        "EAT",
+        "TEA"
+      ],
+      "hints": {
+        "chinese": "拿 | 吃 | 茶",
+        "hindi": "लेना | खाना | चाय",
+        "french": "prendre | manger | thé",
+        "spanish": "tomar | comer | té",
+        "turkish": "almak | yemek | çay",
+        "german": "nehmen | essen | Tee"
+      },
+      "validWords": [
+        "eat",
+        "take",
+        "tea"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 1,
+      "level": 0,
+      "sourceWord": "dead",
+      "targetWords": [
+        "DEAD",
+        "DAD",
+        "ADD"
+      ],
+      "hints": {
+        "chinese": "死 | 爸爸 | 添加",
+        "hindi": "मृत | पापा | जोड़ना",
+        "french": "mort | papa | ajouter",
+        "spanish": "muerto | papá | añadir",
+        "turkish": "ölü | baba | eklemek",
+        "german": "tot | Papa | hinzufügen"
+      },
+      "validWords": [
+        "add",
+        "dad",
+        "dead"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 0,
+      "level": 17,
+      "sourceWord": "easy",
+      "targetWords": [
+        "EASY",
+        "SAY",
+        "YES",
+        "SEA"
+      ],
+      "hints": {
+        "chinese": "容易 | 说 | 是 | 海",
+        "hindi": "आसान | कहना | हाँ | समुद्र",
+        "french": "facile | dire | oui | mer",
+        "spanish": "fácil | decir | sí | mar",
+        "turkish": "kolay | söylemek | evet | deniz",
+        "german": "einfach | sagen | ja | Meer"
+      },
+      "validWords": [
+        "as",
+        "easy",
+        "say",
+        "sea",
+        "yes"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 0,
+      "subWorld": 0,
+      "level": 16,
+      "sourceWord": "late",
+      "targetWords": [
+        "LATE",
+        "LET",
+        "EAT",
+        "TEA"
+      ],
+      "hints": {
+        "chinese": "晚 | 让 | 吃 | 茶",
+        "hindi": "देर | देना | खाना | चाय",
+        "french": "tard | laisser | manger | thé",
+        "spanish": "tarde | dejar | comer | té",
+        "turkish": "geç | izin vermek | yemek | çay",
+        "german": "spät | lassen | essen | Tee"
+      },
+      "validWords": [
+        "at",
+        "eat",
+        "late",
+        "let",
+        "tea"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 0,
+      "subWorld": 0,
+      "level": 15,
+      "sourceWord": "warm",
+      "targetWords": [
+        "WARM",
+        "ARM",
+        "WAR"
+      ],
+      "hints": {
+        "chinese": "温暖 | 手臂 | 战争",
+        "hindi": "गर्म | बांह | युद्ध",
+        "french": "chaud | bras | guerre",
+        "spanish": "cálido | brazo | guerra",
+        "turkish": "sıcak | kol | savaş",
+        "german": "warm | Arm | Krieg"
+      },
+      "validWords": [
+        "arm",
+        "war",
+        "warm"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 0,
+      "level": 14,
+      "sourceWord": "four",
+      "targetWords": [
+        "FOUR",
+        "FOR",
+        "OUR"
+      ],
+      "hints": {
+        "chinese": "四 | 为了 | 我们的",
+        "hindi": "चार | के लिए | हमारा",
+        "french": "quatre | pour | notre",
+        "spanish": "cuatro | para | nuestro",
+        "turkish": "dört | için | bizim",
+        "german": "vier | für | unser"
+      },
+      "validWords": [
+        "for",
+        "four",
+        "of",
+        "or",
+        "our"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 0,
+      "level": 13,
+      "sourceWord": "gold",
+      "targetWords": [
+        "GOLD",
+        "DOG",
+        "OLD"
+      ],
+      "hints": {
+        "chinese": "金色 | 狗 | 老",
+        "hindi": "सोना | कुत्ता | पुराना",
+        "french": "or | chien | vieux",
+        "spanish": "oro | perro | viejo",
+        "turkish": "altın | köpek | eski",
+        "german": "gold | Hund | alt"
+      },
+      "validWords": [
+        "do",
+        "dog",
+        "go",
+        "gold",
+        "old"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 0,
+      "level": 12,
+      "sourceWord": "bath",
+      "targetWords": [
+        "BATH",
+        "BAT"
+      ],
+      "hints": {
+        "chinese": "洗澡 | 蝙蝠",
+        "hindi": "स्नान | चमगादड़",
+        "french": "bain | chauve-souris",
+        "spanish": "baño | murciélago",
+        "turkish": "banyo | yarasa",
+        "german": "Bad | Fledermaus"
+      },
+      "validWords": [
+        "at",
+        "bat",
+        "bath",
+        "hat"
+      ],
+      "rubyReward": 5
+    },
+    {
+      "world": 0,
+      "subWorld": 0,
+      "level": 11,
+      "sourceWord": "coat",
+      "targetWords": [
+        "COAT",
+        "CAT",
+        "ACT"
+      ],
+      "hints": {
+        "chinese": "外套 | 猫 | 行动",
+        "hindi": "कोट | बिल्ली | काम करना",
+        "french": "manteau | chat | agir",
+        "spanish": "abrigo | gato | actuar",
+        "turkish": "palto | kedi | hareket etmek",
+        "german": "Mantel | Katze | handeln"
+      },
+      "validWords": [
+        "act",
+        "at",
+        "cat",
+        "coat",
+        "to"
+      ],
+      "rubyReward": 7
+    },
+    {
+      "world": 0,
+      "subWorld": 0,
+      "level": 10,
+      "sourceWord": "farm",
+      "targetWords": [
+        "FARM",
+        "FAR"
+      ],
+      "hints": {
+        "chinese": "农场 | 远",
+        "hindi": "खेत | दूर",
+        "french": "ferme | loin",
+        "spanish": "granja | lejos",
+        "turkish": "çiftlik | uzak",
+        "german": "Bauernhof | weit"
+      },
+      "validWords": [
+        "arm",
+        "far",
+        "farm"
+      ],
+      "rubyReward": 5
+    },
+    {
+      "world": 0,
+      "subWorld": 0,
+      "level": 9,
+      "sourceWord": "snow",
+      "targetWords": [
+        "SNOW",
+        "NOW",
+        "OWN",
+        "SON"
+      ],
+      "hints": {
+        "chinese": "雪 | 现在 | 自己的 | 儿子",
+        "hindi": "बर्फ | अब | अपना | बेटा",
+        "french": "neige | maintenant | propre | fils",
+        "spanish": "nieve | ahora | propio | hijo",
+        "turkish": "kar | şimdi | sahip olmak | oğul",
+        "german": "Schnee | jetzt | eigen | Sohn"
+      },
+      "validWords": [
+        "no",
+        "now",
+        "on",
+        "own",
+        "snow",
+        "so",
+        "son"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 0,
+      "subWorld": 0,
+      "level": 8,
+      "sourceWord": "arest",
+      "targetWords": [
+        "REST",
+        "AT",
+        "AS"
+      ],
+      "hints": {
+        "chinese": "休息 | 在 | 作为",
+        "hindi": "आराम | पर | जैसे",
+        "french": "se reposer | à | comme",
+        "spanish": "descansar | en | como",
+        "turkish": "dinlenmek | de/da | gibi",
+        "german": "ruhen | bei/an | als"
+      },
+      "validWords": [
+        "art",
+        "as",
+        "at",
+        "ear",
+        "east",
+        "eat",
+        "rat",
+        "rest",
+        "sea",
+        "set",
+        "star",
+        "tea"
+      ],
+      "rubyReward": 6
+    },
+    {
+      "world": 0,
+      "subWorld": 0,
+      "level": 7,
+      "sourceWord": "itest",
+      "targetWords": [
+        "TEST",
+        "IT"
+      ],
+      "hints": {
+        "chinese": "测试 | 它",
+        "hindi": "परीक्षा | यह",
+        "french": "test | il/elle",
+        "spanish": "prueba | eso",
+        "turkish": "test | o (nesne)",
+        "german": "Test | es"
+      },
+      "validWords": [
+        "it",
+        "its",
+        "set",
+        "sit",
+        "site",
+        "test",
+        "tie",
+        "ties"
+      ],
+      "rubyReward": 4
+    },
+    {
+      "world": 0,
+      "subWorld": 0,
+      "level": 6,
+      "sourceWord": "trise",
+      "targetWords": [
+        "RISE",
+        "SIR"
+      ],
+      "hints": {
+        "chinese": "上升 | 先生",
+        "hindi": "उठना | सर",
+        "french": "monter | monsieur",
+        "spanish": "subir | señor",
+        "turkish": "yükselmek | efendi",
+        "german": "steigen | Herr"
+      },
+      "validWords": [
+        "it",
+        "its",
+        "rest",
+        "rise",
+        "set",
+        "sir",
+        "sit",
+        "site",
+        "tie",
+        "ties"
+      ],
+      "rubyReward": 5
+    },
+    {
+      "world": 0,
+      "subWorld": 0,
+      "level": 5,
+      "sourceWord": "estay",
+      "targetWords": [
+        "STAY",
+        "YET",
+        "SAY",
+        "YES"
+      ],
+      "hints": {
+        "chinese": "留 | 还 | 说 | 是",
+        "hindi": "रहना | अभी तक | कहना | हाँ",
+        "french": "rester | encore | dire | oui",
+        "spanish": "quedarse | todavía | decir | sí",
+        "turkish": "kalmak | henüz | söylemek | evet",
+        "german": "bleiben | noch | sagen | ja"
+      },
+      "validWords": [
+        "as",
+        "at",
+        "east",
+        "easy",
+        "eat",
+        "say",
+        "sea",
+        "set",
+        "stay",
+        "tea",
+        "yes",
+        "yet"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 0,
+      "subWorld": 0,
+      "level": 4,
+      "sourceWord": "saway",
+      "targetWords": [
+        "AWAY",
+        "WAS",
+        "WAY",
+        "SAW"
+      ],
+      "hints": {
+        "chinese": "远 | 是 | 路 | 锯",
+        "hindi": "दूर | था | रास्ता | आरी",
+        "french": "loin | était | chemin | scie",
+        "spanish": "lejos | era | camino | sierra",
+        "turkish": "uzakta | idi | yol | testere",
+        "german": "weg | war | Weg | Säge"
+      },
+      "validWords": [
+        "as",
+        "away",
+        "saw",
+        "say",
+        "was",
+        "way"
+      ],
+      "rubyReward": 9
+    },
+    {
+      "world": 0,
+      "subWorld": 0,
+      "level": 3,
+      "sourceWord": "tgray",
+      "targetWords": [
+        "GRAY",
+        "TAG",
+        "TRY"
+      ],
+      "hints": {
+        "chinese": "灰色 | 标签 | 尝试",
+        "hindi": "स्लेटी | टैग | कोशिश",
+        "french": "gris | étiquette | essayer",
+        "spanish": "gris | etiqueta | intentar",
+        "turkish": "gri | etiket | denemek",
+        "german": "grau | Etikett | versuchen"
+      },
+      "validWords": [
+        "art",
+        "at",
+        "gray",
+        "rat",
+        "ray",
+        "tag",
+        "try"
+      ],
+      "rubyReward": 7
+    }
+  ]
+}

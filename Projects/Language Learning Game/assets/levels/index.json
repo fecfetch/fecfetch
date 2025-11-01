@@ -1,0 +1,73 @@
+{
+  "version": "2.0",
+  "structure": "organized_by_cefr_level",
+  "generatedAt": "2025-07-22T04:28:03.468833",
+  "totalFiles": 7,
+  "totalLevels": 630,
+  "description": "Organized level files grouped by target language and CEFR proficiency level",
+  "files": [
+    {
+      "fileName": "en_a1_levels.json",
+      "targetLanguage": "en",
+      "nativeLanguage": "tr",
+      "cefrLevel": "A1",
+      "totalLevels": 90,
+      "generatedAt": "2025-07-22T04:28:03.405312",
+      "description": "Levels for A1 proficiency in English"
+    },
+    {
+      "fileName": "en_a2_levels.json",
+      "targetLanguage": "en",
+      "nativeLanguage": "tr",
+      "cefrLevel": "A2",
+      "totalLevels": 90,
+      "generatedAt": "2025-07-22T04:28:03.412833",
+      "description": "Levels for A2 proficiency in English"
+    },
+    {
+      "fileName": "en_b1_levels.json",
+      "targetLanguage": "en",
+      "nativeLanguage": "tr",
+      "cefrLevel": "B1",
+      "totalLevels": 90,
+      "generatedAt": "2025-07-22T03:39:01.887091",
+      "description": "Levels for B1 proficiency in English"
+    },
+    {
+      "fileName": "en_b2_levels.json",
+      "targetLanguage": "en",
+      "nativeLanguage": "tr",
+      "cefrLevel": "B2",
+      "totalLevels": 90,
+      "generatedAt": "2025-07-22T03:39:01.896091",
+      "description": "Levels for B2 proficiency in English"
+    },
+    {
+      "fileName": "en_c1_levels.json",
+      "targetLanguage": "en",
+      "nativeLanguage": "tr",
+      "cefrLevel": "C1",
+      "totalLevels": 90,
+      "generatedAt": "2025-07-22T03:39:01.902082",
+      "description": "Levels for C1 proficiency in English"
+    },
+    {
+      "fileName": "en_c2_levels.json",
+      "targetLanguage": "en",
+      "nativeLanguage": "tr",
+      "cefrLevel": "C2",
+      "totalLevels": 90,
+      "generatedAt": "2025-07-22T03:39:01.930106",
+      "description": "Levels for C2 proficiency in English"
+    },
+    {
+      "fileName": "en_mixed_levels.json",
+      "targetLanguage": "en",
+      "nativeLanguage": "tr",
+      "cefrLevel": "MIXED",
+      "totalLevels": 90,
+      "generatedAt": "2025-07-22T03:39:01.945656",
+      "description": "Levels for MIXED proficiency in English"
+    }
+  ]
+}
