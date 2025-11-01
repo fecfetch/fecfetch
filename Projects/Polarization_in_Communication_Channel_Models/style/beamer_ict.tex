@@ -1,0 +1,110 @@
+% papersize is 128mm times 96mm.
+% Last change: 2007-07-06, jf 
+% 2007-07-06, Justus Fricke
+%  - ./style/beamerouterthemeict.sty changed for pgf >= 1.00
+%  - version output added
+%  - new IEEEtran.bst (version 1.12) included in ./style
+%  - changed figure environment (caption) [chk] 23.03.2011
+
+\typeout{^^J-- beamer_ict.tex, version 1.1,  2007-07-06^^J}
+
+%==== packages ====
+\usepackage{verbatim}
+\usepackage{graphicx}
+\usepackage{overpic}
+
+%==== beamer themes ====
+\usetheme{default}                 % presentation theme
+\usepackage{./style/beamerouterthemeict}  % serving as outer theme 
+\useinnertheme[shadow]{rounded}    % inner theme
+\usecolortheme{orchid}             % inner colorscheme
+\usefonttheme[onlymath]{serif}     % use serif fonts for mathematical text
+
+
+%===========================================================
+% Template settings
+%===========================================================
+
+\definecolor{tf_blue}{RGB}{10,5,74}     % TF blue
+\definecolor{tf_red}{RGB}{161,0,32}     % TF red
+\definecolor{ptf_blue}{RGB}{10,5,124}   % pseudo (light) TF blue
+
+\setbeamertemplate{headline}[default]   % default: leave headline empty
+
+
+% override the beamer default footline
+\setbeamertemplate{footline}{
+  \hrule
+  \vspace{0.2cm}
+  \begin{minipage}[t][0.25cm][c]{1.3cm}
+     %\hspace{0.1cm}
+     \includegraphics[scale=0.21]{./style/logo_hensoldt.jpg}
+     \vspace{0.02cm}
+  \end{minipage}
+  \hspace{6.0cm}
+  \begin{minipage}[t][0.25cm][c]{3cm}
+%    Faculty of Engineering\\
+%    University of Kiel
+  \end{minipage}
+  %\hfill
+  \begin{minipage}[t][0.25cm][c]{1cm}
+    \begin{center}
+      \insertframenumber\\    % to display the current frame number in the footline      
+    \end{center}
+  \end{minipage}
+  \hspace{2.2cm}
+%   \begin{minipage}[t][0.25cm][c]{1.8cm}
+%  	\begin{flushleft}
+%  		Maurice Hott\\
+%  		maho@tf.uni-kiel.de
+%  	\end{flushleft}
+%  \end{minipage}
+  %\hspace*{0.5cm}
+  %\hfill
+%  \begin{minipage}[t][0.28cm][c]{1.6cm}
+%    \begin{flushright}
+%      Chair of Information\\
+%      and Coding Theory
+%    \end{flushright}
+%  \end{minipage}
+  \begin{minipage}[t][0.28cm][c]{3.4cm}
+	\begin{flushright}
+		Maurice Hott $\vert$ maho@tf.uni-kiel.de\\
+		Kiel University
+	\end{flushright}
+\end{minipage}
+  \hspace{0.1cm}
+  \begin{minipage}[t][0.25cm][c]{1.2cm}
+     \includegraphics[scale=0.105]{./pics/cau-logo-color.png}
+  \end{minipage}
+  \vspace{0.16cm}
+}
+
+
+\setbeamersize{text margin left = 0.5cm, text margin right = 0.5cm} % sets frame margins
+
+\setbeamercolor{frametitle}{fg=white,bg=ptf_blue!70!blue!}          % define start colour for frame title shading
+\setbeamercolor{frametitle right}{fg=white, bg=tf_blue}    	    % define end colour for frame title shading
+\setbeamercolor{block title}{bg=ptf_blue}
+\setbeamercolor{structure}{fg=ptf_blue}
+
+\setbeamercolor{title}{fg=white,bg=ptf_blue}	% block around the title
+\setbeamerfont{date}{parent=institute}          % use the same font for the date as for the institute entry
+
+\setbeamercovered{invisible} % uncovered objects are invisible, other are "dynamic", "higly dynamic", "tranparent=n%"
+
+\beamertemplatenavigationsymbolsempty % no navigation symbols
+
+
+% set bullets for itemizations
+\setbeamertemplate{itemize item}[triangle]
+\setbeamertemplate{itemize subitem}[circle]
+\setbeamertemplate{itemize subsubitem}[circle]
+
+% set bullets for enumerations
+\setbeamertemplate{enumerate items}[default]
+
+% set bullets for table of contents
+\setbeamertemplate{sections/subsections in toc}[sections numbered]
+
+\logo{} % the position of this logo depends on the used outer theme

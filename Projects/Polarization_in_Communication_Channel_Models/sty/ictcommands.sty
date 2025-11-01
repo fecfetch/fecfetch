@@ -1,0 +1,343 @@
+% author  : Justus Fricke
+% author  : Christopher Knievel
+% Last modified:
+% 2007-07-20, \vspace*{-1.5pt} in \sat
+% 2007-09-05, accents package, jf
+% 2007-09-12, changed \P{}
+% 2007-11-06, added package color to print \missing{} in red
+% 2008-02-07, superscript for matrix transform
+% 2008-02-08, error probabilites
+% 2008-02-14, \arg
+% 2008-02-19, \Var, \Cov
+% 2008-02-19, \CRC, \FEC
+% 2008-06-10, \EHC, \MLC, changed \BEP and \WEP
+% 2008-06-24, \SPR
+% 2008-06-25, \IDM
+% 2008-07-21, \erfc, \erf
+% 2008-09-01, \dec
+% 2015-09-08, overall modernization, compatibility not checked
+
+\usepackage[english]{babel}
+\selectlanguage{english}
+\usepackage{bm}
+\usepackage{mathtools}
+\usepackage{calc}
+\usepackage{xspace}
+
+\usepackage{tikz}
+\usetikzlibrary{shapes,%
+                shapes.arrows,%
+                arrows,%
+                arrows.meta,%
+                decorations,%
+                decorations.markings,%
+                patterns,%
+                fit,%
+                3d,%
+                positioning,%
+                calc}
+\tikzset{
+dashdotted/.style={
+dash pattern=on 4pt off 3pt on 1pt off 3pt,
+},
+}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.10}
+\usepgfplotslibrary{external,polar}
+
+
+%-----------------------------------------------
+% tikz 3d plots
+%-----------------------------------------------
+
+\newcommand{\xangle}{11}
+\newcommand{\yangle}{150}
+\newcommand{\zangle}{270}
+
+\newcommand{\xlength}{1.5}
+\newcommand{\ylength}{1.5}
+\newcommand{\zlength}{2}
+
+% nice result for 30 150 270 1 1.414 1.732
+% nice result for 11 133 270 1 1 1
+
+\newcommand{\dimensionx}{3}% actually dimension-1
+\newcommand{\dimensiony}{5}% actually dimension-1
+\newcommand{\dimensionz}{1}% actually dimension-1
+\newcommand{\dimensionztd}{2}% actually dimension-1
+\newcommand{\dimensionxtd}{3}% actually dimension-1
+\newcommand{\dimensionytd}{3}% actually dimension-1
+
+\pgfmathsetmacro{\xx}{\xlength*cos(\xangle)}
+\pgfmathsetmacro{\xy}{\xlength*sin(\xangle)}
+\pgfmathsetmacro{\yx}{\ylength*cos(\yangle)}
+\pgfmathsetmacro{\yy}{\ylength*sin(\yangle)}
+\pgfmathsetmacro{\zx}{\zlength*cos(\zangle)}
+\pgfmathsetmacro{\zy}{\zlength*sin(\zangle)}
+
+
+% tikz one column plots
+\newlength{\singlecolheight}
+\newlength{\singlecolwidth}
+\setlength\singlecolheight{6.445cm}
+\setlength\singlecolwidth{8.5cm}
+
+
+
+% tikz two columns plots
+\newlength{\twocolheight}
+\newlength{\twocolwidth}
+\setlength\twocolheight{5.445cm}
+\setlength\twocolwidth{7.2cm}
+
+
+% tikz two columns plots
+\newlength{\twocolheightsmall}
+\newlength{\twocolwidthsmall}
+\setlength\twocolheightsmall{2.9cm}
+\setlength\twocolwidthsmall{2.9cm}
+\newlength{\twocolheightsmallt}
+\newlength{\twocolwidthsmallt}
+\setlength\twocolheightsmallt{6cm}
+\setlength\twocolwidthsmallt{8cm}
+
+
+% tikz exit chart plots
+\newlength{\exitchart}
+\setlength\exitchart{6cm}
+
+\newlength{\smallrect}
+\setlength\smallrect{5cm}
+
+
+%------------------------------------------------------------------------------
+% Mathematical operators
+%------------------------------------------------------------------------------
+
+% circular convolution
+\def\conv{\mathbin{\hbox{$\,*$\kern-1.5ex$\odot$}}}
+
+% "Must be equal"-sign
+\newcommand{\mbeq}{\overset{!}{=}}
+
+% Definition sign (alternative: \coloneqq from mathtools package)
+\newcommand{\define}{\stackrel{\scriptscriptstyle\triangle}{=}}
+
+% argument of maximum operator (usage: \argmin{x}{ax²+bx+c+y} )
+\newcommand{\argmax}[2]{\arg\max_{#1} \left\{ #2 \right\} }
+
+% argument of minimum operator
+\newcommand{\argmin}[2]{\arg\min_{#1} \left\{ #2 \right\} }
+
+% diagonal of matrix
+\newcommand{\diag}[1]{\operatorname{diag}\lbrace #1 \rbrace}
+
+% Logarithmus dualis
+\DeclareMathOperator*{\ld}{ld}
+
+% error function
+\DeclareMathOperator*{\erf}{erf}
+
+% error function complement
+\DeclareMathOperator*{\erfc}{erfc}
+
+% grad
+\DeclareMathOperator*{\grad}{grad}
+
+% trace of matrix
+\DeclareMathOperator*{\tr}{tr}
+
+% signum 
+\DeclareMathOperator*{\sgn}{sgn}
+
+% sinc function
+\DeclareMathOperator*{\sinc}{sinc}
+
+% absolute alue
+\DeclareMathOperator*{\abs}{abs}
+
+% real part
+\renewcommand{\Re}{\operatorname{Re}}
+
+% imaginary part
+\renewcommand{\Im}{\operatorname{Im}}
+
+% LLR of ...
+\DeclareMathOperator{\LLR}{L}
+
+% expectation of something
+\newcommand{\E}[1]{ \operatorname{E}\left\{ #1 \right\} }
+\newcommand{\Einl}[1]{ \operatorname{E}\{ #1 \} }
+
+% covariance
+\newcommand{\Cov}[1]{\operatorname{Cov}\left\{ #1 \right\} }
+
+% variance
+\newcommand{\Var}[1]{ \operatorname{Var}\left\{ #1 \right\} }
+
+% Integrand
+\newcommand{\dd}{\mathop{}\!\mathrm{d}}
+
+%------------------------------------------------------------------------------
+% Mathematical delimiters
+%------------------------------------------------------------------------------
+
+% ceil and floor delimiters
+% usage: \ceil{expr} or \ceil*{expr} for varaible height brackets
+% needs 'mathtools' package
+\DeclarePairedDelimiter{\ceil}{\lceil}{\rceil}
+\DeclarePairedDelimiter{\floor}{\lfloor}{\rfloor}
+
+% absolute squares value
+\newcommand{\absSq}[1]{\left|#1\right|^2}
+
+% Frobenius norm
+\newcommand{\fronorm}[1]{\left|#1\right|_\mathrm{F}}
+
+%------------------------------------------------------------------------------
+% Mathematical constants
+%------------------------------------------------------------------------------
+
+% Euler constant
+\newcommand{\e}{\mathrm{e}}
+
+% imaginary unit
+\renewcommand{\j}{\mathrm{j}}
+
+%------------------------------------------------------------------------------
+% Variable types
+%------------------------------------------------------------------------------
+
+% Zufallsvariable
+\newcommand{\RV}[1]{\mathcal{#1}}
+
+% Probability distributions
+\newcommand{\ProbDist}[1]{\ensuremath{\mathcal{#1} }}
+
+% matrix
+\newcommand{\mat}[1]{\bm{#1}}
+
+% Identity matrix
+\newcommand{\eye}{\mat{I}}
+\newcommand{\I}[1]{\eye_{#1}}
+
+% Mengensymbole
+\newcommand{\setm}[1]{\mathbb{#1}}
+
+% information and code words, frames etc.
+\newcommand{\word}[1]{\bm{#1}}
+
+% Received word and hypothesis
+\newcommand{\recw}[1]{\hat{\word{#1}}}
+\newcommand{\hypw}[1]{\tilde{\word{#1}}}
+
+%------------------------------------------------------------------------------
+% Variable sub/superscripts
+%------------------------------------------------------------------------------
+
+% systematic code, generator matrix
+\newcommand{\sys}{\mathrm{s}}
+
+% subscript for max
+\newcommand{\smax}{\mathsf{max}}
+
+% subscript for vertical (V)
+\newcommand{\ver}{\mathrm{V}}
+
+% subscript for horizontal (H)
+\newcommand{\hor}{\mathrm{H}}
+
+% superscript for conjugated matrix 
+\newcommand{\conj}{\ast}
+
+% superscript for transposed matrix 
+\newcommand{\trans}{\mathrm{T}}
+
+% superscript for matrix inverse
+\newcommand{\inv}{\mathsf{-1}}
+
+% superscript for Hermitian transpose 
+\newcommand{\herm}{\mathrm{H}}
+
+% Extrinsic
+\newcommand{\extr}{\mathrm{E}}
+
+% A priori als super/sub script
+\newcommand{\apr}{\mathrm{A}}
+
+% MAP als super/sub script
+\newcommand{\MAP}{\mathrm{MAP}}
+
+% APP als super/sub script
+\newcommand{\APP}{\mathrm{APP}}
+
+% CRC als super/sub script
+\newcommand{\CRC}{\mathrm{CRC}}
+
+% Dec/Dem als super/sub script
+\newcommand{\dec}{\mathrm{dec}}
+\newcommand{\DEC}{\mathrm{DEC}}
+\newcommand{\DEM}{\mathrm{DEM}}
+
+% FEC als super/sub script
+\newcommand{\FEC}{\mathrm{FEC}}
+
+% bit error probability
+\newcommand{\BEP}{\mathrm{BEP}}
+
+% word error probability
+\newcommand{\WEP}{\mathrm{WEP}}
+
+%================================================
+% probability and statistics
+%================================================
+
+% Festkomma-Darstellung
+\newcommand{\fp}{\operatorname{fp}}
+
+% Inverse breve fot soft symbols
+\newcommand{\sat}[1]{ \accentset{\vspace*{-1.5pt}\smallfrown}{#1} }
+
+%================================================
+%  coding
+%================================================
+
+%------------------------------------------------
+% information or code segment (block)
+%
+\newcommand{\seg}[1]{\underline{#1}}
+%------------------------------------------------
+
+
+%------------------------------------------------
+% info word error probability
+%
+\newcommand{\iWordEP}{ \P{ \hat{\word{u}} \neq \word{u}|\tilde{\word{x}}} }
+%------------------------------------------------
+
+%------------------------------------------------
+% code word error probability
+%
+\newcommand{\cWordEP}{ \P{ \hat{\word{c}} \neq \word{c}|\tilde{\word{x}}} }
+%------------------------------------------------
+
+%------------------------------------------------
+% info bit error probability
+%
+\newcommand{\iBitEP}{ \P{ \hat{u}_k \neq u_k|\tilde{\word{x}}} }
+%------------------------------------------------
+
+
+
+%------------------------------------------------
+% code bit error probability
+%
+\newcommand{\cBitEP}{\P{ \hat{c}_n \neq c_n|\tilde{\word{y}}}}
+%------------------------------------------------
+
+
+%------------------------------------------------
+% LogBCJR max operation
+%
+\DeclareMathOperator*{\maxs}{\max\nolimits^\star}
+%------------------------------------------------
