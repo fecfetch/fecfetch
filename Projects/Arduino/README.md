@@ -2,7 +2,7 @@
 
 This directory contains a collection of my Arduino-based projects.
 
-## LED Control via SMS
+## [LED Control via SMS](LED_Blink_via_SMS)
 
 This project uses a SIM800L GSM module to control an LED remotely by sending SMS messages. It's a practical demonstration of IoT capabilities, allowing for the remote control of electronic components.
 
@@ -11,7 +11,7 @@ This project uses a SIM800L GSM module to control an LED remotely by sending SMS
 - Uses the Sim800L GSM module for cellular communication.
 - Sends confirmation SMS messages back to the user.
 
-## Home Automation System
+## [Home Automation System](Home%20Automation%20System)
 
 This is a comprehensive home automation system that can be controlled via Bluetooth. It integrates various sensors to create an automated and responsive environment.
 
