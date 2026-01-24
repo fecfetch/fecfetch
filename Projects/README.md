@@ -2,7 +2,7 @@
 
 Here are some of the projects I've worked on.
 
-## Matkap Fork
+## [Matkap Fork](0x6rss-matkap-fork)
 
 This is a fork of the [Matkap](https://github.com/0x6rss/matkap) project, a tool for hunting down malicious Telegram bots. Matkap is designed to help cybersecurity professionals analyze and understand Telegram bot interactions.
 
@@ -12,23 +12,23 @@ This is a fork of the [Matkap](https://github.com/0x6rss/matkap) project, a tool
 
 This fork maintains the core functionality of the original project while allowing for personal modifications and contributions.
 
-## Arduino Projects
+## [Arduino Projects](Arduino)
 
 A collection of projects developed for the Arduino platform.
 
-### LED Blink via SMS
+### [LED Blink via SMS](Arduino/LED_Blink_via_SMS)
 This project uses a SIM800L GSM module to control an LED by sending SMS messages.
 - Send `#ac` to turn the LED on.
 - Send `#kapat` to turn the LED off.
 The device sends a confirmation SMS back to the user.
 
-### Home Automation System
+### [Home Automation System](Arduino/Home%20Automation%20System)
 A comprehensive home automation system with multiple modes, controlled via Bluetooth.
 - **Automatic Mode**: Manages lights based on ambient light levels (LDR), a fan based on temperature, and a water pump based on a water level sensor.
 - **Remote Mode**: Allows direct control of all connected devices (LEDs, fan, pump) via Bluetooth commands.
 - **Alarm Mode**: Activates a buzzer and an LED when motion is detected.
 
-## Language Learning Game
+## [Language Learning Game](Language%20Learning%20Game)
 
 A word puzzle game, "Word Chef," built with Flutter, designed to help users practice and learn languages. This project is a conversion of a game originally developed in Unity.
 
@@ -42,7 +42,7 @@ Players form words by connecting letters arranged in a circle. The goal is to fi
 - **State Management**: Uses the Provider pattern for robust state management.
 - **Local Storage**: Saves game progress using `shared_preferences`.
 
-## Polarization in Communication Channel Models
+## [Polarization in Communication Channels](Polarization_in_Communication_Channel_Models)
 
 A university presentation from Kiel University that investigates the role of antenna polarization in communication channel models. This research project compares the performance of Spatial Channel Models (SCM) using both cross-polarized and single-polarized antenna arrays.
 
@@ -52,7 +52,7 @@ A university presentation from Kiel University that investigates the role of ant
 - **Simulation**: A MATLAB-based simulation to model and compare the channel capacity of different polarization setups.
 - **Presentation**: The findings are compiled in a presentation created with LaTeX (Beamer).
 
-## Python Games
+## [Python Games](Python)
 
 A collection of classic games developed using Python and the Pygame library.
 
@@ -62,7 +62,7 @@ A two-player implementation of the classic game Connect Four with a graphical us
 ### Snake
 The timeless Snake game where the player controls a snake to eat food and grow longer, with adjustable speed.
 
-## Thesis: PLC-Based Object Sorting with Image Processing
+## [Thesis: PLC-Based Object Sorting with Image Processing](Thesis%20-%20PLC+Object%20Detection)
 
 This Bachelor's thesis project is a modular automation system that sorts objects on a conveyor belt based on their shape and color. The system integrates image processing with a Programmable Logic Controller (PLC) to create an efficient sorting solution for factory environments.
 
