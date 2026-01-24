@@ -19,17 +19,20 @@ This Bachelor's thesis project is a modular automation system that sorts objects
 
 ## [Language Learning Game](Language%20Learning%20Game)
 
-A word puzzle game, "Word Chef," built with Flutter, designed to help users practice and learn languages.
+"Word Chef," a word puzzle game designed to help users learn and practice new languages. In this project, I have utilized a range of mobile development skills and the integration of various packages to create a feature-rich application.
 
-### Gameplay
-Players form words by connecting letters arranged in a circle. The goal is to find all the target words in each level to progress through a series of worlds and sub-worlds.
+The development process was accelerated with the help of AI, particularly in designing the multilingual level generation system.
 
-### Key Features
-- **Drag-to-Connect**: An intuitive way to form words by dragging a finger across the letters.
-- **Progression System**: The game is structured into 7 worlds, each with multiple sub-worlds and levels.
-- **Hint and Shuffle**: Players can use in-game currency to get hints or shuffle the letters.
-- **State Management**: Uses the Provider pattern for robust state management.
-- **Local Storage**: Saves game progress using `shared_preferences`.
+### Core Technologies & Features
+-   **Framework**: Built with Flutter for a cross-platform experience on Android and iOS.
+-   **State Management**: Implemented using the `provider` package for scalable and maintainable state management.
+-   **Level Generation**: A custom, multilingual level generation system was developed using Dart and Python scripts, with AI assistance to create a diverse and engaging learning experience.
+-   **Text-to-Speech**: Integrated `flutter_tts` to provide audio pronunciation of words, enhancing the learning process.
+-   **Background Processing**: Used `workmanager` to handle background tasks, ensuring a smooth user experience.
+-   **Monetization**: Incorporated `google_mobile_ads` for displaying ads.
+-   **User Engagement**: Implemented `in_app_review` to prompt users for feedback and `flutter_local_notifications` for notifications.
+-   **Device Integration**: Utilized `shared_preferences` for local data persistence, `audioplayers` for sound effects, and `permission_handler` for managing device permissions.
+
 
 ## [Polarization in Communication Channels](Polarization_in_Communication_Channel_Models)
 
