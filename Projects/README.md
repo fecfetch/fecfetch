@@ -68,7 +68,7 @@ This is a fork of the [Matkap](https://github.com/0x6rss/matkap) project, a tool
 - **FOFA & URLScan Integration**: Searches for leaked Bot Tokens / Chat IDs on websites.
 - **Export Logs**: Export hunt logs for further analysis.
 
-This fork maintains the core functionality of the original project while allowing for personal modifications and contributions.
+This fork maintains the core functionality of the original project while adding a few quality of life functionality such as choosing the message ID and scanning through the messages quicker with automatic scan speed adjustments.
 
 ## [Python Games](Python)
 
