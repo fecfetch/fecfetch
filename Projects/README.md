@@ -2,6 +2,18 @@
 
 Here are some of the projects I've worked on.
 
+## [Damn Vulnerable MCP Server -  Improvements](Updated-damn-vulnerable-MCP-server)
+
+This is a fork of the [Damn Vulnerable MCP Server (DVMCP)](https://github.com/mrrfv/dvmcp) project, an educational security testing environment for the Model Context Protocol (MCP). The original project provides intentionally vulnerable MCP servers to help developers understand and test for security issues in AI agent integrations.
+
+### [My Contributions & Improvements](Updated-damn-vulnerable-MCP-server/CHANGES.md)
+- **Fixed SSE/Regular Server Inconsistencies**: Resolved critical issues where SSE server versions had different vulnerabilities than their regular counterparts, ensuring consistent learning experiences across all server implementations.
+- **Enhanced Realism**: Improved Challenge 4 (Rug Pull Attack) and Challenge 5 (Tool Shadowing) by adding missing resource access tools and removing unrealistic implementation patterns that don't exist in actual MCP environments.
+- **Architectural Fixes**: Corrected structural issues in multiple challenges, including improper server class implementations and import failures.
+- **Complete Exploit Chains**: Made vulnerabilities fully demonstrable by ensuring all necessary tools are present for complete attack scenarios.
+
+These improvements ensure the project accurately reflects real-world MCP security concerns and provides a more effective educational resource for developers learning about AI security.
+
 ## [Thesis: PLC-Based Object Sorting with Image Processing](Thesis%20-%20PLC+Object%20Detection)
 
 This Bachelor's thesis project is a modular automation system that sorts objects on a conveyor belt based on their shape and color. The system integrates image processing with a Programmable Logic Controller (PLC) to create an efficient sorting solution for factory environments.
