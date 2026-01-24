@@ -19,7 +19,7 @@ This Bachelor's thesis project is a modular automation system that sorts objects
 
 ## [Language Learning Game](Language%20Learning%20Game)
 
-A word puzzle game, "Word Chef," built with Flutter, designed to help users practice and learn languages. This project is a conversion of a game originally developed in Unity.
+A word puzzle game, "Word Chef," built with Flutter, designed to help users practice and learn languages.
 
 ### Gameplay
 Players form words by connecting letters arranged in a circle. The goal is to find all the target words in each level to progress through a series of worlds and sub-worlds.
