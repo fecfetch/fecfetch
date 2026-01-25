@@ -94,6 +94,7 @@ Classic arcade implementations developed using Python and the Pygame library to 
 # 🏅 Certifications
 
 - **eJPT (eLearnSecurity Junior Penetration Tester)**
+- **ISO 27001 Lead Auditor Training Certification**
 - **CompTIA Security+**
 - **ISC2 Certified in Cybersecurity**
 - **IBM Cybersecurity Analyst Professional Certificate**
