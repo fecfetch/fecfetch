@@ -38,7 +38,7 @@ The development process was accelerated with the help of AI, particularly in des
 ### Core Technologies & Features
 -   **Framework**: Built with Flutter for a cross-platform experience on Android and iOS.
 -   **State Management**: Implemented using the `provider` package for scalable and maintainable state management.
--   **Level Generation**: A custom, multilingual level generation system was developed using Dart and Python scripts, with AI assistance to create a diverse and engaging learning experience.
+-   **Level Generation**: A custom, multilingual level generation system was developed using Dart and Python scripts with AI assistance to create a diverse and engaging learning experience.
 -   **Text-to-Speech**: Integrated `flutter_tts` to provide audio pronunciation of words, enhancing the learning process.
 -   **Background Processing**: Used `workmanager` to handle background tasks, ensuring a smooth user experience.
 -   **Monetization**: Incorporated `google_mobile_ads` for displaying ads.
