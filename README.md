@@ -51,27 +51,45 @@ I am a cybersecurity professional with a background in electrical and electronic
 ### Programming & Other
 -   **Languages:** Python, C#, SQL, JavaScript, HTML, CSS
 -   **Tools & Technologies:** Arduino, MATLAB, Pygame, LaTeX, Linux, Shell Scripting
--   **Languages:** Turkish (Native), English (C1), German (B1)
+-   **Languages:** Turkish (Native), English (C1), German (B2)
 
 # 🚀 Projects
 
-### [Language Learning Game](Projects/Language%20Learning%20Game)
-A mobile word puzzle game, built with Flutter, where players form words by connecting letters arranged in a circle. This project is a complete implementation of a "Word Chef" style game, featuring multiple worlds, levels, and a hint system.
+## [Damn Vulnerable MCP Server - Improvements](Projects/Updated-damn-vulnerable-MCP-server)
+A security-focused fork of the DVMCP project for testing vulnerabilities in Model Context Protocol implementations.
+* **Consistency**: Resolved inconsistencies between SSE and regular server implementations.
+* **Realism**: Enhanced "Rug Pull" and "Tool Shadowing" challenges by adding missing resource access tools.
+* **Fixes**: Corrected server class implementations and import failures to ensure fully demonstrable exploit chains.
 
-### [Thesis: PLC + Object Detection](Projects/Thesis%20-%20PLC+Object%20Detection)
-An automation system that sorts objects on a conveyor belt using image processing and a Siemens S7-1200 PLC. A C# application identifies the shape and color of objects, and the PLC controls the sorting mechanism.
+## [Thesis: PLC-Based Object Sorting with Image Processing](Projects/Thesis%20-%20PLC+Object%20Detection)
+An industrial automation system that identifies and sorts objects on a conveyor belt using image processing and a Siemens PLC.
+* **Logic**: Developed a C# application using the AForge.NET library for real-time shape and color detection.
+* **Control**: Integrated a Siemens S7-1200 PLC via Profinet to execute sorting commands based on image data.
 
-### [Arduino Projects](Projects/Arduino)
-A collection of projects including an IoT-enabled LED that can be controlled via SMS, and a comprehensive home automation system with remote and automatic modes for controlling lights, fans, and alarms.
+## [Language Learning Game](Projects/Language%20Learning%20Game)
+"Word Chef," a cross-platform mobile word puzzle game built with Flutter and Dart to facilitate language learning.
+* **Generation**: Features a multilingual level generation system developed using Dart, Python, and AI assistance.
+* **Features**: Includes State Management (Provider), Text-to-Speech (flutter_tts), and local data persistence.
 
-### [Polarization in Communication Channels](Projects/Polarization_in_Communication_Channel_Models)
-A university presentation that analyzes the effects of antenna polarization in communication channel models, with simulations conducted in MATLAB.
+## [Polarization in Communication Channels](Projects/Polarization_in_Communication_Channel_Models)
+A research project evaluating antenna polarization in communication channel models like SCM, SCM-E, and WINNER.
+* **Simulations**: Analyzed the effects of antenna polarization on channel capacity using MATLAB simulations.
+* **Presentation**: Compiled findings into a technical presentation created with LaTeX (Beamer).
 
-### [Clozemaster Browser Extension](Projects/Clozemaster%20Extension)
-A simple browser extension that modifies the HTML/CSS of the Clozemaster language learning website to improve the user experience.
+## [Arduino Projects](Projects/Arduino)
+A collection of hardware and IoT projects, including a GSM-controlled LED system and a comprehensive home automation unit.
+* **Home Automation**: Features a Bluetooth-controlled system with Automatic, Remote, and Alarm modes using LDR and motion sensors.
+* **GSM Control**: Uses a SIM800L module to control hardware via SMS with automated response feedback.
 
-### [Python Games](Projects/Python)
-Classic games, including Snake and Connect Four, built with Pygame.
+## [Matkap Fork](Projects/0x6rss-matkap-fork)
+A fork of the Matkap tool designed for hunting malicious Telegram bots by scanning for leaked Bot Tokens and Chat IDs.
+* **Integration**: Enhanced with FOFA and URLScan integration for more effective discovery.
+* **QoL Updates**: Added manual message ID selection and automatic scan speed adjustments for faster analysis.
+
+## [Python Games](Projects/Python)
+Classic arcade implementations developed using Python and the Pygame library to demonstrate GUI logic and collision handling.
+* **Connect Four**: A two-player implementation with a graphical interface.
+* **Snake**: A timeless game featuring adjustable speeds and score tracking.
 
 # 🏅 Certifications
 
