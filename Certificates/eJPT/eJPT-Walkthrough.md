@@ -1,4 +1,4 @@
-# Hands-On Offensive Security Practice & eJPT Practical Exam Walkthrough
+# eJPT Practical Exam Walkthrough
 
 ## Practical Preparation in Home Lab Environment
 To practice core penetration testing skills prior to taking the eJPT (eLearnSecurity Junior Penetration Tester) practical exam, I built a local virtualized lab using **VirtualBox** to simulate a vulnerable network.
